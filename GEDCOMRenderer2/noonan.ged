@@ -1,0 +1,8438 @@
+0 HEAD
+1 CHAR UTF-8
+1 SOUR Ancestry.com Family Trees
+2 VERS (2010.3)
+2 NAME Ancestry.com Family Trees
+2 CORP Ancestry.com
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI 
+1 BIRT 
+2 DATE 27 07 1998
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 NAME Lachlan Patrick /Noonan/
+1 FAMC @F1@
+0 @P2@ INDI 
+1 BIRT 
+2 DATE 13 Sep 1966
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Suzanne Margaret /Ryan/
+1 FAMC @F16@
+1 FAMS @F1@
+0 @P3@ INDI 
+1 RESI 
+2 DATE 1980
+2 PLAC Ballarat North, Ballarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::82956578
+1 NAME Brian Thomas /Noonan/
+2 SOUR @S1125961328@
+3 _APID 1,1207::82956578
+1 SEX M
+1 BIRT 
+2 DATE 22 Nov 1960
+2 PLAC Ballarat, Victoria, Australia
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P4@ INDI 
+1 SEX F
+1 NAME Mel /Noonan/
+1 FAMC @F1@
+0 @P5@ INDI 
+1 RESI 
+2 DATE 1977
+2 PLAC Ballarat North, Ballarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::89805882
+1 NAME Sylvia Jean /Gunn/
+2 SOUR @S1125961328@
+3 _APID 1,1207::89805882
+1 BIRT 
+2 DATE 31 March 1922
+2 PLAC Ballarat, Victoria, Australia
+1 DEAT 
+2 DATE 8 June 2012
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=5
+1 FAMC @F3@
+1 FAMS @F2@
+0 @P6@ INDI 
+1 BIRT 
+2 DATE 6 March 1923
+2 PLAC St. Kilda, Melbourne, Victoria, Australia
+2 SOUR @S1130714549@
+3 PAGE National Archives of Australia; Canberra, Australia; Second Australian Imperial Force Personnel Dossiers, 1939-1947; Series: B883
+3 _APID 1,61172::1742720
+1 NAME John Patrick /Noonan/
+2 SOUR @S1125961328@
+3 _APID 1,1207::183245907
+2 SOUR @S1130714549@
+3 PAGE National Archives of Australia; Canberra, Australia; Second Australian Imperial Force Personnel Dossiers, 1939-1947; Series: B883
+3 _APID 1,61172::1742720
+1 RESI 
+2 DATE 1922
+2 PLAC St Kilda West, Balaclava, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::183245907
+1 DEAT 
+2 DATE 22 July 1998
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=6
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=6
+1 FAMC @F11@
+1 FAMS @F2@
+0 @P7@ INDI 
+1 BIRT 
+2 DATE 29 August 1934
+2 PLAC Ballarat, Victoria
+1 DEAT 
+2 DATE 30 August 2006
+2 PLAC Ballarat New Cemetery
+1 SEX M
+1 NAME Kevin James /Ryan/
+1 FAMC @F17@
+1 FAMS @F16@
+0 @P8@ INDI 
+1 SEX F
+1 NAME June Louise /Anderson/
+1 FAMC @F18@
+1 FAMS @F16@
+0 @P9@ INDI 
+1 BIRT 
+2 DATE 28 April 1892
+2 PLAC Cork, Ireland
+1 DEAT 
+2 DATE 12 March 1981
+2 PLAC Ballarat, Victoria, Australia
+1 NAME Ellen Mary  (Molly) /Jeffers/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=9
+1 FAMC @F55@
+1 FAMS @F11@
+0 @P10@ INDI 
+1 DEAT 
+2 DATE 19 November 1967
+2 PLAC Ballarat, Victoria, Australia
+1 BIRT 
+2 DATE 1892
+2 PLAC Terang, Victoria, Australia
+1 NAME William Roy (Bill) /Noonan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=10
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=10
+1 FAMC @F12@
+1 FAMS @F11@
+0 @P11@ INDI 
+1 BIRT 
+2 DATE 6 MAY 1948
+2 PLAC Ballarat, VIC, AUS
+1 DEAT 
+2 DATE 10 MAY 1948
+2 PLAC Ballarat, Victoria
+1 NAME Terrence John /NOONAN/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=11
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=11
+1 FAMC @F2@
+0 @P12@ INDI 
+1 BIRT 
+2 DATE 3 January 1897
+2 PLAC Miners Rest, Victoria, Australia
+1 DEAT 
+2 DATE 6 April 1972
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Jessie Maud /Packham/
+1 FAMC @F4@
+1 FAMS @F3@
+0 @P13@ INDI 
+1 NAME Thomas Traill /Gunn/
+1 BIRT 
+2 DATE 14 December 1898
+2 PLAC Broomfield, Victoria, Australia
+1 DEAT 
+2 DATE 13 April 1979
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 FAMC @F8@
+1 FAMS @F3@
+0 @P14@ INDI 
+1 BIRT 
+2 DATE 1867
+2 PLAC Sebastapol
+1 DEAT 
+2 DATE 10 October 1915
+2 PLAC Ballarat
+1 NAME Elizabeth Ann /Johns/
+1 SEX F
+1 FAMC @F57@
+1 FAMS @F8@
+0 @P15@ INDI 
+1 BIRT 
+2 DATE 1864
+2 PLAC Scotchman's Lead
+1 DEAT 
+2 DATE 1948
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 NAME James /Gunn/
+1 FAMC @F9@
+1 FAMS @F8@
+0 @P16@ INDI 
+1 BIRT 
+2 DATE 24 October 1858
+2 PLAC Miner's Rest, Victoria, Australia
+1 DEAT 
+2 DATE 25 July 1932
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Ellen /Flewin/
+1 FAMC @F7@
+1 FAMS @F4@
+0 @P17@ INDI 
+1 BIRT 
+2 DATE 1858
+2 PLAC Avoca, Victoria, Australia
+1 DEAT 
+2 DATE 21 April 1919
+2 PLAC Minyip, Victoria, Australia
+1 SEX M
+1 NAME David /Packham/
+1 FAMC @F5@
+1 FAMS @F4@
+0 @P18@ INDI 
+1 BIRT 
+2 DATE 1815
+2 PLAC Chatham, Kent, England
+1 DEAT 
+2 DATE 19 January 1893
+2 PLAC Kingston, Victoria, Australia
+1 SEX F
+1 NAME Sophia /Wooley/
+1 FAMC @F6@
+1 FAMS @F5@
+0 @P19@ INDI 
+1 BIRT 
+2 DATE 1810
+2 PLAC Chatham, Kent, England
+1 DEAT 
+2 DATE 21 April 1859
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 NAME Samuel /Packham/
+1 FAMC @F81@
+1 FAMS @F5@
+0 @P20@ INDI 
+1 BIRT 
+2 DATE 1826
+2 PLAC Herne Common, Kent, England
+1 DEAT 
+2 DATE 25 March 1901
+2 PLAC Miner's Rest, Victoria, Australia
+1 SEX F
+1 NAME Jane /Blackman/
+1 FAMC @F91@
+1 FAMS @F7@
+0 @P21@ INDI 
+1 BIRT 
+2 DATE November 1824
+2 PLAC Wilmington, Kent, England
+1 DEAT 
+2 DATE 5 October 1919
+2 PLAC Ballarat, Victoria, Australia
+1 NAME George Francis /Flewin/
+1 SEX M
+1 FAMC @F92@
+1 FAMS @F7@
+0 @P22@ INDI 
+1 BIRT 
+2 DATE 1774
+2 PLAC Sussex, England
+1 DEAT 
+2 DATE 1826
+2 PLAC Sussex, England
+1 SEX F
+1 NAME Sarah /Burgess/
+1 FAMS @F81@
+0 @P23@ INDI 
+1 BIRT 
+2 DATE 1768
+2 PLAC Sussex, England
+1 DEAT 
+2 DATE 1820
+2 PLAC Sussex, England
+1 SEX M
+1 NAME Samuel /Packham/
+1 FAMC @F82@
+1 FAMS @F81@
+0 @P24@ INDI 
+1 NAME Anne /Richardson/
+1 SEX F
+1 FAMS @F6@
+0 @P25@ INDI 
+1 BIRT 
+2 PLAC Chatham, Kent, England
+1 DEAT 
+2 PLAC Chatham, Kent, England
+1 SEX M
+1 NAME John /Wooley/
+1 FAMS @F6@
+0 @P26@ INDI 
+1 BIRT 
+2 DATE 1790
+2 PLAC Sutton at Hone, Kent
+1 DEAT 
+2 DATE 25 JUN 1866
+2 PLAC Wilmington, Kent
+1 SEX F
+1 NAME Phillis /Shaves/
+1 FAMC @F93@
+1 FAMS @F92@
+0 @P27@ INDI 
+1 BIRT 
+2 DATE 24 Apr 1787
+2 PLAC Horton Kirkby, Kent, England
+1 DEAT 
+2 DATE 18 Dec 1867
+2 PLAC Wilmington, Kent, , England
+1 SEX M
+1 NAME John /Flewin/
+1 FAMS @F92@
+0 @P28@ INDI 
+1 BIRT 
+2 DATE 1 Apr 1784
+2 PLAC Wilmington, Kent, England
+1 DEAT 
+2 DATE 1874
+1 SEX F
+1 NAME Mary /Weller/
+1 FAMC @F95@
+1 FAMS @F91@
+0 @P29@ INDI 
+1 BIRT 
+2 DATE 22 APR 1781
+2 PLAC Kingsdown, Kent, England
+1 DEAT 
+2 DATE July 1852
+2 PLAC Malling, Kent, United Kingdom
+1 SEX M
+1 NAME Joseph /BLACKMAN/
+1 FAMC @F94@
+1 FAMS @F91@
+0 @P30@ INDI 
+1 BIRT 
+2 DATE 1834
+2 PLAC Inverness, Inverness-shire, Scotland
+1 DEAT 
+2 DATE 1 June 1874
+2 PLAC Ballarat, Victoria, Australia
+1 NAME Jessie /McDonald/
+1 SEX F
+1 FAMC @F246@
+1 FAMS @F9@
+0 @P31@ INDI 
+1 NAME Thomas Traill /Gunn/
+1 BIRT 
+2 DATE 1829
+2 PLAC Thurso, Caithness, Scotland
+1 DEAT 
+2 DATE 14 August 1890
+2 PLAC Broomfield, Victoria, Australia
+1 SEX M
+1 FAMC @F10@
+1 FAMS @F9@
+0 @P32@ INDI 
+1 BIRT 
+2 DATE 1848
+2 PLAC Elderslie, Paisley, Renfrewshire, Scotland
+1 DEAT 
+2 DATE 24 October 1886
+2 PLAC Creswick
+1 SEX F
+1 NAME Sarah Ann /Hyslop/
+1 FAMC @F64@
+1 FAMS @F57@
+0 @P33@ INDI 
+1 BIRT 
+2 DATE 1841
+2 PLAC St Just, Penwithick, Cornwall, England
+1 DEAT 
+2 DATE 16 October 1914
+2 PLAC Creswick
+1 SEX M
+1 NAME Thomas /Johns/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d0e59cc4-2874-4bbb-8dcf-fb304726cdff&tid=151272142&pid=33
+2 FORM jpg
+2 TITL Wedding Certificate 1867
+1 FAMC @F58@
+1 FAMS @F57@
+0 @P34@ INDI 
+1 BIRT 
+2 DATE 1800
+2 PLAC Thurso
+1 SEX F
+1 NAME Ann /Wallace/
+1 FAMS @F10@
+0 @P35@ INDI 
+1 DEAT 
+2 DATE 1864
+1 BIRT 
+2 DATE 1795
+2 PLAC Thurso
+1 SEX M
+1 NAME John /Gunn/
+1 FAMS @F10@
+0 @P36@ INDI 
+1 BIRT 
+2 DATE 1810
+2 PLAC Inverness, HLD, SCT
+1 SEX M
+1 NAME Donald /McDonald/
+1 FAMS @F246@
+0 @P37@ INDI 
+1 BIRT 
+2 DATE 1851
+2 PLAC Warrnambool, Victoria, Australia
+1 DEAT 
+2 DATE 1931
+2 PLAC Geelong, Victoria, Australia
+1 NAME Ester Esther /Hull/
+1 SEX F
+1 FAMC @F149@
+1 FAMS @F12@
+0 @P38@ INDI 
+1 BIRT 
+2 DATE 1838
+2 PLAC Lattin, Tipperary, Ireland
+1 DEAT 
+2 DATE 29 September 1914
+2 PLAC Terang, Victoria, Australia
+1 SEX M
+1 NAME John /Noonan/
+1 FAMC @F13@
+1 FAMS @F12@
+0 @P39@ INDI 
+1 DEAT 
+2 DATE 2007
+1 BIRT 
+2 DATE 1936
+1 NAME Brian James /Noonan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=39
+1 FAMC @F11@
+0 @P40@ INDI 
+1 BIRT 
+2 DATE 28 APR 1927
+2 PLAC Ballarat, VIC, AUS
+1 DEAT 
+2 DATE 16 FEB 1981
+2 PLAC Geelong, VIC, AUS
+1 NAME Elizabeth Ann (Betty) /NOONAN/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=40
+1 FAMC @F11@
+0 @P41@ INDI 
+1 BIRT 
+2 DATE 1925
+1 DEAT 
+2 DATE 1961
+2 PLAC Point Lonsdale (Car Accident)
+1 NAME Patricia Eileen /NOONAN/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=41
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=41
+1 FAMC @F11@
+0 @P42@ INDI 
+1 BIRT 
+2 DATE 18 APR 1921
+2 PLAC Melbourne, VIC, AUS
+1 DEAT 
+2 DATE 28 JAN 2003
+2 PLAC Ballarat, VIC, AUS
+1 NAME Maureen Ester /NOONAN/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=42
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=42
+1 FAMC @F11@
+0 @P43@ INDI 
+1 BIRT 
+2 DATE 1869
+2 PLAC Cork, Ireland
+1 NAME Mary (Molly) /Mullane/
+1 SEX F
+1 FAMC @F79@
+1 FAMS @F55@
+0 @P44@ INDI 
+1 BIRT 
+2 PLAC Tipperary, Ireland
+1 SEX M
+1 NAME Edward /Jeffers/
+1 FAMC @F56@
+1 FAMS @F55@
+0 @P45@ INDI 
+1 BIRT 
+2 DATE 1812
+2 PLAC Lattin, Tipperary, Ireland
+1 DEAT 
+2 DATE 11 September 1895
+2 PLAC Gnarwarre, Victoria, Australia
+1 SEX F
+1 NAME Catherine /Crowe/
+1 FAMC @F14@
+1 FAMS @F13@
+0 @P46@ INDI 
+1 BIRT 
+2 DATE 1802
+2 PLAC Lattin, Tipperary, Ireland
+1 DEAT 
+2 DATE 27 January 1899
+2 PLAC Mount Moriac, Victoria, Australia
+1 SEX M
+1 NAME Daniel /Noonan/
+1 FAMS @F13@
+0 @P47@ INDI 
+1 BIRT 
+2 DATE 1821
+1 DEAT 
+2 DATE 1889
+2 PLAC Warrnambool, Victoria, Australia
+1 SEX F
+1 NAME Julia /Dobbins/
+1 FAMS @F149@
+0 @P48@ INDI 
+1 BIRT 
+2 DATE about  1825
+1 DEAT 
+2 DATE about 1900
+2 PLAC Victoria, Australia
+1 SEX M
+1 NAME William /Hull/
+1 FAMS @F149@
+0 @P49@ INDI 
+1 BIRT 
+2 DATE 1790
+2 PLAC Rathkea, Tipperary, Ireland
+1 DEAT 
+2 DATE 23 March 1872
+2 PLAC Mt, Moriac, Victoria, Australia
+1 SEX F
+1 NAME Mary /Woods/
+1 FAMC @F15@
+1 FAMS @F14@
+0 @P50@ INDI 
+1 BIRT 
+2 DATE 1790
+2 PLAC Tipperary, Ireland
+1 DEAT 
+2 DATE 16 April 1852
+2 PLAC Mount Moriac, Victoria, Australia
+1 SEX M
+1 NAME Patrick /Crowe/
+1 FAMS @F14@
+0 @P51@ INDI 
+1 SEX F
+1 NAME Elizabeth /Ryan/
+1 FAMS @F15@
+0 @P52@ INDI 
+1 SEX M
+1 NAME John /Woods/
+1 FAMS @F15@
+0 @P53@ INDI 
+1 NAME Jessie Campbell /Lang/
+2 SOUR @S1125961328@
+3 _APID 1,1207::82952248
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::911863
+1 RESI 
+2 DATE 1980
+2 PLAC Ballarat North, Ballarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::82952248
+1 BIRT 
+2 DATE Abt 1909
+2 PLAC Stanley, Victoria
+1 DEAT 
+2 DATE 28-12-1991
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=53
+1 FAMC @F23@
+1 FAMS @F18@
+0 @P54@ INDI 
+1 BIRT 
+2 DATE 10 December 1902
+2 PLAC Mt Egerton
+2 SOUR @S1125961604@
+3 _APID 1,1779::1727962
+1 DEAT 
+2 DATE 29 July 1956
+2 PLAC Ballarat, Victoria, Australia
+2 SOUR @S1125961604@
+3 _APID 1,1779::1727962
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1545829
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::313378
+1 NAME Albert Edward /Anderson/
+2 SOUR @S1125961328@
+3 _APID 1,1207::32145897
+2 SOUR @S1125961328@
+3 _APID 1,1207::19300893
+2 SOUR @S1125961604@
+3 _APID 1,1779::1727962
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1545829
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::313378
+1 PROB 
+2 DATE 11 Dec 1956
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::313378
+1 RESI 
+2 DATE 1954
+2 PLAC Ballan, Ballaarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::19300893
+1 RESI 
+2 DATE 1949
+2 PLAC Ballan, Ballaarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::32145897
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=54
+1 FAMC @F19@
+1 FAMS @F18@
+0 @P55@ INDI 
+1 BIRT 
+2 DATE 1906
+2 PLAC Bungaree, Victoria, Australia
+2 SOUR @S1132844722@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+3 _APID 1,61648::1610429
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113724
+1 DEAT 
+2 DATE 6 October 1965
+2 PLAC Ballarat, Victoria, Australia
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1339960
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113724
+1 BURI 
+2 PLAC Ballarat, Ballarat City, Victoria, Australia
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113724
+1 NAME Margaret /Sheridan/
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::1497620
+2 SOUR @S1132844722@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+3 _APID 1,61648::1610429
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1339960
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113724
+1 SEX F
+1 FAMC @F74@
+1 FAMS @F17@
+0 @P56@ INDI 
+1 BIRT 
+2 DATE 14 July 1904
+2 PLAC Ballarat East, Victoria, Australia
+2 SOUR @S1130714549@
+3 PAGE National Archives of Australia; Canberra, Australia; RAAF Personnel files of Non-Commissioned Officers (NCOs) and Other Ranks, 1921-1948; Series: A9301
+3 _APID 1,61172::2059764
+2 SOUR @S1125961541@
+3 _APID 1,1778::1572002
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113725
+1 DEAT 
+2 DATE 22 Apr 1995
+2 PLAC Ballarat
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::830754
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113725
+1 BURI 
+2 PLAC Ballarat, Ballarat City, Victoria, Australia
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113725
+1 NAME James /Ryan/
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::1497621
+2 SOUR @S1125961328@
+3 _APID 1,1207::11162460
+2 SOUR @S1130714549@
+3 PAGE National Archives of Australia; Canberra, Australia; RAAF Personnel files of Non-Commissioned Officers (NCOs) and Other Ranks, 1921-1948; Series: A9301
+3 _APID 1,61172::2059764
+2 SOUR @S1125961541@
+3 _APID 1,1778::1572002
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::830754
+2 SOUR @S1144257560@
+3 _APID 1,60528::170113725
+1 PROB 
+2 DATE 7 Jun 1995
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Victorian Wills, Probate and Administration Records 1841-1925; Series: VPRS 7591
+3 _APID 1,61315::830754
+1 RESI 
+2 DATE 1924
+2 PLAC Lal Lal, Ballaarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::11162460
+1 SEX M
+1 FAMC @F42@
+1 FAMS @F17@
+0 @P57@ INDI 
+1 BIRT 
+2 DATE 1865
+2 PLAC Bungaree, Victoria, Australia
+1 DEAT 
+2 DATE 29 September 1937
+2 PLAC Ballarat, Victoria, Australia
+1 NAME Honora Jane /Ettridge/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=57
+1 FAMC @F44@
+1 FAMS @F42@
+0 @P58@ INDI 
+1 BIRT 
+2 DATE 1865
+2 PLAC Pallas Grean, Limerick, Ireland
+2 SOUR @S1144258320@
+3 PAGE Series: VPRS 7666; Series Title: Inward Overseas Passenger Lists (British Ports) [Microfiche Copy of VPRS 947]
+3 _APID 1,1635::3120437
+1 EVEN 
+2 TYPE Departure
+2 PLAC London
+2 SOUR @S1144258320@
+3 PAGE Series: VPRS 7666; Series Title: Inward Overseas Passenger Lists (British Ports) [Microfiche Copy of VPRS 947]
+3 _APID 1,1635::3120437
+1 EVEN 
+2 TYPE Arrival
+2 DATE 6 Apr 1885
+2 PLAC Adelaide, Melbourne and Sydney, Australia
+2 SOUR @S1144258320@
+3 PAGE Series: VPRS 7666; Series Title: Inward Overseas Passenger Lists (British Ports) [Microfiche Copy of VPRS 947]
+3 _APID 1,1635::3120437
+1 NAME John Joseph /Ryan/
+2 SOUR @S1132844722@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+3 _APID 1,61648::15435333
+2 SOUR @S1144258320@
+3 PAGE Series: VPRS 7666; Series Title: Inward Overseas Passenger Lists (British Ports) [Microfiche Copy of VPRS 947]
+3 _APID 1,1635::3120437
+1 DEAT 
+2 DATE 17 September 1918
+2 PLAC Austin Hospital Heidelberg, Victoria, Australia
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=58
+1 FAMC @F43@
+1 FAMS @F42@
+0 @P59@ INDI 
+1 BIRT 
+2 DATE 1870
+2 PLAC Bungaree, Victoria, Australia
+1 NAME Rebecca May /Fisher/
+1 DEAT 
+2 DATE 1941
+2 PLAC Ballarat East, Victoria, Australia
+1 SEX F
+1 FAMS @F74@
+0 @P60@ INDI 
+1 BIRT 
+2 DATE 1870
+2 PLAC Bungaree, Victoria, Australia
+1 DEAT 
+2 DATE 1955
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 NAME Thomas /Sheridan/
+1 FAMC @F75@
+1 FAMS @F74@
+0 @P61@ INDI 
+1 BIRT 
+2 DATE 27 July 1863
+2 PLAC Dolly Creek, Ballarat
+1 DEAT 
+2 DATE 18 Jan 1940
+2 PLAC Buried at Mt Egerton Victoria
+1 NAME Charlotte Louisa /Vurlow/
+2 SOUR @S1125961553@
+3 _APID 1,1780::4467664
+2 SOUR @S1125961328@
+3 _APID 1,1207::10307900
+2 SOUR @S1125961328@
+3 _APID 1,1207::8886538
+1 RESI 
+2 DATE 1909
+2 PLAC Ballan, Corio, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::8886538
+1 RESI 
+2 DATE 1919
+2 PLAC Ballan, Ballaarat, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::10307900
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=61
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=3618237c-d1e1-4c8e-8138-5e83b2eecea9&tid=151272142&pid=61
+2 FORM htm
+2 TITL Charlotte
+1 FAMC @F20@
+1 FAMS @F19@
+0 @P62@ INDI 
+1 BIRT 
+2 DATE 1862
+2 PLAC Geelong
+1 DEAT 
+2 DATE 27 August 1913
+2 PLAC Mt, Egerton, Victoria, Australia
+1 NAME James /Anderson/
+2 SOUR @S1125961553@
+3 _APID 1,1780::4467664
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=62
+1 FAMC @F46@
+1 FAMS @F19@
+0 @P63@ INDI 
+1 RESI 
+2 DATE 1905
+2 PLAC Stanley, Indi, Victoria, Australia
+2 SOUR @S1125961328@
+3 _APID 1,1207::160834532
+1 NAME Margaret /Sword/
+2 SOUR @S1125961553@
+3 _APID 1,1780::4626908
+2 SOUR @S1125961541@
+3 _APID 1,1778::300257799
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1476926
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::2025458
+2 SOUR @S1125961328@
+3 _APID 1,1207::160834532
+1 DEAT 
+2 DATE 1938
+2 PLAC Beechworth
+2 SOUR @S1132844727@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Death Records
+3 _APID 1,61650::1476926
+1 BIRT 
+2 DATE 1876
+2 PLAC Stanley
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=63
+1 FAMC @F24@
+1 FAMS @F23@
+0 @P64@ INDI 
+1 DEAT 
+2 DATE 12 Nov 1941
+2 PLAC Stanley
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Series: VPRS 7591
+3 _APID 1,61315::1127634
+1 PROB 
+2 DATE 7 Jan 1942
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Series: VPRS 7591
+3 _APID 1,61315::1127634
+1 NAME John /Lang/
+2 SOUR @S1125961541@
+3 _APID 1,1778::673651
+2 SOUR @S1125961553@
+3 _APID 1,1780::631181
+2 SOUR @S1125961557@
+3 PAGE Public Record Office Victoria; North Melbourne, Victoria; Series: VPRS 7591
+3 _APID 1,61315::1127634
+1 BIRT 
+2 DATE Abt 1870
+2 PLAC Stanley, Stanhope, Victoria
+2 SOUR @S1125961541@
+3 _APID 1,1778::673651
+1 SEX M
+1 FAMC @F78@
+1 FAMS @F23@
+0 @P65@ INDI 
+1 BIRT 
+2 DATE Abt 1833
+2 PLAC Greenock, Strathclyde, Scotland
+1 DEAT 
+2 DATE 1918
+2 PLAC Mount Doran, Victoria
+1 SEX F
+1 NAME Jane /Weston/
+1 FAMC @F51@
+1 FAMS @F46@
+0 @P66@ INDI 
+1 BIRT 
+2 DATE Abt 24 Jan 1836
+2 PLAC Perthshire, Scotland
+1 DEAT 
+2 DATE 22 December 1919
+2 PLAC Mt Doran, Victoria
+1 SEX M
+1 NAME Thomas /Anderson/
+1 FAMC @F47@
+1 FAMS @F46@
+0 @P67@ INDI 
+1 NAME Susan Jane /Venville/
+1 BIRT 
+2 DATE 24 August 1841
+2 PLAC Ballack, Victoria, Australia
+1 DEAT 
+2 DATE 1 December 1927
+2 PLAC Mt Egerton
+1 SEX F
+1 FAMC @F22@
+1 FAMS @F20@
+0 @P68@ INDI 
+1 BIRT 
+2 DATE 1838
+2 PLAC Basel, Switzerland
+1 DEAT 
+2 DATE 14 March 1901
+2 PLAC Mt Egerton
+1 SEX M
+1 NAME Alexander /Vurlow/
+1 FAMC @F21@
+1 FAMS @F20@
+0 @P69@ INDI 
+1 BIRT 
+2 DATE Abt 1808
+2 PLAC Switzerland
+1 DEAT 
+2 DATE Abt 1860
+1 SEX F
+1 NAME Mary /Dupurtust/
+1 FAMC @F117@
+1 FAMS @F21@
+0 @P70@ INDI 
+1 BIRT 
+2 DATE Abt 1808
+2 PLAC Switzerland
+1 DEAT 
+2 DATE Abt 1860
+1 SEX M
+1 NAME David /Vurlow/
+1 FAMC @F228@
+1 FAMS @F21@
+0 @P71@ INDI 
+1 BIRT 
+2 DATE 1809
+2 PLAC Great Rissington, Gloucestershire, England
+2 SOUR @S1139353413@
+3 PAGE State Library of Queensland; South Brisbane, Queensland, Australia; Australian Joint Copying Project. Microfilm Roll 89, Class and Piece Number HO11/8, Page Number 2
+3 _APID 1,70852::124303
+1 EVEN 
+2 TYPE Departure
+2 DATE 2 Feb 1831
+2 SOUR @S1139353413@
+3 PAGE State Library of Queensland; South Brisbane, Queensland, Australia; Australian Joint Copying Project. Microfilm Roll 89, Class and Piece Number HO11/8, Page Number 2
+3 _APID 1,70852::124303
+1 EVEN 
+2 TYPE Arrival
+2 DATE 29 May 1831
+2 PLAC Van Diemen's Land
+2 SOUR @S1139353413@
+3 PAGE State Library of Queensland; South Brisbane, Queensland, Australia; Australian Joint Copying Project. Microfilm Roll 89, Class and Piece Number HO11/8, Page Number 2
+3 _APID 1,70852::124303
+1 DEAT 
+2 DATE 21 October 1896
+2 PLAC Mt Egerton
+2 SOUR @S1139353413@
+3 PAGE State Library of Queensland; South Brisbane, Queensland, Australia; Australian Joint Copying Project. Microfilm Roll 89, Class and Piece Number HO11/8, Page Number 2
+3 _APID 1,70852::124303
+1 NAME Richard /Venville/
+2 SOUR @S1139353413@
+3 PAGE State Library of Queensland; South Brisbane, Queensland, Australia; Australian Joint Copying Project. Microfilm Roll 89, Class and Piece Number HO11/8, Page Number 2
+3 _APID 1,70852::124303
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=cdcf44fc-01f1-400e-85e4-4ed4643ad205&tid=151272142&pid=71
+2 FORM jpg
+2 TITL Story of Richard Venville
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=e050e83d-fb79-4ca9-bd80-c8c251fc9aad&tid=151272142&pid=71
+2 FORM htm
+2 TITL Richard Venville&#39;s Story in book &quot;Black Sheep and Gold Diggers&quot; by Barry Allan
+1 FAMC @F52@
+1 FAMS @F22@
+0 @P72@ INDI 
+1 BIRT 
+2 DATE Abt 1823
+2 PLAC Michelmersh, Hampshire, England
+1 DEAT 
+2 DATE 31 July 1883
+2 PLAC Mt Egerton
+1 SEX F
+1 NAME Eliza /Brown/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=1f3bc5ed-0f7d-4c45-8bf4-fdfd91bbf137&tid=151272142&pid=72
+2 FORM jpg
+2 TITL Eliza Venville Grave
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=21eef9f5-f350-4dd5-9275-5173da0f65d2&tid=151272142&pid=72
+2 FORM jpg
+2 TITL Eliza Venville Grave
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8897f789-b9e4-4c9b-a73e-f2ca478796c7&tid=151272142&pid=72
+2 FORM jpg
+2 TITL Eliza Venvill 1883
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a86fe255-a328-4f76-9f4a-e011cf26963e&tid=151272142&pid=72
+2 FORM jpg
+2 TITL VENVILL Eliza
+1 FAMC @F53@
+1 FAMS @F22@
+0 @P73@ INDI 
+1 BIRT 
+2 DATE 1776
+2 PLAC Ormont-Dessous, Vaud, Switzerland
+1 DEAT 
+2 DATE 21 Mar 1847
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX F
+1 NAME Susanne-Catherine /Borloz/
+1 FAMC @F233@
+1 FAMS @F228@
+0 @P74@ INDI 
+1 BIRT 
+2 DATE 1778
+2 PLAC Ormont le dessous (Suisse)
+1 DEAT Y
+2 DATE BEF 1832
+1 SEX M
+1 NAME David /Vurlod/
+1 FAMC @F229@
+1 FAMS @F228@
+0 @P75@ INDI 
+1 BIRT 
+2 DATE 1800
+2 PLAC Timsburry, Hampshire, England
+1 DEAT 
+2 DATE 15 July 1875
+2 PLAC Western Creek, Victoria, Australia
+1 SEX F
+1 NAME Eliza /Griffin/
+1 FAMC @F54@
+1 FAMS @F53@
+0 @P76@ INDI 
+1 BIRT 
+2 DATE 1800
+2 PLAC Hampshire, England
+1 DEAT 
+2 DATE 8 February 1886
+2 PLAC Foxhow, Victoria
+1 SEX M
+1 NAME James /Brown/
+1 FAMC @F73@
+1 FAMS @F53@
+0 @P77@ INDI 
+1 BIRT 
+2 DATE 1776
+2 PLAC Bledington, Glouchestershire, England
+1 DEAT 
+2 DATE 1832
+2 PLAC Gloucester, Glouchestershire, England
+1 SEX F
+1 NAME Mary /Beacham/
+1 FAMC @F65@
+1 FAMS @F52@
+0 @P78@ INDI 
+1 BIRT 
+2 DATE 1781
+2 PLAC Glouchestershire, England
+1 DEAT 
+2 DATE 2 March 1861
+2 PLAC Glouchestershire, England
+1 SEX M
+1 NAME John /Venville/
+1 FAMS @F52@
+0 @P79@ INDI 
+1 BIRT 
+2 DATE 1914
+2 PLAC Stanley Victoria Australia
+1 DEAT 
+2 DATE 1971
+2 PLAC Stanley Victoria Australia
+1 NAME Alexander Jonothan /Lang/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=79
+1 FAMC @F23@
+0 @P80@ INDI 
+1 BIRT 
+2 DATE 1912
+2 PLAC Stanley Victoria Australia
+1 NAME W'Fred Sarah /Lang/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=80
+1 FAMC @F23@
+0 @P81@ INDI 
+1 BIRT 
+2 DATE 1847
+2 PLAC Bury, Lancashire, England
+1 DEAT 
+2 DATE 16 April 1892
+2 PLAC Oxley, Wangaratta Rural City, Victoria, Australia
+1 NAME Sarah Ann /Haworth/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=81
+1 FAMC @F241@
+1 FAMS @F78@
+0 @P82@ INDI 
+1 BIRT 
+2 DATE abt 1838
+2 PLAC Lanarkshire, Scotland
+1 DEAT 
+2 DATE 10 October 1924
+2 PLAC Victoria, Australia
+1 NAME Alexander /Lang/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=82
+1 FAMC @F116@
+1 FAMS @F78@
+0 @P83@ INDI 
+1 BIRT 
+2 DATE 1836
+2 PLAC Dundee,Scotland
+1 DEAT 
+2 DATE 1915
+2 PLAC Stanley Victoria Australia
+1 NAME Jessie Campbell /Patterson/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=83
+1 FAMC @F25@
+1 FAMS @F24@
+0 @P84@ INDI 
+1 BIRT 
+2 DATE 06 Sep 1835
+2 PLAC Falkirk Stirling Scotland
+1 DEAT 
+2 DATE 1895
+2 PLAC Stanley Victoria Australia
+1 NAME Andrew /Sword/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=84
+1 FAMC @F26@
+1 FAMS @F24@
+0 @P85@ INDI 
+1 SEX F
+1 NAME Ann /Dalgleish/
+1 FAMC @F38@
+1 FAMS @F26@
+0 @P86@ INDI 
+1 SEX M
+1 NAME Andrew /Sword/
+1 FAMC @F27@
+1 FAMS @F26@
+0 @P87@ INDI 
+1 BIRT 
+2 DATE 1874
+2 PLAC Stanley Victoria Australia
+1 DEAT 
+2 DATE 1961
+2 PLAC Beechworth,Victoria Australia
+1 NAME James /Sword/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=87
+1 FAMC @F24@
+0 @P88@ INDI 
+1 BIRT 
+2 DATE 1872
+2 PLAC Stanley Victoria Australia
+1 DEAT 
+2 DATE 1875
+2 PLAC Victoria,Australia
+1 NAME Isabella Low /Sword/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=88
+1 FAMC @F24@
+0 @P89@ INDI 
+1 BIRT 
+2 DATE 1870
+2 PLAC Stanley Victoria Australia
+1 DEAT 
+2 DATE 1951
+2 PLAC Beechworth,Victoria Australia
+1 NAME Thomas /Sword/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=89
+1 FAMC @F24@
+0 @P90@ INDI 
+1 BIRT 
+2 DATE 1869
+2 PLAC Stanley Victoria Australia
+1 DEAT 
+2 DATE 1869
+2 PLAC Victoria,Australia
+1 NAME Annie /Sword/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=90
+1 FAMC @F24@
+0 @P91@ INDI 
+1 SEX F
+1 NAME Ann /Morton/
+1 FAMC @F187@
+1 FAMS @F25@
+0 @P92@ INDI 
+1 SEX M
+1 NAME James /Patterson/
+1 FAMS @F25@
+0 @P93@ INDI 
+1 BIRT 
+2 DATE 17 Aug 1760
+2 PLAC Lincolnshire, United Kingdom
+1 SEX F
+1 NAME Elizabeth /Parker/
+1 FAMC @F202@
+1 FAMS @F187@
+0 @P94@ INDI 
+1 BIRT 
+2 DATE abt 1766
+2 PLAC Lincolnshire, England
+1 DEAT 
+2 DATE October 1844
+2 PLAC Boston, Lincolnshire
+1 SEX M
+1 NAME William /Morton/
+1 FAMC @F188@
+1 FAMS @F187@
+0 @P95@ INDI 
+1 SEX F
+1 NAME Margaret /Cox/
+1 FAMC @F203@
+1 FAMS @F27@
+0 @P96@ INDI 
+1 SEX M
+1 NAME Andrew /Sword/
+1 FAMC @F28@
+1 FAMS @F27@
+0 @P97@ INDI 
+1 BIRT 
+2 DATE BEF. 2 Jan 1769
+2 PLAC Bothkennar, Stirlingshire, Scotland
+1 SEX F
+1 NAME Ann /Miller/
+1 FAMC @F40@
+1 FAMS @F38@
+0 @P98@ INDI 
+1 BIRT 
+2 DATE 23 Sep 1763
+2 PLAC Gargunnock, Stirlingshire, Scotland
+1 DEAT 
+2 DATE 20 Jan 1815
+1 SEX M
+1 NAME William /Dalgleish/
+1 FAMC @F39@
+1 FAMS @F38@
+0 @P99@ INDI 
+1 NAME Mary /Mackie/
+1 SEX F
+1 FAMC @F29@
+1 FAMS @F28@
+0 @P100@ INDI 
+1 BIRT 
+2 DATE 6 September 1719
+2 PLAC Falkirk, Stirlingshire, Scotland
+1 DEAT 
+2 DATE April 6 1786
+1 NAME Alexander /Sword/
+1 SEX M
+1 FAMC @F31@
+1 FAMS @F28@
+0 @P101@ INDI 
+1 BIRT 
+2 DATE 19 June 1743
+2 PLAC Barry, Angus, Scotland
+1 DEAT 
+2 DATE 22 DEC 1826
+1 SEX F
+1 NAME Margaret /Rae/
+1 FAMC @F221@
+1 FAMS @F203@
+0 @P102@ INDI 
+1 BIRT 
+2 DATE 2 Jun 1753
+2 PLAC Barry, Angus, , Scotland
+1 DEAT 
+2 DATE 19 Dec 1799
+2 PLAC , Angus, , Scotland
+1 SEX M
+1 NAME William /Sword/
+1 FAMC @F204@
+1 FAMS @F203@
+0 @P103@ INDI 
+1 BIRT 
+2 DATE January 17 1686
+2 PLAC Falkirk, Stirlingshire, Scotland
+1 DEAT 
+2 DATE 1776
+1 SEX F
+1 NAME Catherine /Young/
+1 FAMS @F31@
+0 @P104@ INDI 
+1 NAME Alexander /Sword/
+1 BIRT 
+2 DATE 1672
+1 SEX M
+1 FAMC @F33@
+1 FAMS @F31@
+0 @P105@ INDI 
+1 NAME Jannet /Ged/
+1 BIRT 
+2 DATE 24 Jul 1722
+2 PLAC Tibbermore, Perthshrie, Scotland
+1 SEX F
+1 FAMC @F30@
+1 FAMS @F29@
+0 @P106@ INDI 
+1 SEX M
+1 NAME John /Goram/
+1 FAMS @F29@
+0 @P107@ INDI 
+1 SEX F
+1 NAME Christian /Grigor/
+1 FAMS @F30@
+0 @P108@ INDI 
+1 SEX M
+1 NAME Andrew /Ged/
+1 FAMS @F30@
+0 @P109@ INDI 
+1 BIRT 
+2 DATE 1651
+2 PLAC St Ninians, Stirlingshire, Scotland
+1 SEX F
+1 NAME Janet /Cairns/
+1 FAMC @F113@
+1 FAMS @F33@
+0 @P110@ INDI 
+1 BIRT 
+2 DATE December 3 1643
+2 PLAC Falkirk, Stirlingshire, Scotland
+1 DEAT 
+2 DATE 1676
+1 SEX M
+1 NAME James /Sword/
+1 FAMC @F34@
+1 FAMS @F33@
+0 @P111@ INDI 
+1 BIRT 
+2 DATE 25 October 1678
+2 PLAC Moneydie, Perthshire, Scotland
+1 SEX M
+1 NAME John /Ridoch/
+1 FAMS @F32@
+0 @P112@ INDI 
+1 SEX F
+1 NAME Christian /Kettle/
+1 FAMS @F32@
+0 @P113@ INDI 
+1 NAME Janet /Broune/
+1 BIRT 
+2 DATE 1618
+1 SEX F
+1 FAMC @F37@
+1 FAMS @F34@
+0 @P114@ INDI 
+1 BIRT 
+2 DATE November 3 1608
+2 PLAC Falkirk, Stirlingshire, Scotland
+1 SEX M
+1 NAME Alexander /Sword/
+1 FAMC @F35@
+1 FAMS @F34@
+0 @P115@ INDI 
+1 BIRT 
+2 DATE 1584
+1 SEX F
+1 NAME Janet Helen /Burne/
+1 FAMC @F114@
+1 FAMS @F35@
+0 @P116@ INDI 
+1 BIRT 
+2 DATE 1584
+1 DEAT 
+2 DATE 1635
+1 SEX M
+1 NAME John /Sword/
+1 FAMS @F35@
+0 @P117@ INDI 
+1 BIRT 
+2 DATE 30 JUN 1567
+2 PLAC Dunfermline, Fifeshire, Scotland
+1 DEAT 
+2 DATE Abt. 1660
+2 PLAC , Dunfermline, Fife, Scotland
+1 SEX F
+1 NAME Marjory /Bull/
+1 FAMC @F115@
+1 FAMS @F114@
+0 @P118@ INDI 
+1 BIRT 
+2 DATE 1570
+2 PLAC Dunfermline or Clackmannan
+1 DEAT 
+2 DATE 4 Sep 1663
+1 SEX M
+1 NAME George /Burne/
+1 FAMS @F114@
+0 @P119@ INDI 
+1 BIRT 
+2 DATE 1596
+1 SEX M
+1 NAME James /Broune/
+1 FAMS @F36@
+0 @P120@ INDI 
+1 BIRT 
+2 DATE 1596
+1 SEX F
+1 NAME Mariounne /Scott/
+1 FAMS @F36@
+0 @P121@ INDI 
+1 BIRT 
+2 DATE 1596
+1 SEX F
+1 NAME Mariounne /Scott/
+1 FAMS @F37@
+0 @P122@ INDI 
+1 BIRT 
+2 DATE 1596
+1 SEX M
+1 NAME James /Broune/
+1 FAMS @F37@
+0 @P123@ INDI 
+1 BIRT 
+2 DATE 6 Apr 1629
+2 PLAC St.Ninians.Stirlingshire. Scotland.
+1 SEX F
+1 NAME Agnes /Mitchell/
+1 FAMC @F247@
+1 FAMS @F113@
+0 @P124@ INDI 
+1 BIRT 
+2 DATE abt 1625
+2 PLAC Saint Ninians, Stirlingshire, Scotland
+1 SEX M
+1 NAME John /Cairnes/ I
+1 FAMS @F113@
+0 @P125@ INDI 
+1 BIRT 
+2 DATE 1743
+1 SEX F
+1 NAME Janet /Miller/
+1 FAMS @F39@
+0 @P126@ INDI 
+1 BIRT 
+2 DATE 1737
+1 SEX M
+1 NAME William /Dalgleish/
+1 FAMS @F39@
+0 @P127@ INDI 
+1 BIRT 
+2 DATE Bef. 16 Nov 1744
+1 SEX F
+1 NAME Margaret /Hardie/
+1 FAMC @F41@
+1 FAMS @F40@
+0 @P128@ INDI 
+1 SEX M
+1 NAME John /Miller/
+1 FAMS @F40@
+0 @P129@ INDI 
+1 SEX F
+1 NAME Christian /Liddle/
+1 FAMS @F41@
+0 @P130@ INDI 
+1 SEX M
+1 NAME William /Hardy/
+1 FAMS @F41@
+0 @P131@ INDI 
+1 BIRT 
+2 PLAC Loughshinny, Dublin, Ireland
+1 DEAT 
+2 DATE 14 April 1886
+1 SEX F
+1 NAME Catherine /Leary/
+1 FAMS @F43@
+0 @P132@ INDI 
+1 BIRT 
+2 DATE 1830
+1 DEAT 
+2 DATE 27 March 1887
+2 PLAC Limerick, Limerick, Ireland
+1 SEX M
+1 NAME John /Ryan/
+1 FAMS @F43@
+0 @P133@ INDI 
+1 BIRT 
+2 DATE 1897
+2 PLAC Victoria, Australia
+2 SOUR @S1132844722@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+3 _APID 1,61648::435333
+1 NAME Nora /Ryan/
+2 SOUR @S1132844722@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Birth Records
+3 _APID 1,61648::435333
+1 FAMC @F42@
+0 @P134@ INDI 
+1 BIRT 
+2 DATE 1835
+2 PLAC Clare, Ireland
+1 DEAT 
+2 DATE 26 November 1870
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Adora /Moore/
+1 FAMS @F44@
+0 @P135@ INDI 
+1 BIRT 
+2 DATE 14 July 1835
+2 PLAC Gravesend, Kent, England
+1 DEAT 
+2 DATE 14 December 1907
+2 PLAC Lyonville, Victoria, Australia
+1 SEX M
+1 NAME Thomas John /Ettridge/
+1 FAMC @F45@
+1 FAMS @F44@
+0 @P136@ INDI 
+1 RESI 
+2 PLAC South Australia, Australia
+2 SOUR @S1132703063@
+3 _APID 1,1975::3061
+1 NAME Thomas /Ettridge/
+2 SOUR @S1132703063@
+3 _APID 1,1975::3061
+1 BIRT 
+2 DATE 8 February 1804
+1 DEAT 
+2 DATE 15 February 1880
+2 PLAC Port Lincoln, South Australia, Australia
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=87a8929a-98d7-466a-9901-8d2448cae949&tid=151272142&pid=136
+2 FORM htm
+2 TITL Travelling to Australia by Ship
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b096172b-0263-4320-9d1e-71bc42c39ce0&tid=151272142&pid=136
+2 FORM jpg
+2 TITL Newspaper article connected to Thomas, Adelaide Advertiser 14th Feb 1947
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=document&guid=e69eae81-7d48-4373-96b0-782bc5784263&tid=151272142&pid=136
+2 FORM doc
+2 TITL South Australian Weekly Chronicle_21 April 1860
+1 FAMC @F248@
+1 FAMS @F45@
+0 @P137@ INDI 
+1 BIRT 
+2 DATE 1806
+1 DEAT 
+2 DATE 26/8/1882
+2 PLAC Port Lincoln, South Australia, Australia
+1 SEX F
+1 NAME Rebecca /Wybrow/
+1 FAMS @F45@
+0 @P138@ INDI 
+1 BIRT 
+2 DATE 1770
+2 PLAC Milton, Kent, England, or, Good Easter, Essex, England
+1 DEAT 
+2 DATE July 1855
+2 PLAC Essex, United Kingdom
+1 SEX M
+1 NAME Joseph /Ettridge/
+1 FAMS @F248@
+0 @P139@ INDI 
+1 BIRT 
+2 DATE 1795
+2 PLAC Tibbermore, Perthshrie, Scotland
+1 DEAT 
+2 DATE Jun 1873
+2 PLAC Geelong
+1 SEX F
+1 NAME Margaret /Guthrie/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0e3973c2-f701-4662-acc9-04155290df82&tid=151272142&pid=139
+2 FORM jpg
+2 TITL Margaret Anderson nee Guthrie 1795-1872
+1 FAMC @F50@
+1 FAMS @F47@
+0 @P140@ INDI 
+1 BIRT 
+2 DATE 1791
+2 PLAC Perthshire, Scotland
+1 DEAT 
+2 DATE Abt 1875
+2 PLAC Geelong
+1 SEX M
+1 NAME William /Anderson/
+1 FAMC @F48@
+1 FAMS @F47@
+0 @P141@ INDI 
+1 BIRT 
+2 DATE Abt 1757
+2 PLAC Perthshire, Scotland
+1 SEX F
+1 NAME Ann /Wright/
+1 FAMC @F49@
+1 FAMS @F48@
+0 @P142@ INDI 
+1 BIRT 
+2 DATE Abt 1757
+2 PLAC Perth, Perthshire, Scotland
+1 SEX M
+1 NAME Alexander /Anderson/
+1 FAMC @F249@
+1 FAMS @F48@
+0 @P143@ INDI 
+1 BIRT 
+2 DATE 1730
+2 PLAC Angus, Scotland
+1 DEAT 
+2 DATE 2 Jan 1806
+2 PLAC Broughty Ferry, Angus, Scotland
+1 SEX M
+1 NAME Alexander /Anderson/
+1 FAMS @F249@
+0 @P144@ INDI 
+1 SEX F
+1 NAME Christean /Wadie/
+1 FAMS @F49@
+0 @P145@ INDI 
+1 BIRT 
+2 DATE 1718
+2 PLAC Carrington, Midlothian, Scotland
+1 SEX M
+1 NAME David /Wright/
+1 FAMS @F49@
+0 @P146@ INDI 
+1 BIRT 
+2 DATE Abt 1772
+2 PLAC Keith, Banffshire, Scotland
+1 SEX F
+1 NAME Margaret /Miller/
+1 FAMS @F50@
+0 @P147@ INDI 
+1 BIRT 
+2 DATE Abt 1770
+2 PLAC Keith, Banffshire, Scotland
+1 SEX M
+1 NAME James /Guthrie/
+1 FAMS @F50@
+0 @P148@ INDI 
+1 BIRT 
+2 DATE Abt 1800
+1 SEX F
+1 NAME Janet /Kennedy/
+1 FAMC @F237@
+1 FAMS @F51@
+0 @P149@ INDI 
+1 BIRT 
+2 DATE Abt 1800
+1 SEX M
+1 NAME Robert /Weston/
+1 FAMS @F51@
+0 @P150@ INDI 
+1 BIRT 
+2 DATE 05 Oct 1783
+2 PLAC Colmonell, Ayrshire, Scotland, United Kingdom
+1 SEX F
+1 NAME Jane /Murdock/
+1 FAMS @F237@
+0 @P151@ INDI 
+1 BIRT 
+2 DATE About 1782
+2 PLAC Dailly, Ayrshire, Scotland
+1 DEAT cause unknown aged 77
+2 DATE 1 april 1865
+2 PLAC Kirkoswald, Ayrshire, Scotland
+1 SEX M
+1 NAME William /Kennedy/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=04b65b64-32bb-43b0-a7ff-46ed968a78de&tid=151272142&pid=151
+2 FORM jpg
+2 TITL William Kennedy death 1865
+1 FAMC @F250@
+1 FAMS @F237@
+0 @P152@ INDI 
+1 BIRT 
+2 DATE 1790
+2 PLAC Switzerland
+1 SEX F
+1 NAME Susanne Marie /Morex/
+1 FAMS @F117@
+0 @P153@ INDI 
+1 BIRT 
+2 DATE 1790
+2 PLAC Switzerland
+1 SEX M
+1 NAME Jean Emanuel /Dupertuis/
+1 FAMS @F117@
+0 @P154@ INDI 
+1 NAME Ann /Bull/
+1 SEX F
+1 FAMS @F65@
+0 @P155@ INDI 
+1 BIRT 
+2 DATE 1746
+2 PLAC Bledington, Gloucestershire, England
+1 DEAT 
+2 DATE 1783
+1 SEX M
+1 NAME Benjamin /Beauchamp/
+1 FAMC @F66@
+1 FAMS @F65@
+0 @P156@ INDI 
+1 BIRT 
+2 DATE 1774
+2 PLAC Hampshire, England
+1 SEX M
+1 NAME James /Brown/
+1 FAMS @F73@
+0 @P157@ INDI 
+1 BIRT 
+2 DATE 1771
+2 PLAC Dounston, Wiltshire, England
+1 DEAT 
+2 DATE 1829
+2 PLAC St Marys, Paddington Green, Westminster
+1 SEX F
+1 NAME Sophia /Crowther/
+1 FAMC @F251@
+1 FAMS @F73@
+0 @P158@ INDI 
+1 SEX F
+1 NAME Margery  /Osburn/
+1 FAMS @F54@
+0 @P159@ INDI 
+1 BIRT 
+2 DATE 1774
+2 PLAC Godshill (Near Newport), Hampshire, England
+1 SEX M
+1 NAME James /Griffin/
+1 FAMS @F54@
+0 @P160@ INDI 
+1 SEX F
+1 NAME Ellen /O'Brien/
+1 FAMS @F56@
+0 @P161@ INDI 
+1 BIRT 
+2 PLAC Ireland
+1 SEX M
+1 NAME Edward /Jeffers/
+1 FAMS @F56@
+0 @P162@ INDI 
+1 SEX F
+1 NAME Elizabeth (Ellen) /Healy/
+1 FAMC @F80@
+1 FAMS @F79@
+0 @P163@ INDI 
+1 BIRT 
+2 PLAC Ireland
+1 SEX M
+1 NAME Cornelius /Mullane/
+1 FAMS @F79@
+0 @P164@ INDI 
+1 BIRT 
+2 DATE 1807
+2 PLAC St Just, Cornwall, England
+1 DEAT 
+2 DATE 2 May 1891
+2 PLAC Clunes Rd, North Creswick, Creswick
+1 NAME Grace /Williams/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=164
+1 FAMC @F63@
+1 FAMS @F58@
+0 @P165@ INDI 
+1 BIRT 
+2 DATE 1809
+2 PLAC St Just, Penwithick, Cornwall, England
+1 DEAT 
+2 DATE 10 Sep 1881
+2 PLAC Creswick
+1 NAME Francis /Johns/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=165
+1 FAMC @F59@
+1 FAMS @F58@
+0 @P166@ INDI 
+1 BIRT 
+2 DATE 9 April 1780
+2 PLAC Cornwall, England
+1 DEAT 
+2 PLAC St. Keverne, Cornwall, England
+1 SEX F
+1 NAME Jane /Carlyon/
+1 FAMC @F252@
+1 FAMS @F59@
+0 @P167@ INDI 
+1 BIRT 
+2 DATE 1777
+2 PLAC Ruan Minor, Cornwall, England
+1 SEX M
+1 NAME Francis /Johns/
+1 FAMC @F60@
+1 FAMS @F59@
+0 @P168@ INDI 
+1 BIRT 
+2 PLAC Ruan Minor
+1 SEX F
+1 NAME Elizabeth /Willey/
+1 FAMS @F60@
+0 @P169@ INDI 
+1 BIRT 
+2 DATE 1752
+2 PLAC Ruan Minor, Cornwall, England
+1 SEX M
+1 NAME John /Johns/
+1 FAMC @F61@
+1 FAMS @F60@
+0 @P170@ INDI 
+1 SEX F
+1 NAME Mary
+1 FAMS @F61@
+0 @P171@ INDI 
+1 SEX M
+1 NAME John /Johns/
+1 FAMC @F253@
+1 FAMS @F61@
+0 @P172@ INDI 
+1 BIRT 
+2 DATE bp 20.9.1707
+2 PLAC st keverne cornwall
+1 DEAT 
+2 PLAC Manaccan, Cornwall, England
+1 SEX M
+1 NAME john /john/
+1 FAMC @F238@
+1 FAMS @F253@
+0 @P173@ INDI 
+1 BIRT 
+2 DATE 1749
+2 PLAC St Keverne, Cornwall, England, United Kingdom
+1 DEAT 
+2 DATE 3 December 1840
+2 PLAC Tregidden, St Keverne, Cornwall
+1 SEX M
+1 NAME Sampson /Carlyon/
+1 FAMC @F62@
+1 FAMS @F252@
+0 @P174@ INDI 
+1 BIRT 
+2 DATE 1723
+2 PLAC Meneage, Cornwall, , England
+1 DEAT 
+2 DATE 9 May 1787
+2 PLAC St Keverne, Cornwall, , England
+1 NAME Margaret /Rogers/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=174
+1 FAMC @F153@
+1 FAMS @F62@
+0 @P175@ INDI 
+1 BIRT 
+2 DATE 1722
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE 11 June 1777
+2 PLAC St.Keverne, County of, Cornwall, England
+1 MARR 
+2 DATE 1810
+2 PLAC St Martin In Meneage
+1 NAME William /Carlyon/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=175
+1 FAMC @F151@
+1 FAMS @F62@
+0 @P176@ INDI 
+1 BIRT 
+2 DATE 24 Jul 1680
+2 PLAC Redruth, Cornwall, , England
+1 NAME Ann /Boden/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=176
+1 FAMC @F155@
+1 FAMS @F151@
+0 @P177@ INDI 
+1 BIRT 
+2 DATE 12 Mar 1675
+2 PLAC St Keverne, Cornwall, England
+1 DEAT 
+2 DATE 1735
+2 PLAC Cornwall, England
+1 NAME William /Carlyon/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=177
+1 FAMC @F152@
+1 FAMS @F151@
+0 @P178@ INDI 
+1 BIRT 
+2 DATE 06 Oct 1689
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 3 Sep 1749
+2 PLAC Mawgan In Meneage, Cornwall, England
+1 SEX F
+1 NAME Margery /Dunstone/
+1 FAMC @F254@
+1 FAMS @F153@
+0 @P179@ INDI 
+1 BIRT 
+2 DATE 13 Dec 1689
+2 PLAC Mawgan In Meneage, Cornwall, England
+1 DEAT 
+2 DATE 21 Nov 1755
+2 PLAC Mawgan in Meneage, Cornwall, England
+1 SEX M
+1 NAME Sampson /Rogers/
+1 FAMC @F255@
+1 FAMS @F153@
+0 @P180@ INDI 
+1 BIRT 
+2 DATE 1785
+2 PLAC St Just in Penwith, Cornwall, England
+1 DEAT 
+2 DATE Jan 1866
+2 PLAC Penzance, Cornwall, England
+1 NAME Mary /Jenken/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=180
+1 FAMC @F118@
+1 FAMS @F63@
+0 @P181@ INDI 
+1 BIRT 
+2 DATE 1781
+2 PLAC St Just in Penwith, Cornwall, England
+1 DEAT 
+2 PLAC Cornwall, England
+1 NAME John /Williams/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=181
+1 FAMS @F63@
+0 @P182@ INDI 
+1 BIRT 
+2 DATE Abt. 1754
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE April 1852
+2 PLAC Penzance, Cornwall, England
+1 SEX F
+1 NAME Mary /Pascoe/
+1 FAMC @F147@
+1 FAMS @F118@
+0 @P183@ INDI 
+1 BIRT 
+2 DATE 1749
+2 PLAC Illogan, Cornwall
+1 DEAT 
+2 DATE 3 Nov 1823
+2 PLAC Illogan Downs, Illogan, Cornwall, England
+1 SEX M
+1 NAME Henry William /Jenkin/
+1 FAMC @F119@
+1 FAMS @F118@
+0 @P184@ INDI 
+1 SEX F
+1 NAME Anne /Smith/
+1 FAMS @F64@
+0 @P185@ INDI 
+1 SEX M
+1 NAME John /Hislop/
+1 FAMC @F234@
+1 FAMS @F64@
+0 @P186@ INDI 
+1 BIRT 
+2 DATE 1787
+2 PLAC Derry, 5296, Ireland
+1 DEAT 
+2 DATE 10 Sep 1860
+2 PLAC 19 Williamsburgh Tce, Paisley, Renfrewshire, Scotland
+1 SEX F
+1 NAME Margaret /Walkinshaw/
+1 FAMC @F240@
+1 FAMS @F234@
+0 @P187@ INDI 
+1 BIRT 
+2 DATE 1791
+2 PLAC Derry, Cavan, Ireland
+1 DEAT 
+2 DATE 19 May 1863
+2 PLAC Abbey Poorhouse, Paisley, Renfrewshire, Scotland
+1 SEX M
+1 NAME William /Hislop/
+1 FAMC @F256@
+1 FAMS @F234@
+0 @P188@ INDI 
+1 BIRT 
+2 DATE 16 March 1705
+2 PLAC Bledington, Gloucestershire, England
+1 DEAT 
+2 DATE 23 January 1773
+2 PLAC Bledington, Gloucs, England
+1 SEX F
+1 NAME Mary /Rose/
+1 FAMC @F71@
+1 FAMS @F66@
+0 @P189@ INDI 
+1 BIRT 
+2 DATE 1703
+2 PLAC Condicote, Gloucestershire, England
+1 DEAT 
+2 DATE 10 October 1771
+2 PLAC Bledington, Gloucestershire, England
+1 SEX M
+1 NAME John /Beauchamp/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8ba9a5b9-00eb-4474-9a76-3b7cf25677bb&tid=151272142&pid=189
+2 FORM jpg
+2 TITL Condicote church
+1 FAMC @F67@
+1 FAMS @F66@
+0 @P190@ INDI 
+1 BIRT 
+2 DATE 1680
+2 PLAC Turkdean, Gloucestershire, England
+1 DEAT 
+2 DATE October 1729
+2 PLAC Condiciote, Gloucestershire, England
+1 SEX F
+1 NAME Sarah /Mansell/
+1 FAMC @F68@
+1 FAMS @F67@
+0 @P191@ INDI 
+1 BIRT 
+2 DATE 1675
+2 PLAC Bledington, Gloucestershire, England
+1 DEAT 
+2 DATE Aug 1736
+1 SEX M
+1 NAME Richard /Beauchamp/
+1 FAMC @F257@
+1 FAMS @F67@
+0 @P192@ INDI 
+1 BIRT 
+2 DATE 16 Dec 1623
+2 PLAC Pulborough, Sussex, England
+1 DEAT 
+2 DATE 1717
+2 PLAC , , , England
+1 SEX M
+1 NAME Richard /Beauchampe/
+1 FAMC @F258@
+1 FAMS @F257@
+0 @P193@ INDI 
+1 BIRT 
+2 DATE September 1645
+2 PLAC Farmington, Gloucestershire, England
+1 DEAT 
+2 DATE September 1711
+2 PLAC Turkdean, Gloucestershire, England
+1 SEX F
+1 NAME Sarah /Spencer/
+1 FAMC @F70@
+1 FAMS @F68@
+0 @P194@ INDI 
+1 BIRT 
+2 DATE 31 December 1642
+2 PLAC Turkdean, Gloucestershire, England
+1 DEAT 
+2 DATE July 1729
+2 PLAC Turkdean, Gloucestershire, England
+1 SEX M
+1 NAME Henry /Mansell/
+1 FAMC @F69@
+1 FAMS @F68@
+0 @P195@ INDI 
+1 BIRT 
+2 DATE 1611
+1 DEAT 
+2 DATE 1646
+1 SEX M
+1 NAME Walter /Mansell/
+1 FAMC @F111@
+1 FAMS @F69@
+0 @P196@ INDI 
+1 BIRT 
+2 DATE 1620
+2 PLAC Charlton Kings, Gloucestershire, England, United Kingdom
+1 SEX F
+1 NAME Ann /Evans/
+1 FAMS @F69@
+0 @P197@ INDI 
+1 BIRT 
+2 DATE 11 Jan 1572
+2 PLAC Eastleach Martin, Gloucestershire, England
+1 DEAT 
+2 DATE Sep 1658
+2 PLAC Turkdean, Gloucestershire, England
+1 BURI 
+2 DATE 12 Sep 1658
+2 PLAC Turkdean, Gloucestershire, England
+1 SEX F
+1 NAME Alice /Lapworth/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=92df4ccf-bc22-42c6-bc6a-c78c18ca6c58&tid=151272142&pid=197
+2 FORM jpg
+2 TITL Alice
+1 FAMC @F112@
+1 FAMS @F111@
+0 @P198@ INDI 
+1 BIRT 
+2 DATE 28 Dec 1540
+2 PLAC Carlton Kings, Gloucs
+1 DEAT 
+2 DATE abt 1615
+1 BURI 
+2 DATE 15 Jan 1615
+2 PLAC Turkdean, Gloucestershire, England
+1 SEX M
+1 NAME WILLIAM /Mansell/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=cc412ac1-ac1f-43c4-8bf3-d4104244ef3f&tid=151272142&pid=198
+2 FORM jpg
+2 TITL William
+1 FAMS @F111@
+0 @P199@ INDI 
+1 BIRT 
+2 DATE 1615
+2 PLAC Gloucestershire, England
+1 DEAT 
+2 DATE March 1657
+2 PLAC Farmington, Gloucestershire, England
+1 SEX F
+1 NAME Barbara
+1 FAMS @F70@
+0 @P200@ INDI 
+1 BIRT 
+2 DATE 1615
+2 PLAC Gloucestershire, England
+1 DEAT 
+2 DATE March 1657
+2 PLAC Farmington, Gloucestershire, England
+1 SEX M
+1 NAME Robert /Spencer/
+1 FAMC @F259@
+1 FAMS @F70@
+0 @P201@ INDI 
+1 BIRT 
+2 DATE 1585
+2 PLAC Farmington, Gloucestershire, England
+1 SEX M
+1 NAME /Spencer/
+1 FAMS @F259@
+0 @P202@ INDI 
+1 BIRT 
+2 DATE 1675
+1 DEAT 
+2 DATE 24 Sep 1723
+2 PLAC Bledington
+1 SEX F
+1 NAME Anne
+1 FAMS @F71@
+0 @P203@ INDI 
+1 BIRT 
+2 DATE 1675
+2 PLAC Burton on the Water
+1 DEAT 
+2 DATE February 1732
+2 PLAC Bledington
+1 SEX M
+1 NAME Christopher /Rose/
+1 FAMC @F72@
+1 FAMS @F71@
+0 @P204@ INDI 
+1 BIRT 
+2 PLAC Burton on the Water
+1 SEX M
+1 NAME William /Rose/
+1 FAMC @F235@
+1 FAMS @F72@
+0 @P205@ INDI 
+1 BIRT 
+2 DATE abt 1649
+2 PLAC Chipping Camden, Gloucestershire, England
+1 DEAT 
+2 DATE Jun 1698
+2 PLAC Bourton On The Water, Gloucestershire, England
+1 SEX F
+1 NAME Hester /Kite/ *8
+1 FAMS @F72@
+0 @P206@ INDI 
+1 DEAT 
+2 DATE Nov 1675
+2 PLAC Chipping Campden, Gloucestershire, England
+1 SEX F
+1 NAME Margaret /Auaris/
+1 FAMS @F235@
+0 @P207@ INDI 
+1 BIRT 
+2 DATE 1608
+2 PLAC Clapton, Gloucestershire, England
+1 DEAT 
+2 PLAC Chipping Campden, Gloucestershire, England
+1 SEX M
+1 NAME John /Rose/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6b430810-9251-434c-8ea9-d0205b0fea79&tid=151272142&pid=207
+2 FORM jpg
+2 TITL Rose Family Crest
+1 FAMS @F235@
+0 @P208@ INDI 
+1 RESI 
+2 DATE 1913
+2 PLAC Victoria, Australia
+2 SOUR @S1126533610@
+3 _APID 1,60845::36337176
+1 NAME Ann /O'Brien/
+2 SOUR @S1126533610@
+3 _APID 1,60845::36337176
+1 BIRT 
+2 DATE 1835
+2 PLAC Dunboyne, Meath, Ireland
+1 DEAT 
+2 DATE 1924
+2 PLAC Ballarat East, Victoria, Australia
+1 SEX F
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=038a35e5-ab57-476d-a0bc-82650d01b7a5&tid=151272142&pid=208
+2 FORM jpg
+2 TITL 5B447408-88F4-4C72-923A-60D5924EDEDB
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3ccede70-0551-4430-a8e5-74cf4c64b456&tid=151272142&pid=208
+2 FORM jpg
+2 TITL 48B07683-17F0-441F-AC07-EE80A143F799
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4a185809-fdbc-4c5c-946a-b30ac86ca854&tid=151272142&pid=208
+2 FORM jpg
+2 TITL 98CA804E-8A2D-4DB3-BED7-899700FB154B
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b24ec73d-d4d4-43fe-8588-705ce2a4a1bc&tid=151272142&pid=208
+2 FORM jpg
+2 TITL 518E1F83-B787-486C-BE1A-664F3ECDA926
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=c7024bea-7a5f-4f3b-b7e1-f5bcfc04cef1&tid=151272142&pid=208
+2 FORM jpg
+2 TITL 4 Generations
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d1e75c7d-7bcd-4b26-8a36-97b6302ee2ce&tid=151272142&pid=208
+2 FORM jpg
+2 TITL Anne O’Brien Sheridan
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e8d6fc88-6302-414e-969b-604d4014f0cb&tid=151272142&pid=208
+2 FORM jpg
+2 TITL Obituary 
+1 FAMC @F77@
+1 FAMS @F75@
+0 @P209@ INDI 
+1 NAME Michael /Sheridan/
+2 SOUR @S1125961585@
+3 _APID 1,2195::1104441
+2 SOUR @S1125961604@
+3 _APID 1,1779::1129273
+2 SOUR @S1125961541@
+3 _APID 1,1778::150414854
+1 BIRT 
+2 DATE 1826
+2 PLAC Moynalty, Meath, Ireland
+2 SOUR @S1125961585@
+3 _APID 1,2195::1104441
+2 SOUR @S1125961604@
+3 _APID 1,1779::1129273
+1 DEAT 
+2 DATE 1877
+2 PLAC Hamilton, Victoria, Australia
+2 SOUR @S1125961604@
+3 _APID 1,1779::1129273
+1 BAPM 
+2 DATE 2 Nov 1826
+2 SOUR @S1125961585@
+3 _APID 1,2195::1104441
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=628f3c7a-856d-4b90-90a1-62f521af8bee&tid=151272142&pid=209
+2 FORM jpg
+2 TITL Liquor licence application
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=8b9f4639-069b-4e1e-a356-626504c266e8&tid=151272142&pid=209
+2 FORM jpg
+2 TITL All Nations Hotel
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=cd5cce5b-a0f4-42ab-afcd-87ca40c4f8c1&tid=151272142&pid=209
+2 FORM jpg
+2 TITL Shocking fatal accident
+1 FAMC @F76@
+1 FAMS @F75@
+0 @P210@ INDI 
+1 BIRT 
+2 DATE 1795
+2 PLAC Meath, Ireland
+1 SEX F
+1 NAME Mary /Rourke/
+1 FAMC @F110@
+1 FAMS @F76@
+0 @P211@ INDI 
+1 BIRT 
+2 DATE 1795
+1 DEAT 
+2 PLAC Meath, Ireland
+1 NAME Cornelius /Sheridan/
+2 SOUR @S1125961638@
+3 PAGE National Library of Ireland; Dublin, Ireland; Irish Catholic Parish Registers; Microfilm Number: Microfilm 04178 / 01
+3 _APID 1,61039::153260824
+1 SEX M
+1 FAMC @F109@
+1 FAMS @F76@
+0 @P212@ INDI 
+1 SEX F
+1 NAME Mary
+1 FAMS @F77@
+0 @P213@ INDI 
+1 SEX M
+1 NAME Thomas /O'Brien/
+1 FAMC @F260@
+1 FAMS @F77@
+0 @P214@ INDI 
+1 BIRT 
+2 DATE 1770
+2 PLAC Ireland
+1 SEX F
+1 NAME Ann /McQuire/
+1 FAMS @F109@
+0 @P215@ INDI 
+1 BIRT 
+2 DATE 1770
+2 PLAC Killinkere, County, Cavan, Ireland
+1 SEX M
+1 NAME John /Sheridan/
+1 FAMS @F109@
+0 @P216@ INDI 
+1 SEX F
+1 NAME Catherine
+1 FAMS @F110@
+0 @P217@ INDI 
+1 BIRT 
+2 DATE 1770
+2 PLAC Meath, Ireland
+1 SEX M
+1 NAME James /Rourke/
+1 FAMS @F110@
+0 @P218@ INDI 
+1 NAME Thomas Patrick /O'Brien/
+1 BIRT 
+2 DATE 1790
+2 PLAC Bennettstown, Dunboyne, County, Meath, Ireland
+1 DEAT 
+2 PLAC Bennettstown, Dunboyne, County, Meath, Ireland
+1 SEX M
+1 FAMS @F260@
+0 @P219@ INDI 
+1 BIRT 
+2 DATE 1816
+1 SEX F
+1 NAME Jean /Lang/
+1 FAMC @F245@
+1 FAMS @F116@
+0 @P220@ INDI 
+1 BIRT 
+2 DATE Abt. 1814
+1 SEX M
+1 NAME Alexander /Lang/
+1 FAMS @F116@
+0 @P221@ INDI 
+1 BIRT 
+2 DATE 28 Mar 1825
+2 PLAC Bury, Lancashire, England
+1 DEAT http://trove.nla.gov.au/newspaper/article/201477846?
+2 DATE 18 Oct 1902
+2 PLAC Stanley, Victoria, Australia
+1 SEX F
+1 NAME Alice /Booth/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=76951790-1a8b-49df-9ed5-060adc8744a9&tid=151272142&pid=221
+2 FORM jpg
+2 TITL memory
+1 FAMC @F244@
+1 FAMS @F241@
+0 @P222@ INDI 
+1 BIRT 
+2 DATE 1822
+2 PLAC Over Darwen, Lancashire, England
+1 DEAT Age: 82
+2 DATE 25 Oct 1904
+2 PLAC Stanley, Victoria, Australia
+1 SEX M
+1 NAME George /Haworth/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=723e6597-d3bc-49b2-bada-88378706fdd5&tid=151272142&pid=222
+2 FORM jpg
+2 TITL death notice
+1 FAMC @F242@
+1 FAMS @F241@
+0 @P223@ INDI 
+1 SEX F
+1 NAME Hannah /McAuliffe/
+1 FAMS @F80@
+0 @P224@ INDI 
+1 SEX M
+1 NAME Patrick /Healy/
+1 FAMS @F80@
+0 @P225@ INDI 
+1 BIRT 
+2 DATE 1730
+2 PLAC Eastbourne, Sussex, , England, 
+1 DEAT 
+2 DATE ?
+2 PLAC Willingdon, Sussex, England
+1 SEX F
+1 NAME Hannah /King/
+1 FAMS @F82@
+0 @P226@ INDI 
+1 BIRT 
+2 DATE 1730
+2 PLAC Eastbourne, Sussex, , England, 
+1 DEAT 
+2 DATE ?
+2 PLAC Willingdon, Sussex, England
+1 SEX M
+1 NAME William /Peckham/
+1 FAMC @F83@
+1 FAMS @F82@
+0 @P227@ INDI 
+1 DEAT 
+2 PLAC Eastbourne, Sussex, England
+1 NAME Sarah
+1 BIRT 
+2 DATE 1683
+2 PLAC Eastbourne, Sussex, England
+1 SEX F
+1 FAMS @F83@
+0 @P228@ INDI 
+1 BIRT 
+2 DATE 1683
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE ?
+2 PLAC Eastbourne, Sussex, England
+1 SEX M
+1 NAME Cedric /Peckham/
+1 FAMC @F84@
+1 FAMS @F83@
+0 @P229@ INDI 
+1 BIRT 
+2 DATE 18 Aug 1650
+2 PLAC Eastbourne, Sussex
+1 DEAT 
+2 DATE 1727
+2 PLAC Eastbourne, Sussex, England
+1 SEX F
+1 NAME Parnell /Standing (Standen)/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a7df3e59-0a08-4c4e-8ace-e0c1b3a29459&tid=151272142&pid=229
+2 FORM jpg
+2 TITL 1679-06-10 Marriage Parnell Standing-Cedric Packham
+1 FAMC @F89@
+1 FAMS @F84@
+0 @P230@ INDI 
+1 BIRT 
+2 DATE Feb. 4, 1656
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE 1687
+2 PLAC Eastbourne, Sussex, England
+1 SEX M
+1 NAME Cedric /Peckham/
+1 FAMC @F85@
+1 FAMS @F84@
+0 @P231@ INDI 
+1 DEAT 
+2 DATE 1678
+2 PLAC Eastbourne, Sussex, England
+1 SEX F
+1 NAME Alice /Lea/
+1 FAMS @F85@
+0 @P232@ INDI 
+1 BIRT 
+2 DATE Apr. 1, 1619
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE 1672
+2 PLAC Eastbourne, Sussex, England
+1 SEX M
+1 NAME Cedric /Peckham/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6e0d09d5-91dd-4d20-b217-052613b96b67&tid=151272142&pid=232
+2 FORM jpg
+2 TITL 1619-04-25 Baptism Cedric Peckham
+1 FAMC @F86@
+1 FAMS @F85@
+0 @P233@ INDI 
+1 BIRT 
+2 DATE 26 Dec 1620
+2 PLAC of Wivelsfield, Suss., Eng.
+1 DEAT 
+2 DATE 1691
+2 PLAC Eastbourne, Sussex, England
+1 SEX F
+1 NAME Elizabeth /Wood/
+1 FAMS @F89@
+0 @P234@ INDI 
+1 BIRT 
+2 DATE 1619
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE 1685
+2 PLAC Eastbourne, Sussex, England
+1 BURI 
+2 DATE 01 Dec 1676
+2 PLAC Cuckfield, Sussex, England
+1 SEX M
+1 NAME Thomas /Standen/
+1 FAMC @F90@
+1 FAMS @F89@
+0 @P235@ INDI 
+1 BIRT 
+2 DATE 1590
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE JUL 1621
+2 PLAC Eastbourne
+1 SEX F
+1 NAME Alice /Price/
+1 FAMC @F88@
+1 FAMS @F86@
+0 @P236@ INDI 
+1 BIRT 
+2 DATE 25 Dec 1589
+2 PLAC Eastbourne, Sussex, England
+1 DEAT 
+2 DATE Dec 1629
+2 PLAC Eastbourne
+1 SEX M
+1 NAME John /Peckham/
+1 FAMC @F87@
+1 FAMS @F86@
+0 @P237@ INDI 
+1 BIRT 
+2 DATE About 1567
+2 PLAC Heathfield, Sussex, England
+1 DEAT 
+2 DATE 1631
+2 PLAC Heathfield, Sussex, , England
+1 SEX F
+1 NAME Agnes /Southenden/
+1 FAMS @F87@
+0 @P238@ INDI 
+1 BIRT 
+2 DATE About 1567
+2 PLAC Eastbourne, Sussex
+1 SEX M
+1 NAME Alan /Peckham/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f451759f-4fbe-4b1b-86f8-edf1994fa743&tid=151272142&pid=238
+2 FORM jpg
+2 TITL 1587-10-31 Marriage Alan Peckham-Agnes Sotherden
+1 FAMS @F87@
+0 @P239@ INDI 
+1 BIRT 
+2 DATE 1569
+2 PLAC Eastbourne, Sussex, England
+1 SEX F
+1 NAME Grace /Forman/
+1 FAMC @F261@
+1 FAMS @F88@
+0 @P240@ INDI 
+1 BIRT 
+2 DATE 1565
+2 PLAC Eastbourne, Sussex, England
+1 SEX M
+1 NAME Lewes A. /Pyrce/
+1 FAMS @F88@
+0 @P241@ INDI 
+1 DEAT 
+2 DATE 1581
+2 PLAC Eastbourne, Sussex, England
+1 SEX M
+1 NAME Nicholas /Forman/
+1 FAMS @F261@
+0 @P242@ INDI 
+1 DEAT 
+2 DATE JAN 1621
+2 PLAC Eastbourne
+1 BURI 
+2 DATE 21 JAN 1621
+2 PLAC St. Marys Church, Eastbourne
+1 SEX F
+1 NAME UNKNOWN
+1 FAMS @F90@
+0 @P243@ INDI 
+1 DEAT 
+2 DATE APR 1594
+2 PLAC Eastbourne
+1 BURI 
+2 DATE 11 APR 1594
+2 PLAC St. Marys Church, Eastbourne
+1 SEX M
+1 NAME Thomas /Standing/
+1 FAMS @F90@
+0 @P244@ INDI 
+1 BIRT 
+2 DATE 01 MAR 1754
+2 PLAC Eynsford, Kent, England
+1 DEAT 
+2 DATE 1833
+2 PLAC Mayfield, Sussex, England
+1 NAME Elizabeth /BUSS/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=244
+1 FAMC @F262@
+1 FAMC @F263@
+1 FAMS @F94@
+0 @P245@ INDI 
+1 BIRT 
+2 DATE 18 NOV 1753
+2 PLAC Ash, Kent, England
+1 DEAT 
+2 DATE abt 1821
+2 PLAC Longfield, Kent, England
+1 BURI 
+2 DATE 19 Jan 1821
+2 PLAC Tenterden, Kent, England
+1 SEX M
+1 NAME Thomas /BLACKMAN/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0c39599c-9c95-409d-a700-04f9a073b99c&tid=151272142&pid=245
+2 FORM jpg
+2 TITL Marriage Record for Thomas Blackman and Elizabeth Buss
+1 FAMC @F99@
+1 FAMS @F94@
+0 @P246@ INDI 
+1 BIRT 
+2 DATE 18 Dec 1757
+2 PLAC Wilmington,Kent
+1 DEAT 
+2 DATE 1817
+2 PLAC Dartford, Kent, England
+1 BURI 
+2 DATE 15 Jun 1817
+2 PLAC Wilmington, Kent
+1 SEX F
+1 NAME Sarah /Fisher/
+1 FAMC @F264@
+1 FAMS @F95@
+0 @P247@ INDI 
+1 BIRT 
+2 DATE 7 Dec 1760
+2 PLAC St.Mary Cray, Kent.England
+1 DEAT 
+2 DATE 1835
+2 PLAC Dartford, Kent, England
+1 BURI 
+2 DATE 16 Jan 1836
+2 PLAC Wilmington, Kent
+1 SEX M
+1 NAME Aaron /Weller/
+1 FAMC @F100@
+1 FAMS @F95@
+0 @P248@ INDI 
+1 BIRT 
+2 DATE 24 Jun 1763
+2 PLAC Farningham, Kent, England
+1 DEAT 
+2 DATE Jan 1815
+2 PLAC Sutton At Hone, Kent, England
+1 SEX F
+1 NAME Dianna /Hancock/
+1 FAMC @F98@
+1 FAMS @F93@
+0 @P249@ INDI 
+1 NAME Isaac John /Shave/
+1 BIRT 
+2 DATE 1754
+2 PLAC Kent, England
+1 DEAT 
+2 DATE 20 May 1832
+2 PLAC Sutton At Hone, Kent, England
+1 SEX M
+1 FAMC @F96@
+1 FAMS @F93@
+0 @P250@ INDI 
+1 BIRT 
+2 DATE ABT 1735
+1 SEX F
+1 NAME Mary /Wilkin/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a4a1d2fe-dc4f-4cf7-9ac9-4f4a197a4d76&tid=151272142&pid=250
+2 FORM jpg
+2 TITL Wilkin
+1 FAMS @F96@
+0 @P251@ INDI 
+1 BIRT 
+2 DATE 22 Jun 1735
+2 PLAC Wakes Colne, Essex, England
+1 DEAT 
+2 DATE 12 May 1784
+2 PLAC Wakes Colne, Essex, England
+1 SEX M
+1 NAME John /Shave/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=ea35ad1f-b0bf-47fc-8173-143568017e5f&tid=151272142&pid=251
+2 FORM jpg
+2 TITL shave-coat-of-arms-shave-family-crest-2
+1 FAMC @F97@
+1 FAMS @F96@
+0 @P252@ INDI 
+1 BIRT 
+2 DATE 1737
+2 PLAC Deptford, Kent, England
+1 SEX F
+1 NAME ELIZABETH /MITCHELL/
+1 FAMC @F265@
+1 FAMS @F98@
+0 @P253@ INDI 
+1 BIRT 
+2 DATE 1732
+2 PLAC Kent, England, United Kingdom
+1 SEX M
+1 NAME John /Hancock/
+1 FAMS @F98@
+0 @P254@ INDI 
+1 BIRT 
+2 DATE 1730
+2 PLAC Ash, kent, England
+1 DEAT 
+2 DATE 5 Mar 1802
+2 PLAC Ash, Kent, England
+1 SEX F
+1 NAME Margaret /Devilion/
+1 FAMS @F99@
+0 @P255@ INDI 
+1 BIRT 
+2 DATE 1710
+2 PLAC Ash, kent, England
+1 DEAT 
+2 DATE 1783
+2 PLAC Ash Kent England
+1 SEX M
+1 NAME John /Blackman/
+1 FAMC @F101@
+1 FAMS @F99@
+0 @P256@ INDI 
+1 NAME Sarah /Evans/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=256
+1 FAMS @F263@
+0 @P257@ INDI 
+1 NAME John /Buss/
+1 BIRT 
+2 DATE 27 Nov 1720
+2 PLAC Farningham, Kent, England
+1 DEAT 
+2 DATE 29 Oct 1760
+2 PLAC Staplehurst, Kent, England
+1 BURI 
+2 PLAC Staplehurst, Maidstone Borough, Kent, England
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e18e553c-fd5f-4618-a229-9f2eb3b5cb5c&tid=151272142&pid=257
+2 FORM jpg
+2 TITL All Sainta Church
+1 FAMC @F102@
+1 FAMS @F262@
+0 @P258@ INDI 
+1 BIRT 
+2 DATE abt 1732
+2 PLAC Kent, England
+1 DEAT 
+2 DATE abt 1813
+2 PLAC Surrey
+1 BURI 
+2 DATE 13 Oct 1811
+2 PLAC St Leonard, Shoreditch, Middlesex, England
+1 SEX F
+1 NAME Anne /Baker/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=766958af-4851-48fa-9351-fa0968f5bb3c&tid=151272142&pid=258
+2 FORM jpg
+2 TITL john weller ann baker
+1 FAMC @F266@
+1 FAMS @F100@
+0 @P259@ INDI 
+1 BIRT 
+2 DATE 11 Jun 1732
+2 PLAC St Mary Cray, Kent, England
+1 DEAT 
+2 DATE 30 Mar 1775
+2 PLAC St Mary Cray, Kent, England
+1 SEX M
+1 NAME John /Weller/
+1 FAMC @F107@
+1 FAMS @F100@
+0 @P260@ INDI 
+1 BIRT 
+2 DATE 18 Aug 1728
+2 PLAC Wilmington,Kent
+1 DEAT 
+2 DATE Abt 1808
+1 SEX M
+1 NAME William /Fisher/
+1 FAMC @F108@
+1 FAMS @F264@
+0 @P261@ INDI 
+1 BIRT 
+2 DATE 1710
+2 PLAC Wakes Colne, Essex, England
+1 DEAT 
+2 DATE 23 Mar 1762
+2 PLAC Wakes Colne, Essex, England
+1 SEX F
+1 NAME Mary (Fitz Maurice)  /Petty/
+1 FAMS @F97@
+0 @P262@ INDI 
+1 BIRT 
+2 DATE 10 May 1706
+2 PLAC Wakes Colne, Essex, England
+1 DEAT 
+2 DATE 2 Apr 1766
+2 PLAC Wakes Colne, Essex, England
+1 NAME John /Shave/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=262
+1 FAMC @F267@
+1 FAMC @F268@
+1 FAMS @F97@
+0 @P263@ INDI 
+1 BIRT 
+2 DATE 1675
+2 PLAC Wakes Colne, Essex, England
+1 DEAT 
+2 DATE 1748
+2 PLAC Wakes Colne, Essex, England
+1 NAME John /Shave/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=263
+1 FAMS @F267@
+0 @P264@ INDI 
+1 BIRT 
+2 DATE Abt 1680
+2 PLAC Wakes Colne, Essex, England
+1 DEAT 
+2 DATE Mar 1762
+2 PLAC Wakes Colne, Essex, England
+1 SEX F
+1 NAME Mary ,
+1 FAMS @F268@
+0 @P265@ INDI 
+1 BIRT 
+2 DATE 1723
+2 PLAC Deptford, Kent, England
+1 DEAT 
+2 DATE Abt 1753
+1 BURI Charles was a waterman at the upper gate
+2 DATE 17 Aug 1753
+2 PLAC St Nicholas, Deptford, Kent, England
+1 SEX M
+1 NAME CHARLES /MITCHELL/
+1 FAMC @F269@
+1 FAMS @F265@
+0 @P266@ INDI 
+1 BIRT 
+2 DATE 2 Oct 1666
+2 PLAC Wilmington, Sussex, England
+1 DEAT 
+2 DATE 9 Oct 1734
+1 SEX F
+1 NAME Mary /Store/
+1 FAMS @F101@
+0 @P267@ INDI 
+1 BIRT 
+2 DATE 1668
+2 PLAC Ash, Kent, England
+1 DEAT 
+2 DATE 13 May 1739
+2 PLAC Wilmington, Sussex, England
+1 NAME WILLIAM /BLACKMAN/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=267
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4a950c1c-a86c-4af2-b106-d3bb74181424&tid=151272142&pid=267
+2 FORM jpg
+2 TITL Blackman
+1 FAMC @F270@
+1 FAMC @F271@
+1 FAMS @F101@
+0 @P268@ INDI 
+1 BIRT 
+2 DATE 1690
+2 PLAC Brightling, Sussex, , England
+1 DEAT 
+2 PLAC England
+1 SEX F
+1 NAME Ann /Barley/
+1 FAMS @F102@
+0 @P269@ INDI 
+1 BIRT 
+2 DATE 5 Sep 1686
+2 PLAC Brightling, Sussex, , England
+1 DEAT 
+2 PLAC Brightling, Sussex, , England
+1 SEX M
+1 NAME Edward /Buss/
+1 FAMC @F103@
+1 FAMS @F102@
+0 @P270@ INDI 
+1 BIRT 
+2 DATE 1 May 1696
+2 PLAC St Mary Cray, Kent, England
+1 DEAT 
+2 DATE 1 Oct 1741
+1 SEX F
+1 NAME Mary
+1 FAMS @F107@
+0 @P271@ INDI 
+1 BIRT 
+2 DATE 17 Oct 1697
+2 PLAC St Mary Cray, Kent, England
+1 DEAT 
+2 DATE 25 Jan 1750
+2 PLAC St Mary Cray, Kent, England
+1 SEX M
+1 NAME John /Weller/
+1 FAMS @F107@
+0 @P272@ INDI 
+1 BIRT 
+2 DATE 1705
+2 PLAC England
+1 SEX F
+1 NAME Sarah /LANEY/
+1 FAMS @F266@
+0 @P273@ INDI 
+1 BIRT 
+2 DATE 1704
+2 PLAC Kent, England
+1 SEX M
+1 NAME CHARLES /MITCHELL/
+1 FAMC @F272@
+1 FAMS @F269@
+0 @P274@ INDI 
+1 BIRT 
+2 DATE 1642
+2 PLAC Sussex, , England
+1 DEAT 
+2 DATE 1699
+1 NAME WILLIAM ANTHONY /BLACKMAN/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=274
+1 FAMC @F165@
+1 FAMS @F270@
+0 @P275@ INDI 
+1 BIRT 
+2 DATE 1645
+2 PLAC East Blatchington, Sussex, , England
+1 DEAT 
+2 DATE August 1701
+2 PLAC St Giles, Cripplegate, London, England
+1 SEX F
+1 NAME MARTHA /GILBERT/
+1 FAMS @F271@
+0 @P276@ INDI 
+1 BIRT 
+2 DATE 30 Mar 1651
+2 PLAC Brightling, Sussex, England
+1 SEX F
+1 NAME ESTHER "HESTER" /GLOVER/
+1 FAMC @F105@
+1 FAMS @F103@
+0 @P277@ INDI 
+1 BIRT 
+2 DATE 25 Feb 1655
+2 PLAC Brightling, Sussex, England
+1 DEAT 
+2 DATE 1707
+2 PLAC Brightling,  Sussex,  ,  England
+1 SEX M
+1 NAME THOMAS /BUSS "BUSSE"/
+1 FAMC @F104@
+1 FAMS @F103@
+0 @P278@ INDI 
+1 BIRT 
+2 DATE 1620
+1 SEX F
+1 NAME Margaret /Tourte/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=dc188b3a-47dc-418f-a4aa-dabc9a61f25a&tid=151272142&pid=278
+2 FORM jpg
+2 TITL Ancestry Profile
+1 FAMS @F104@
+0 @P279@ INDI 
+1 BIRT 
+2 DATE 1613
+1 SEX M
+1 NAME Richard /Buss/
+1 FAMC @F273@
+1 FAMS @F104@
+0 @P280@ INDI 
+1 BIRT 
+2 DATE 3 Aug 1638
+2 PLAC Boston, Middlesex, Massachusetts
+1 DEAT 
+2 DATE 21 Jun 1705
+2 PLAC Boston, Middlesex, Massachusetts
+1 SEX F
+1 NAME ELIZABETH /FRANKLIN/
+1 FAMS @F105@
+0 @P281@ INDI 
+1 BIRT 
+2 DATE 14 Jun 1629
+2 PLAC Etchingham, Sussex, England
+1 DEAT 
+2 DATE 23 Sep 1696
+2 PLAC Rainhill, Lancashire, England
+1 SEX M
+1 NAME John /Glover/
+1 FAMS @F105@
+0 @P282@ INDI 
+1 DEAT 
+2 DATE 6 Dec 1732
+2 PLAC Wilmington, Kent, England
+1 BURI 
+2 DATE 06 Dec 1732
+2 PLAC Wilmington, Kent, England
+1 SEX F
+1 NAME Mary /Chapman/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=dc518a9c-6925-4732-a0ad-3eacbd1f54c2&tid=151272142&pid=282
+2 FORM jpg
+2 TITL william fisher mary chapman
+1 FAMS @F108@
+0 @P283@ INDI 
+1 BIRT 
+2 DATE 1687
+2 PLAC Wilmington, Kent
+1 DEAT 
+2 DATE Mar 1749
+2 PLAC Wilmington, Kent, England
+1 SEX M
+1 NAME William /Fisher/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6aecf7cd-3916-430a-a404-bdf37f2cb401&tid=151272142&pid=283
+2 FORM jpg
+2 TITL william fisher
+1 FAMC @F274@
+1 FAMS @F108@
+0 @P284@ INDI 
+1 BIRT 
+2 DATE 1580
+2 PLAC England
+1 DEAT 
+2 DATE 1643
+2 PLAC Laleham, Surrey, England
+1 BURI 
+2 DATE 10 Jul 1643
+2 PLAC All Saints, Laleham, Surrey, England
+1 SEX M
+1 NAME Henry /Busse/
+1 FAMC @F106@
+1 FAMS @F273@
+0 @P285@ INDI 
+1 BIRT 
+2 DATE 1562
+1 SEX F
+1 NAME Helene /Stugen/
+1 FAMS @F106@
+0 @P286@ INDI 
+1 BIRT 
+2 DATE 1562
+2 PLAC Frant, Sussex, England
+1 DEAT 
+2 DATE 28 Aug 1608
+2 PLAC Frant, Sussex, England
+1 SEX M
+1 NAME Richard /Busse/
+1 FAMS @F106@
+0 @P287@ INDI 
+1 BIRT 
+2 PLAC Eynsford, Kent
+1 SEX M
+1 NAME William /Fisher/
+1 FAMS @F274@
+0 @P288@ INDI 
+1 BIRT 
+2 DATE 1550
+1 DEAT 
+2 DATE 05 Jan 1579
+2 PLAC Hatherop, Gloucestershire, England
+1 BURI 
+2 DATE 5 Jan 1579
+2 PLAC Hatherop, Gloucestershire, England
+1 SEX F
+1 NAME Elizabeth /Unknown/
+1 FAMS @F112@
+0 @P289@ INDI 
+1 BIRT 
+2 DATE 1545
+2 PLAC Cirencester, Gloucestershire, England
+1 DEAT 
+2 DATE 1601
+2 PLAC Hatherop, Gloucetershire, England
+1 SEX M
+1 NAME Robert /Lapworth/
+1 FAMC @F236@
+1 FAMS @F112@
+0 @P290@ INDI 
+1 BIRT 
+2 DATE 1520
+1 SEX F
+1 NAME Alicia /Ball/
+1 FAMS @F236@
+0 @P291@ INDI 
+1 BIRT 
+2 DATE 1520
+2 PLAC Wappenbury, Warwickshire, England
+1 DEAT 
+2 PLAC Cirencester Gloucestershire
+1 SEX M
+1 NAME Richard /Lapworth/
+1 FAMC @F275@
+1 FAMS @F236@
+0 @P292@ INDI 
+1 BIRT 
+2 DATE 1595
+2 PLAC Glasgow, Lanarkshire, , Scotland
+1 DEAT 
+2 DATE 1659
+2 PLAC Glasgow, Lanarkshire, Scotland
+1 SEX M
+1 NAME David /Mitchell/
+1 FAMS @F247@
+0 @P293@ INDI 
+1 BIRT 
+2 DATE 1541
+2 PLAC Dunfermline, Fifeshire, Scotland
+1 DEAT 
+2 DATE 1595
+2 PLAC Fife, Scotland
+1 SEX F
+1 NAME Marjory /Doncane/
+1 FAMS @F115@
+0 @P294@ INDI 
+1 BIRT 
+2 DATE 1535
+2 PLAC Dunfermline, Fifeshire, Scotland
+1 DEAT 
+2 DATE Abt. 1600
+2 PLAC Dunfermline, Fife, , Scotland
+1 SEX M
+1 NAME John /Bull/
+1 FAMS @F115@
+0 @P295@ INDI 
+1 BIRT 
+2 DATE 24 FEB 1786
+2 PLAC barony, Lanark, Scotland
+1 DEAT 
+2 DATE before 1855
+1 SEX F
+1 NAME Christian /Jack/
+1 FAMS @F245@
+0 @P296@ INDI 
+1 BIRT 
+2 DATE 22 Jan 1781
+2 PLAC Scotland
+1 SEX M
+1 NAME John /MUNRO/
+1 FAMS @F245@
+0 @P297@ INDI 
+1 BIRT 
+2 DATE 1750
+2 PLAC Wiltshire, England
+1 SEX M
+1 NAME Joseph /Crowter/
+1 FAMS @F251@
+0 @P298@ INDI 
+1 BIRT 
+2 DATE About 1682
+1 SEX M
+1 NAME CHARLES /MITCHELL/
+1 FAMS @F272@
+0 @P299@ INDI 
+1 BIRT 
+2 DATE Bef 14 Aug 1715
+2 PLAC Wendron, CON, ENG
+1 DEAT 
+2 DATE Bef 29 Oct 1776
+2 PLAC Crowan, CON, ENG
+1 SEX F
+1 NAME Mary /Thomas/
+1 FAMC @F121@
+1 FAMS @F119@
+0 @P300@ INDI 
+1 BIRT 
+2 DATE 1713
+2 PLAC Illogan, CON, ENG
+1 DEAT 
+2 DATE Bef 15 Mar 1765
+2 PLAC Crowan, CON, ENG
+1 SEX M
+1 NAME Henry /Jenkin/
+1 FAMC @F120@
+1 FAMS @F119@
+0 @P301@ INDI 
+1 BIRT 
+2 DATE 13 May 1732
+2 PLAC Crowan, Cornwall, England
+1 SEX F
+1 NAME Mary /Pooley/
+1 FAMS @F147@
+0 @P302@ INDI 
+1 BIRT 
+2 DATE 24 Nov 1728
+2 PLAC Crowan, Cornwall, ENGLAND
+1 SEX M
+1 NAME James /Pascoe/
+1 FAMC @F148@
+1 FAMS @F147@
+0 @P303@ INDI 
+1 BIRT 
+2 DATE 27 Oct 1679
+2 PLAC Crowan, Cornwall
+1 DEAT 
+2 DATE 23 Feb 1765
+1 SEX F
+1 NAME Ury /Trevenen/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=fcb6442c-619f-4931-ad6c-9688a1073454&tid=151272142&pid=303
+2 FORM jpg
+2 TITL 20190112- HENRY JENKING -  ALIAS TREGIDION - BRIDE URY, 1708
+1 FAMC @F132@
+1 FAMS @F120@
+0 @P304@ INDI 
+1 BIRT 
+2 DATE 22 Jul 1683 
+2 PLAC Gulval Cornwall England
+1 DEAT 
+2 DATE 1735
+1 SEX M
+1 NAME John /Jenkin/
+1 FAMC @F122@
+1 FAMS @F120@
+0 @P305@ INDI 
+1 BIRT 
+2 DATE Bef 16 Feb 1684
+2 PLAC Sithney, CON, ENG
+1 DEAT 
+2 DATE Bef 31 Aug 1747
+2 PLAC Wendron, CON, ENG
+1 SEX F
+1 NAME Elizabeth /Robyns/
+1 FAMS @F121@
+0 @P306@ INDI 
+1 BIRT 
+2 DATE 02 Dec 1679
+2 PLAC Wendron, Cornwall
+1 SEX M
+1 NAME Samuel /Trevenen/
+1 FAMC @F136@
+1 FAMS @F121@
+0 @P307@ INDI 
+1 BIRT 
+2 DATE 1660
+2 PLAC St Sampson Cornwall England
+1 DEAT 
+2 DATE abt 1734
+1 SEX F
+1 NAME Jane /Cotton/
+1 FAMC @F126@
+1 FAMS @F122@
+0 @P308@ INDI 
+1 BIRT 
+2 DATE 13 Mar 1660
+2 PLAC Golant, Cornwall, England
+1 DEAT 
+2 DATE 1743
+2 PLAC St. Austell, Cornwall, England
+1 SEX M
+1 NAME Anthony /Jenkyn*/
+1 FAMC @F123@
+1 FAMS @F122@
+0 @P309@ INDI 
+1 DEAT 
+2 DATE 1731
+2 PLAC Crowan, Cornwall, England
+1 SEX F
+1 NAME Charity
+1 FAMS @F132@
+0 @P310@ INDI 
+1 BIRT 
+2 DATE 20 Sep 1640
+2 PLAC Wendron, Cornwall
+1 DEAT 
+2 DATE 1731
+2 PLAC Crowan, Cornwall
+1 SEX M
+1 NAME Edward (Bartell) /Trevenen/
+1 FAMC @F133@
+1 FAMS @F132@
+0 @P311@ INDI 
+1 BIRT 
+2 DATE 1654
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 10 Oct 1708
+2 PLAC Wendron, Cornwall
+1 SEX F
+1 NAME Mary /Marrat/
+1 FAMC @F145@
+1 FAMS @F136@
+0 @P312@ INDI 
+1 BIRT 
+2 DATE 1643
+2 PLAC Wendron, Cornwall, England
+1 NAME Thomas /Trevenen/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=312
+1 FAMC @F163@
+1 FAMS @F136@
+0 @P313@ INDI 
+1 BIRT 
+2 DATE 1635
+2 PLAC St Sampson Cornwall England
+1 SEX F
+1 NAME Agnes /TRIPLETT/
+1 FAMS @F123@
+0 @P314@ INDI 
+1 BIRT 
+2 DATE 07 Jan 1630
+2 PLAC St Columb Major  Cornwall England
+1 SEX M
+1 NAME Christopher /Jenkin/
+1 FAMC @F124@
+1 FAMS @F123@
+0 @P315@ INDI 
+1 BIRT 
+2 DATE 1613
+2 PLAC Week St. Mary, Cornwall, England
+1 DEAT 
+2 DATE 20 Jun 1689
+2 PLAC Poughill, Devon, England
+1 SEX F
+1 NAME Margaret /CHALLWILL/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a728fcf8-9a35-40e5-ae44-c3de1146a053&tid=151272142&pid=315
+2 FORM jpg
+2 TITL CORNWALL OLD
+1 FAMC @F130@
+1 FAMS @F126@
+0 @P316@ INDI 
+1 BIRT 
+2 DATE 1610
+2 PLAC Poughill Cornwall
+1 DEAT 
+2 DATE 16 Nov 1694
+2 PLAC Poughill Cornwall
+1 SEX M
+1 NAME Robert /COTTON/
+1 FAMC @F127@
+1 FAMS @F126@
+0 @P317@ INDI 
+1 BIRT 
+2 DATE 1610
+2 PLAC St Columb Major, Cornwall, England
+1 DEAT 
+2 DATE 1660
+2 PLAC St Columb Major, Cornwall, England
+1 SEX F
+1 NAME Joan /Bennett/
+1 FAMS @F124@
+0 @P318@ INDI 
+1 BIRT 
+2 DATE 13 Apr 1610
+2 PLAC St Anthony in Meneage, Cornwall, England
+1 DEAT 
+2 DATE 1668
+2 PLAC St Columb Major, Cornwall, England
+1 SEX M
+1 NAME Anthony /Jenkin/
+1 FAMC @F125@
+1 FAMS @F124@
+0 @P319@ INDI 
+1 BIRT 
+2 DATE abt 1570
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Marie /Wickett/
+1 FAMS @F125@
+0 @P320@ INDI 
+1 BIRT 
+2 DATE 1575
+2 PLAC Crowan, Cornwall, England
+1 SEX M
+1 NAME John /JENKINS/
+1 FAMS @F125@
+0 @P321@ INDI 
+1 BIRT 
+2 DATE 1584
+2 PLAC Of Kilkhampton, Cornwall, England
+1 DEAT 
+2 DATE 27 Nov 1658
+2 PLAC Poughill, Devon, England
+1 SEX F
+1 NAME Thomasine /OLIVER/
+1 FAMC @F276@
+1 FAMS @F127@
+0 @P322@ INDI 
+1 BIRT 
+2 DATE 1 Apr 1576
+2 PLAC Tiscot, Poughill, Devon, England
+1 DEAT 
+2 DATE 24 Aug 1658
+2 PLAC Poughill, Cornwall, England
+1 SEX M
+1 NAME Edward Day /Cotton/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=bf28289c-44b5-4dbc-8d2a-bf778c68d6b7&tid=151272142&pid=322
+2 FORM jpg
+2 TITL Kilkhampton Church
+1 FAMC @F128@
+1 FAMS @F127@
+0 @P323@ INDI 
+1 BIRT 
+2 DATE 1548
+2 PLAC Poughill, Cornwall, England
+1 DEAT 
+2 DATE 17 Jun 1633
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Agnes /Browne/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e8904b2c-a20f-4abf-b414-9267a2c612df&tid=151272142&pid=323
+2 FORM jpg
+2 TITL Android Photo
+1 FAMS @F128@
+0 @P324@ INDI 
+1 BIRT 
+2 DATE July 16 1546
+2 PLAC Poughill, Conrwall, England
+1 DEAT 
+2 DATE 3 Aug 1629
+2 PLAC Poughill, Cornwall, England
+1 SEX M
+1 NAME John /Cotton/
+1 FAMC @F129@
+1 FAMS @F128@
+0 @P325@ INDI 
+1 BIRT 
+2 DATE 1527
+2 PLAC Poughill Cornwall England
+1 DEAT 
+2 DATE 16 Apr 1569
+2 PLAC Poughill, Cornwall, England
+1 SEX F
+1 NAME Johana /Vray/
+1 FAMS @F129@
+0 @P326@ INDI 
+1 BIRT 
+2 DATE 1525
+2 PLAC Poughill, Cornwall, England
+1 DEAT 
+2 DATE abt 1584
+2 PLAC Poughill, Cornwall, England
+1 SEX M
+1 NAME Johannis Harrison /Cotton/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d1e35a01-7820-4b40-96bc-d794671860c4&tid=151272142&pid=326
+2 FORM jpg
+2 TITL Poughill Cornwall Church picture - modern day
+1 FAMS @F129@
+0 @P327@ INDI 
+1 BIRT 
+2 DATE abt 1560
+2 PLAC Cornwall, England
+1 DEAT 
+2 PLAC Kilkhampton, Cornwall, England
+1 SEX M
+1 NAME Walter /Oliver/
+1 FAMC @F277@
+1 FAMS @F276@
+0 @P328@ INDI 
+1 BIRT 
+2 DATE 1526
+1 DEAT 
+2 DATE 21 Jan 1572
+2 PLAC Kilkhampton, Cornwall, England
+1 SEX M
+1 NAME John /Oliver/
+1 FAMS @F277@
+0 @P329@ INDI 
+1 DEAT 
+2 DATE Bef. 23 Nov 1666
+2 PLAC "Whitley", Week St. Mary, Cornwall, Eng.
+1 SEX F
+1 NAME Margaret /Coker/
+1 FAMS @F130@
+0 @P330@ INDI 
+1 BIRT 
+2 DATE Abt. 1585
+2 PLAC Week St Mary, Cornwall, England
+1 DEAT 
+2 DATE March 22, 1670
+2 PLAC "Whitley", Week St. Mary, Cornwall, Eng.
+1 SEX M
+1 NAME John /Collwill/
+1 FAMC @F131@
+1 FAMS @F130@
+0 @P331@ INDI 
+1 DEAT 
+2 DATE February 17, 1641
+2 PLAC "whitley" Week St. Mary, Cornwall, England
+1 SEX F
+1 NAME Thomasine /Bate/
+1 FAMS @F131@
+0 @P332@ INDI 
+1 NAME William /Colwill/
+1 BIRT 
+2 DATE 1571
+2 PLAC Week St. Mary, Cornwall, England
+1 DEAT 
+2 DATE June 19, 1631
+2 PLAC "whitley" Week St. Mary, Cornwall, England
+1 SEX M
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a5441234-6824-42eb-af37-cfb613886aa9&tid=151272142&pid=332
+2 FORM jpg
+2 TITL EndofLineMarker-1
+1 FAMS @F131@
+0 @P333@ INDI 
+1 BIRT 
+2 DATE 19 Jan 1603/04
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 18 Dec 1676
+2 PLAC Wendron, Cornwall, England
+1 SEX F
+1 NAME Uriah /Williams/
+1 FAMC @F134@
+1 FAMS @F133@
+0 @P334@ INDI 
+1 NAME John (Bartell 'The Younger' Alias) /Trevenen/
+1 SEX M
+1 BIRT 
+2 DATE Abt. 1605
+2 PLAC Wendron Cornwall England
+1 DEAT 
+2 DATE 17 May 1668
+2 PLAC Wendron, Cornwall
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=334
+1 FAMC @F278@
+1 FAMC @F279@
+1 FAMS @F133@
+0 @P335@ INDI 
+1 NAME John Bartell alias /Trevenin/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=335
+1 FAMS @F278@
+0 @P336@ INDI 
+1 DEAT 
+2 DATE 07 Mar 1647
+2 PLAC Wendron, Cornwall
+1 SEX F
+1 NAME Ellenor (Degibma) /Ten/
+1 FAMS @F279@
+0 @P337@ INDI 
+1 BIRT 
+2 DATE Abt. 1580
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE Abt 1599
+2 PLAC Wendron, Cornwall, England
+1 NAME Betty /Boderlogan/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=337
+1 FAMC @F135@
+1 FAMS @F134@
+0 @P338@ INDI 
+1 BIRT 
+2 DATE Est 1573
+2 PLAC of Wendron, Cornwall, England
+1 DEAT 
+2 DATE BET 1611 AND 1663
+2 PLAC Plymouth, MA
+1 NAME Thomas /William Williams/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=338
+1 FAMC @F280@
+1 FAMS @F134@
+0 @P339@ INDI 
+1 BIRT 
+2 DATE Abt 1545
+1 DEAT 
+2 DATE Feb 1587/88
+2 PLAC Wendron, Cornwall, England
+1 SEX F
+1 NAME Agneta /Lanaow Landow ?/
+1 FAMS @F280@
+0 @P340@ INDI 
+1 DEAT 
+2 PLAC Wendron, Cornwall, England
+1 SEX F
+1 NAME Philipa
+1 FAMS @F135@
+0 @P341@ INDI 
+1 DEAT 
+2 DATE Apr 1586
+2 PLAC Wendron, Cornwall, England
+1 SEX M
+1 NAME Michael /Boderlogan/
+1 FAMS @F135@
+0 @P342@ INDI 
+1 NAME Ann /Perry/
+1 SEX F
+1 BIRT 
+2 DATE 1615
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 7 Jul 1690
+2 PLAC Wendron, Cornwall, England
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=342
+1 FAMC @F137@
+1 FAMS @F163@
+0 @P343@ INDI 
+1 NAME Thomas /Trevenen/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=343
+1 FAMC @F164@
+1 FAMS @F163@
+0 @P344@ INDI 
+1 BIRT 
+2 DATE 20 Apr 1589
+2 PLAC Saint Keverne, Cornwall, England
+1 DEAT 
+2 DATE February 1660
+2 PLAC Wendron, Cornwall, , England
+1 SEX F
+1 NAME Mary /Jeffery/
+1 FAMC @F142@
+1 FAMS @F137@
+0 @P345@ INDI 
+1 BIRT 
+2 DATE 1591
+2 PLAC Wendron, Cornwall
+1 DEAT 
+2 DATE 3 May 1659
+2 PLAC Wendron  Cornwall England
+1 SEX M
+1 NAME William /Perry/
+1 FAMC @F138@
+1 FAMS @F137@
+0 @P346@ INDI 
+1 BIRT 
+2 DATE 24 Jul 1566
+2 PLAC Penryn, Cornwall, England
+1 DEAT 
+2 DATE 9 Nov 1643
+2 PLAC Wendron, Cornwall, , England
+1 SEX F
+1 NAME Lady Elizabeth /Lannarth/
+1 FAMC @F141@
+1 FAMS @F138@
+0 @P347@ INDI 
+1 BIRT 
+2 DATE 1565
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 1 Apr 1608
+2 PLAC Wendron, Cornwall, England
+1 SEX M
+1 NAME Benedict /Perry/ GGF11
+1 FAMC @F139@
+1 FAMS @F138@
+0 @P348@ INDI 
+1 BIRT 
+2 DATE 1540
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE Abt. 1595
+2 PLAC Cornwall, England
+1 NAME Lady Margaret /Garfie (Charmley?)/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=348
+1 FAMC @F140@
+1 FAMS @F139@
+0 @P349@ INDI 
+1 BIRT 
+2 DATE 1540
+2 PLAC Penryn Castle, Penryn, Cornwall, England
+1 DEAT 
+2 DATE 1 Jan 1577
+2 PLAC Penryn, Cornwall, England
+1 NAME Thomas /Perry/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=349
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0c68df26-f507-424a-bc80-0a030b816114&tid=151272142&pid=349
+2 FORM jpg
+2 TITL Penrhyn_Castle_-_Exterior_2_(10357694196)
+1 FAMC @F168@
+1 FAMS @F139@
+0 @P350@ INDI 
+1 BIRT 
+2 DATE 1520
+2 PLAC Kirton, Lincolnshire, England
+1 DEAT 
+2 DATE 31 Dec 1568
+2 PLAC Kirton, Lincolnshire, England
+1 NAME Elizabeth /Coney/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=350
+1 FAMC @F281@
+1 FAMS @F168@
+0 @P351@ INDI 
+1 BIRT 
+2 DATE 1515
+2 PLAC Exeter, Devon, England
+1 DEAT 
+2 DATE Feb 1565
+2 PLAC Devon, England
+1 NAME William /Perry/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=351
+1 FAMC @F169@
+1 FAMS @F168@
+0 @P352@ INDI 
+1 BIRT 
+2 DATE 1524
+2 PLAC Kilkhampton, Cornwall, England
+1 DEAT 
+2 PLAC Wendron House,Cheshire, England
+1 SEX F
+1 NAME Lady Margaret /Walter/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=0add491a-2ea7-40ff-aee2-3b1dc211b97d&tid=151272142&pid=352
+2 FORM jpg
+2 TITL Direct Descendants Patch
+1 FAMS @F140@
+0 @P353@ INDI 
+1 BIRT 
+2 DATE 1522
+2 PLAC Wendron House,Cheshire, England
+1 DEAT 
+2 DATE Abt. 1580
+2 PLAC Wendron House,Cheshire, England
+1 SEX M
+1 NAME Robert /Perry/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f9b57849-6d7d-4484-8fad-3be7937eaa8c&tid=151272142&pid=353
+2 FORM jpg
+2 TITL Direct Descendants Patch
+1 FAMS @F140@
+0 @P354@ INDI 
+1 BIRT 
+2 DATE 1540
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE 1643
+2 PLAC Wendron Hall, Wendron, Cornwall, England
+1 SEX F
+1 NAME Florence /Woolcocke/
+1 FAMC @F282@
+1 FAMS @F141@
+0 @P355@ INDI 
+1 BIRT 
+2 DATE 1542
+2 PLAC St Gerrans, Cornwall, England
+1 DEAT 
+2 DATE 15 Nov 1568
+2 PLAC St Gerrans, Cornwall, England
+1 SEX M
+1 NAME Alexander /Lannarth/
+1 FAMS @F141@
+0 @P356@ INDI 
+1 DEAT 
+2 DATE Feb 1548
+2 PLAC St Just in Roseland, Cornwall
+1 SEX M
+1 NAME Paskow /Woolcock/
+1 FAMS @F282@
+0 @P357@ INDI 
+1 BIRT 
+2 DATE 16 Jan 1573
+2 PLAC Penryn, Cornwall, England
+1 DEAT 
+2 DATE 25 Dec 1637
+2 PLAC Wendron, Cornwall, England
+1 SEX F
+1 NAME Elizabeth /Perry/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=457b421b-c389-481d-ab0c-86dc569ec5a2&tid=151272142&pid=357
+2 FORM jpg
+2 TITL Perry COA
+1 FAMC @F283@
+1 FAMS @F142@
+0 @P358@ INDI 
+1 BIRT 
+2 DATE 1570
+2 PLAC Madron, Cornwall, England
+1 DEAT 
+2 PLAC Madron, Cornwall, England
+1 SEX M
+1 NAME Nighten /Jeffery/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=709b2df5-46c0-498e-9eeb-72c0b847abad&tid=151272142&pid=358
+2 FORM jpg
+2 TITL caa0f130-dcac-4711-826c-aa887cd8a6ff
+1 FAMC @F143@
+1 FAMS @F142@
+0 @P359@ INDI 
+1 DEAT 
+2 DATE 1637
+1 SEX F
+1 NAME Mary /Jeffery/
+1 FAMS @F143@
+0 @P360@ INDI 
+1 BIRT 
+2 DATE 1550
+2 PLAC Madron, Cornwall, England
+1 DEAT 
+2 DATE Abt 1637
+2 PLAC Madron, Cornwall, England
+1 SEX M
+1 NAME Thomas /Jeffery of St Keverne/ Sir
+1 FAMC @F284@
+1 FAMS @F143@
+0 @P361@ INDI 
+1 BIRT 
+2 DATE 1540
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE Abt. 1595
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Lady Margaret /Garfie (Charmley?)/
+1 FAMC @F285@
+1 FAMS @F283@
+0 @P362@ INDI 
+1 BIRT 
+2 DATE About 1525
+2 PLAC Madron, Cornwall, England, UK
+1 SEX M
+1 NAME Thomas Nighten /Jeffery/
+1 FAMC @F144@
+1 FAMS @F284@
+0 @P363@ INDI 
+1 BIRT 
+2 DATE 1512
+2 PLAC Pembroke, Cornwall, England
+1 DEAT 
+2 DATE abt 1587
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Justina /Fegares/
+1 FAMS @F144@
+0 @P364@ INDI 
+1 BIRT 
+2 DATE Abt. 1512
+2 PLAC Pemburrie, Kent, England
+1 DEAT 
+2 DATE abt 1587
+2 PLAC England
+1 SEX M
+1 NAME Philip /Jefferie/
+1 FAMS @F144@
+0 @P365@ INDI 
+1 BIRT 
+2 DATE 1522
+2 PLAC Wendron House,Cheshire, England
+1 DEAT 
+2 DATE Abt. 1580
+2 PLAC Wendron House,Cheshire, England
+1 SEX M
+1 NAME Robert /Perry/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=f9b57849-6d7d-4484-8fad-3be7937eaa8c&tid=151272142&pid=365
+2 FORM jpg
+2 TITL Direct Descendants Patch
+1 FAMS @F285@
+0 @P366@ INDI 
+1 BIRT 
+2 DATE 1631
+2 PLAC Cornwall
+1 NAME Alice /Hill/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=366
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=366
+1 FAMC @F286@
+1 FAMS @F145@
+0 @P367@ INDI 
+1 BIRT 
+2 DATE 1627
+1 NAME John /Marrat/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=367
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=367
+1 FAMS @F145@
+0 @P368@ INDI 
+1 BIRT 
+2 DATE 28 Jun 1602
+2 PLAC Wendron, Cornwall, England
+1 DEAT 
+2 DATE 12 Dec 1700
+2 PLAC Cornwall, England
+1 NAME Thomas /Hill/
+1 SEX M
+1 NAME Capt. Thomas /Hill/
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=368
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=368
+1 FAMC @F150@
+1 FAMS @F146@
+1 FAMS @F286@
+0 @P369@ INDI 
+1 BIRT 
+2 DATE Abt. 1580
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE 1617
+2 PLAC Wendron, Cornwall, , England
+1 NAME Alicia /Penrose/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=369
+1 FAMS @F150@
+0 @P370@ INDI 
+1 BIRT 
+2 DATE 1571
+2 PLAC Poundisford, Somerset, , England
+1 DEAT 
+2 DATE 25 Nov 1635
+2 PLAC Pitminster Par, Somerset, , England
+1 NAME John /Hill/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=370
+1 FAMS @F150@
+0 @P371@ INDI 
+1 BIRT 
+2 DATE 1 Jun 1613
+2 PLAC London, England
+1 DEAT 
+2 DATE 01 Jun 1683
+2 PLAC Essex Lodge, York, VA
+1 NAME Margaret Mary Draper /Piersey (Hill)/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=371
+1 FAMS @F146@
+0 @P372@ INDI 
+1 BIRT 
+2 DATE 1705
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Charity /Thomas/
+1 FAMS @F148@
+0 @P373@ INDI 
+1 BIRT 
+2 DATE 1650
+2 PLAC Cornwall, England
+1 SEX M
+1 NAME James /Pascoe/
+1 FAMS @F148@
+0 @P374@ INDI 
+1 BIRT 
+2 DATE 5 Aug 1705
+2 PLAC Crowan, Cornwall, England
+1 SEX F
+1 NAME Charity /Thomas/
+2 SOUR @S1130714545@
+3 DATA
+4 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=374
+0 @P375@ INDI 
+1 BIRT 
+2 DATE 1644
+2 PLAC Cornwall, , England
+1 DEAT 
+2 DATE 1697
+2 PLAC Saint Blazey, Cornwall, England
+1 SEX F
+1 NAME Esther /Pierce/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=70353151-56b5-475f-bc08-5750d1552cc4&tid=151272142&pid=375
+2 FORM jpg
+2 TITL Lady
+1 FAMC @F287@
+1 FAMS @F152@
+0 @P376@ INDI 
+1 BIRT 
+2 DATE 16 Jul 1631
+2 PLAC Saint Blazey, Cornwall, England
+1 DEAT 
+2 DATE 1702
+1 SEX M
+1 NAME Walter /Carlyon/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a487c165-ac63-4ac0-9bca-7931547e7928&tid=151272142&pid=376
+2 FORM jpg
+2 TITL Direct ancestor
+1 FAMC @F154@
+1 FAMS @F152@
+0 @P377@ INDI 
+1 BIRT 
+2 DATE Abt 1650
+1 SEX F
+1 NAME Ann /Boden/
+1 FAMS @F155@
+0 @P378@ INDI 
+1 BIRT 
+2 DATE Abt. 1640
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE 1708
+1 SEX M
+1 NAME John /Bowden/
+1 FAMS @F155@
+0 @P379@ INDI 
+1 BIRT 
+2 DATE Abt 1600
+2 PLAC St Austell, Cornwall, England
+1 DEAT 
+2 DATE 1665
+2 PLAC St. Austell, Cornwall, England
+1 SEX F
+1 NAME Margery Margaret /Carlyon/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4c878581-7f39-40f7-ac91-81c401cf71b3&tid=151272142&pid=379
+2 FORM jpg
+2 TITL Carlyon
+1 FAMC @F288@
+1 FAMS @F154@
+0 @P380@ INDI 
+1 BIRT 
+2 DATE 1563
+2 PLAC Tregrehan, Cornwall, England
+1 DEAT 
+2 DATE 6 Feb 1664
+2 PLAC Tregrehan, Cornwall, England
+1 SEX M
+1 NAME Walter /Carlyon/
+1 FAMC @F157@
+1 FAMS @F154@
+0 @P381@ INDI 
+1 BIRT 
+2 DATE 1663
+2 PLAC St Martin, Cornwall, England
+1 DEAT 
+2 DATE 19 Sep 1735
+2 PLAC Mawgan In Meneage, Cornwall, England
+1 SEX M
+1 NAME Walter /Rogers/
+1 FAMC @F156@
+1 FAMS @F255@
+0 @P382@ INDI 
+1 BIRT 
+2 DATE 1654
+2 PLAC Mawgan, Cornwall, , England
+1 DEAT 
+2 DATE 23 May 1708
+2 PLAC Wendron, Cornwall, England
+1 SEX F
+1 NAME Jane /Penrose/
+1 FAMC @F289@
+1 FAMS @F254@
+0 @P383@ INDI 
+1 BIRT 
+2 DATE 1546
+2 PLAC St Austell Cornwall, England
+1 DEAT 
+2 DATE 1576
+2 PLAC Saint Austell, Cornwall, , England
+1 SEX F
+1 NAME Catherine /Dellmayne/
+1 FAMS @F157@
+0 @P384@ INDI 
+1 BIRT 
+2 DATE 21 Nov 1542
+2 PLAC Tregrehan, St Blazey, England
+1 DEAT 
+2 DATE 27 Apr 1581
+2 PLAC Tregrehan, Cornwall, England  Spouse: Catherine Dellamayne Father: Carlyon Children: Walter Carlyon
+1 SEX M
+1 NAME William /Carlyon of Tregrehan/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=ee23338a-23cb-44a9-a010-d68e7733e4dc&tid=151272142&pid=384
+2 FORM jpg
+2 TITL Carlyon
+1 FAMS @F157@
+0 @P385@ INDI 
+1 BIRT 
+2 DATE 1570
+2 PLAC St Austell, Cornwall
+1 SEX M
+1 NAME Tristram /Carlyon/
+1 FAMS @F288@
+0 @P386@ INDI 
+1 BIRT 
+2 DATE Mar 1616
+2 PLAC St, Issey, Cornwall, England
+1 DEAT 
+2 DATE abt 1648
+1 SEX M
+1 NAME Richard /Peirce/
+1 FAMS @F287@
+0 @P387@ INDI 
+1 BIRT 
+2 DATE 1644
+2 PLAC St Martin, Cornwall, , England
+1 DEAT 
+2 DATE Unknown
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Mary
+1 FAMS @F156@
+0 @P388@ INDI 
+1 BIRT 
+2 DATE 22 Nov 1640
+2 PLAC St Martin, Cornwall, , England
+1 DEAT 
+2 DATE 1677
+2 PLAC Manaccan, Cornwall, England
+1 NAME Sampson /Rogers/
+1 SEX M
+1 FAMC @F158@
+1 FAMS @F156@
+0 @P389@ INDI 
+1 BIRT 
+2 DATE 1634
+2 PLAC Meneage, Cornwall
+1 DEAT 
+2 DATE Unknown
+1 SEX M
+1 NAME Matthew /Penrose/
+1 FAMC @F159@
+1 FAMS @F289@
+0 @P390@ INDI 
+1 BIRT 
+2 DATE 1620
+2 PLAC St Martin, Cornwall, England   1659471
+1 DEAT 
+2 DATE Unknown
+2 PLAC Cornwall, England
+1 SEX F
+1 NAME Margery /Rogers **/
+1 FAMS @F158@
+0 @P391@ INDI 
+1 BIRT 
+2 DATE 1618
+2 PLAC Cornwall, England
+1 DEAT 
+2 DATE 1677
+2 PLAC Manaccan, Cornwall, England
+1 SEX M
+1 NAME Sampson /Rogers  Sr./
+1 FAMS @F158@
+0 @P392@ INDI 
+1 BIRT 
+2 DATE 1608
+2 PLAC Mawgan,,Cornwall,England
+1 SEX F
+1 NAME Joane /Leonard/
+1 FAMC @F161@
+1 FAMS @F159@
+0 @P393@ INDI 
+1 BIRT 
+2 DATE 27 Nov 1606
+2 PLAC Mawgan, Cornwall, England
+1 DEAT 
+2 DATE Unknown
+1 SEX M
+1 NAME Mathew /Penrose/
+1 FAMC @F160@
+1 FAMS @F159@
+0 @P394@ INDI 
+1 BIRT 
+2 DATE 1584
+2 PLAC Mawgan, Cornwall, England
+1 DEAT 
+2 DATE Unknown
+1 SEX F
+1 NAME Mary /Hockedaye/
+1 FAMS @F160@
+0 @P395@ INDI 
+1 BIRT 
+2 DATE 1580
+2 PLAC Mawgan, Cornwall, England
+1 DEAT 
+2 DATE Unknown
+2 PLAC Holsworthy, Devon, England
+1 SEX M
+1 NAME Andrew /Penrose/
+1 FAMC @F162@
+1 FAMS @F160@
+0 @P396@ INDI 
+1 BIRT 
+2 DATE 1586
+2 PLAC Mawgan, Cornwall, England
+1 DEAT 
+2 DATE Unknown
+1 SEX F
+1 NAME Alice /Trott/
+1 FAMS @F161@
+0 @P397@ INDI 
+1 BIRT 
+2 DATE 1582
+2 PLAC Mawgan, Cornwall, England
+1 DEAT 
+2 DATE Unknown
+1 SEX M
+1 NAME John /Leonard/
+1 FAMS @F161@
+0 @P398@ INDI 
+1 NAME Margaret /Pudner/
+1 BIRT 
+2 DATE ABT 1560
+2 PLAC Holsworthy, Devon, England
+1 DEAT 
+2 PLAC Holsworthy, Devon, England
+1 SEX F
+1 FAMS @F162@
+0 @P399@ INDI 
+1 BIRT 
+2 DATE ABT 1550
+2 PLAC Holsworthy, Devon, England
+1 DEAT 
+2 PLAC Holsworthy, Devon, England
+1 SEX M
+1 NAME John /Penrose/
+1 FAMC @F290@
+1 FAMS @F162@
+0 @P400@ INDI 
+1 BIRT 
+2 DATE 1529
+2 PLAC Holsworthy, Devon, England
+1 SEX M
+1 NAME John /Penrose/
+1 FAMS @F290@
+0 @P401@ INDI 
+1 DEAT 
+2 DATE 17 Mar 1637/38
+1 SEX F
+1 NAME /Alice/
+1 FAMS @F164@
+0 @P402@ INDI 
+1 BIRT 
+2 DATE 1575
+1 DEAT 
+2 DATE 05 Apr 1627
+2 PLAC Wendron, Cornwall
+1 SEX M
+1 NAME (Ralph Bartell) Ralph /Trevenen/
+1 FAMS @F164@
+0 @P403@ INDI 
+1 BIRT 
+2 DATE 1616
+2 PLAC Ringmer, Sussex, England
+1 DEAT 
+2 PLAC Crowhurst, Sussex, England
+1 SEX F
+1 NAME Elizabeth /Salmon/
+1 FAMC @F291@
+1 FAMS @F165@
+0 @P404@ INDI 
+1 BIRT 
+2 DATE 1594
+2 PLAC Ninfield, Sussex, England
+1 DEAT 
+2 DATE 25 Apr 1658
+2 PLAC Hooe, Sussex, England
+1 SEX M
+1 NAME William /Blackman/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=37001153-240c-4c67-bfe6-1b2c2d8d53e4&tid=151272142&pid=404
+2 FORM jpg
+2 TITL Blackman Coat of arms
+1 FAMC @F166@
+1 FAMS @F165@
+0 @P405@ INDI 
+1 BIRT 
+2 DATE 1572
+2 PLAC Ninefield, Sussex, England
+1 DEAT 
+2 DATE 12 Apr 1624 11 May 1625
+2 PLAC Ninfield, Sussex, England
+1 SEX F
+1 NAME Joane Purfell /Westbroke/
+1 FAMS @F166@
+0 @P406@ INDI 
+1 BIRT 
+2 DATE 1574
+2 PLAC Sompting, Sussex, England
+1 DEAT 
+2 DATE 21 May 1618
+2 PLAC St Mary, Whitechapel, Middlesex, England
+1 SEX M
+1 NAME THOMAS /BLACKMAN/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3451ea5a-5828-4ced-a6ee-c1eda939c8d2&tid=151272142&pid=406
+2 FORM jpg
+2 TITL Blackman Coat of Arms
+1 FAMC @F292@
+1 FAMS @F166@
+0 @P407@ INDI 
+1 BIRT 
+2 DATE 1575
+2 PLAC Northiam, Sussex, , England
+1 DEAT 
+2 DATE 1618
+2 PLAC Crowhurst, Sussex, England
+1 SEX F
+1 NAME BRIDGET  /HARRYSON  HARRISON/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=4a244221-8548-4ddc-8d3a-743ae14e8ef8&tid=151272142&pid=407
+2 FORM jpg
+2 TITL Harrison Coat of Arms
+1 FAMC @F167@
+1 FAMS @F291@
+0 @P408@ INDI 
+1 BIRT 
+2 DATE 1537
+2 PLAC Poynings, Sussex, England
+1 DEAT 
+2 DATE 20 Nov 1600
+2 PLAC Crowhurst, Sussex, England
+1 SEX F
+1 NAME Margaret /Slebery Slybery/
+1 FAMC @F293@
+1 FAMS @F292@
+0 @P409@ INDI 
+1 BIRT 
+2 DATE 1500
+2 PLAC Poynings, Sussex, England
+1 DEAT 
+2 DATE 1562
+2 PLAC Poynings, Sussex, England
+1 SEX M
+1 NAME William /Slebery Slybery/
+1 FAMC @F294@
+1 FAMS @F293@
+0 @P410@ INDI 
+1 BIRT 
+2 DATE Abt. 1473
+2 PLAC Poynings, Sussex, England
+1 DEAT 
+2 DATE Abt. 1535
+2 PLAC Poynings, West Sussex, England
+1 SEX M
+1 NAME Thomas /Slybody/
+1 FAMS @F294@
+0 @P411@ INDI 
+1 BIRT 
+2 DATE 1552
+2 PLAC of Northiam, Sussex, England
+1 SEX F
+1 NAME Anne /Holman/
+1 FAMC @F295@
+1 FAMS @F167@
+0 @P412@ INDI 
+1 BIRT 
+2 DATE 1550
+2 PLAC Crowhurst, Sussex, England
+1 DEAT 
+2 DATE abt 1585
+2 PLAC England
+1 SEX M
+1 NAME John /Harryson/
+1 FAMC @F296@
+1 FAMS @F167@
+0 @P413@ INDI 
+1 BIRT 
+2 DATE 1529.
+2 PLAC London, London, England.
+1 DEAT 
+2 DATE abt 1572
+1 SEX F
+1 NAME Elyzabeth /Hodson../
+1 FAMS @F296@
+0 @P414@ INDI 
+1 BIRT 
+2 DATE abt 1530
+2 PLAC Sussex, England
+1 DEAT 
+2 DATE 1593
+2 PLAC Northiam, Sussex, England
+1 SEX M
+1 NAME John /Holman/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=efd89970-0c38-4294-8e45-19ffd71faeea&tid=151272142&pid=414
+2 FORM jpg
+2 TITL John Holman burial
+1 FAMS @F295@
+0 @P415@ INDI 
+1 BIRT 
+2 DATE 1500
+2 PLAC Boarstall, Buckinghamshire, England
+1 DEAT 
+2 DATE 1585
+2 PLAC Welford, Berkshire, England
+1 NAME Anne /Reade/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=415
+1 FAMC @F173@
+1 FAMS @F169@
+1 FAMS @F174@
+0 @P416@ INDI 
+1 BIRT 
+2 DATE 1495
+2 PLAC Exeter, Devon, England
+1 DEAT 
+2 DATE 05 Aug 1580
+2 PLAC Exeter, Devon, England
+1 NAME THOMAS Roger Holcombe /Perry/ + Comptroller (Banker) to Queen Elizabeth I's Court
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=416
+1 FAMC @F170@
+1 FAMS @F169@
+0 @P417@ INDI 
+1 BIRT 
+2 DATE 1485
+2 PLAC Kirton, Lincolnshire, , England
+1 DEAT 
+2 DATE 12 Aug 1545
+2 PLAC Kirton, Lincolnshire, , England
+1 SEX M
+1 NAME Thomas /Coney/
+1 FAMC @F183@
+1 FAMS @F281@
+0 @P418@ INDI 
+1 BIRT 
+2 DATE 1468
+2 PLAC Hole, Devon, England
+1 DEAT 
+2 DATE 1520
+2 PLAC Devon, England
+1 NAME Lady Joane Jane Avenell /Holcombe/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=418
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6d90af89-4eff-4c72-943e-74ccb62d5d40&tid=151272142&pid=418
+2 FORM jpg
+2 TITL Flag of Old England
+1 FAMC @F172@
+1 FAMS @F170@
+0 @P419@ INDI 
+1 BIRT 
+2 DATE Jun 1464
+2 PLAC Water, Devon, England
+1 DEAT 
+2 DATE 28 May 1566
+2 PLAC Water, Devon, England
+1 NAME William Hele /Perry/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=419
+1 FAMC @F171@
+1 FAMS @F170@
+0 @P420@ INDI 
+1 BIRT 
+2 DATE 1446
+2 PLAC Somerset, England
+1 DEAT 
+2 DATE 1485
+2 PLAC Combe Martin, Devon, England
+1 NAME N N /DeFrye/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=420
+1 FAMS @F171@
+0 @P421@ INDI 
+1 BIRT 
+2 DATE 1464
+2 PLAC Water, Devon, England
+1 DEAT 
+2 DATE 1564
+2 PLAC Combe St Nicholas, Somerset, England
+1 NAME William /Perry/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=421
+1 FAMS @F171@
+0 @P422@ INDI 
+1 BIRT 
+2 DATE 07 Apr 1450
+2 PLAC Blackpool, Devon, England
+1 DEAT 
+2 DATE 07 Apr 1499
+2 PLAC Hull, Devon, England
+1 NAME Margaret /Avenell/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=422
+1 FAMC @F297@
+1 FAMS @F172@
+0 @P423@ INDI 
+1 BIRT 
+2 DATE 20 Jan 1440
+2 PLAC Hole, Devon, England
+1 DEAT 
+2 DATE 20 Jan 1480
+2 PLAC Blackpool, Devon, England
+1 NAME Roger /Holcombe/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=423
+1 FAMC @F298@
+1 FAMS @F172@
+0 @P424@ INDI 
+1 DEAT 
+2 PLAC Old Port, Devon, England
+1 SEX M
+1 NAME William /De La Port/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=5e5ac523-1f4b-43e3-8f14-52bde45d9ed7&tid=151272142&pid=424
+2 FORM jpg
+2 TITL coaLaPort
+0 @P425@ INDI 
+1 DEAT 
+2 PLAC Old Port, Devon, England
+1 SEX M
+1 NAME William /De La Port/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=5e5ac523-1f4b-43e3-8f14-52bde45d9ed7&tid=151272142&pid=425
+2 FORM jpg
+2 TITL coaLaPort
+0 @P426@ INDI 
+1 BIRT 
+2 DATE 1424
+2 PLAC Devon, England
+1 DEAT 
+2 DATE 20 Jan 1480
+2 PLAC Hull, Devon, England
+1 SEX F
+1 NAME Joane /Folkeroy/
+1 FAMS @F298@
+0 @P427@ INDI 
+1 BIRT 
+2 DATE 1424
+2 PLAC Moulton, Norfolk, England
+1 DEAT 
+2 DATE 1460
+2 PLAC Blackpool, Lancashire, England
+1 SEX M
+1 NAME John /Avenell/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=3ee30ca4-7f5c-422a-8b10-83135fa625a9&tid=151272142&pid=427
+2 FORM jpg
+2 TITL Avenell, John 1424
+1 FAMC @F177@
+1 FAMS @F297@
+0 @P428@ INDI 
+1 BIRT 
+2 DATE 1470
+1 DEAT 
+2 DATE 1524
+1 SEX F
+1 NAME Anne /Wantham/
+1 FAMC @F184@
+1 FAMS @F173@
+0 @P429@ INDI 
+1 BIRT 
+2 DATE Aug 1465
+2 PLAC Boarstall, Buckinghamshire, England
+1 DEAT 
+2 DATE 1527
+2 PLAC Boarstall, Buckinghamshire, England
+1 NAME Sir William /Read of Boarstall/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=429
+1 FAMC @F175@
+1 FAMS @F173@
+0 @P430@ INDI 
+1 BIRT 
+2 DATE 1513
+2 PLAC Welford, Berks, England
+1 DEAT 
+2 DATE 15 December 1560
+2 PLAC England
+1 NAME Thomas /Parry/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=430
+1 FAMS @F174@
+0 @P431@ INDI 
+1 BIRT 
+2 DATE 1425
+2 PLAC London, London, England
+1 DEAT 
+2 DATE 9 Aug 1498
+2 PLAC Lambeth, London, England
+1 NAME KATHERINE /Grene    Green/ * Knights Lady Companion
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=431
+1 FAMC @F180@
+1 FAMS @F175@
+1 FAMS @F181@
+0 @P432@ INDI 
+1 BIRT 
+2 DATE 1420
+2 PLAC Boarstall, Buckinghamshire, England
+1 DEAT 
+2 DATE 7 Jun 1487
+2 PLAC Boarstall, Buckinghamshire, England
+1 NAME EDMUND     II /Reed Rede/ * Sir Knight
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=432
+1 FAMC @F176@
+1 FAMS @F175@
+0 @P433@ INDI 
+1 BIRT 
+2 DATE 1401
+2 PLAC Boarstall,,Glamorgan,Wales
+1 DEAT 
+2 DATE 28 Mar 1435
+2 PLAC Boarstall,,Oxfordshire,England
+1 NAME Christina /James/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=433
+1 FAMC @F182@
+1 FAMS @F176@
+0 @P434@ INDI 
+1 BIRT 
+2 DATE 1397
+2 PLAC Glamorgan, Wales
+1 DEAT 
+2 DATE 8 Oct 1430
+2 PLAC Checkenden, England
+1 NAME Edmund /Rede/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=434
+1 FAMS @F176@
+0 @P435@ INDI 
+1 BIRT 
+2 DATE circa 1395
+2 PLAC Bridgenorth, Shropshire, England
+1 DEAT 
+2 DATE December 11,1471?
+2 PLAC Bermondsey, London, England
+1 NAME Elizabeth /Warner/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=435
+1 FAMS @F180@
+0 @P436@ INDI 
+1 BIRT 
+2 DATE 1390
+2 PLAC Hayes, Middlesex, England
+1 DEAT 
+2 DATE December 6, 1456
+2 PLAC Hayes, Middlesex, England?
+1 NAME Walter /Grene (Greene) II/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=436
+1 FAMS @F180@
+0 @P437@ INDI 
+1 BIRT 
+2 DATE 1420
+2 PLAC Crowhurst, Surrey, England
+1 DEAT 
+2 DATE 7 Jul 1460
+2 PLAC Crowhurst, Surrey, England
+1 NAME John /Gaynesford IV/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=437
+1 FAMS @F181@
+0 @P438@ INDI 
+1 BIRT 
+2 DATE 1372
+2 PLAC Boarstall, Glamorgan, Wales
+1 DEAT 
+2 DATE 16 Feb 1431
+2 PLAC Boarstall, Buckinghamshire, England
+1 NAME Catherine /DeLaPole/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=438
+1 FAMS @F182@
+0 @P439@ INDI 
+1 BIRT 
+2 DATE 1375
+2 PLAC Boarstall, Glamorgan, Wales
+1 DEAT 
+2 DATE 16 Feb 1432
+2 PLAC Wallingford, Buckinghamshire, England
+1 NAME Robert /James/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=439
+1 FAMS @F182@
+0 @P440@ INDI 
+1 BIRT 
+2 DATE 1400
+2 PLAC Devon, England
+1 DEAT 
+2 DATE 1448
+2 PLAC North Molton, Devon, England
+1 SEX F
+1 NAME Elizabeth /Mouton/
+1 FAMS @F177@
+0 @P441@ INDI 
+1 BIRT 
+2 DATE 1400
+2 PLAC Devon, England
+1 DEAT 
+2 DATE 1448
+2 PLAC North Molton, Devon, England
+1 NAME Elizabeth /Mouton/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=441
+1 FAMS @F178@
+0 @P442@ INDI 
+1 BIRT 
+2 DATE 1405
+2 PLAC Norfolk, England
+1 DEAT 
+2 DATE 1430
+2 PLAC Lancashire, England
+1 NAME Robert /Mouton Avenell/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=442
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=82dc87be-e400-4d72-a196-6da7685b6955&tid=151272142&pid=442
+2 FORM jpg
+2 TITL England flag antique
+1 FAMC @F179@
+1 FAMS @F177@
+1 FAMS @F178@
+0 @P443@ INDI 
+1 BIRT 
+2 DATE 1380
+2 PLAC Norfolk, England
+1 DEAT 
+2 DATE 1444
+1 NAME Lady Joan /Gambon/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=443
+1 FAMS @F179@
+0 @P444@ INDI 
+1 BIRT 
+2 DATE 1384
+2 PLAC Norfolk, England
+1 DEAT 
+2 DATE 1460
+2 PLAC Blackpool, Lancashire, England
+1 NAME John /Avenell/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=444
+1 FAMS @F179@
+0 @P445@ INDI 
+1 BIRT 
+2 DATE 1452
+2 PLAC Lincoln, Canterbury, England
+1 DEAT 
+2 DATE 1512
+2 PLAC Kirton, Lincolnshire, England
+1 SEX F
+1 NAME Agnes /Perry/
+1 FAMC @F299@
+1 FAMS @F183@
+0 @P446@ INDI 
+1 NAME Thomas /Coney/
+1 BIRT 
+2 DATE about 1450
+2 PLAC Kirton, Lincolnshire, England
+1 DEAT 
+2 DATE 2 October 1522
+2 PLAC Basingthorpe, Lincolnshire, England
+1 SEX M
+1 FAMS @F183@
+0 @P447@ INDI 
+1 BIRT 
+2 DATE 1416
+2 PLAC Membury, Devon, England
+1 DEAT 
+2 DATE 1497
+2 PLAC Membury, Devon, England
+1 SEX M
+1 NAME WILLIAM CHRISTOPHER /PERRY (PEYRE)/ (Sir Lord Knight)
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=cd859653-2359-499f-b88d-6690ff642cb2&tid=151272142&pid=447
+2 FORM jpg
+2 TITL Perry or Perrie
+1 FAMS @F299@
+0 @P448@ INDI 
+1 NAME Elizabeth /Stafford/
+1 BIRT 
+2 DATE 1433
+2 PLAC Buckinghamshire, England
+1 DEAT 
+2 DATE 1485
+2 PLAC Buckinghamshire, England
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=448
+1 FAMC @F185@
+1 FAMS @F184@
+0 @P449@ INDI 
+1 BIRT 
+2 DATE 1433
+2 PLAC of Boarstall, Buckinghamshire, England
+1 DEAT 
+2 DATE 1483
+2 PLAC of Boarstall ,Buckinghamshire, England
+1 NAME William /Wantham/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=449
+1 FAMS @F184@
+0 @P450@ INDI 
+1 NAME Anne De /Neville /
+1 BIRT 
+2 DATE 1404
+2 PLAC Raby Castle, Durham, England
+1 DEAT 
+2 DATE 20 Sep 1480
+2 PLAC Bromsgrove, Worcestershire, England
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=450
+1 FAMC @F300@
+1 FAMS @F185@
+0 @P451@ INDI 
+1 BIRT 
+2 DATE 15 Aug 1402
+2 PLAC Stafford Castle, Staffordshire, England
+1 DEAT 
+2 DATE 10 Jul 1460
+2 PLAC Battle of Northampton, Northamptonshire, England
+1 NAME Sir Humphrey, 1st Duke of Buckingham, 6th Earl /DeStafford KG/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=451
+1 FAMC @F186@
+1 FAMS @F185@
+0 @P452@ INDI 
+1 BIRT 
+2 DATE April 1383
+2 PLAC Pleshy, Essex, England
+1 DEAT 
+2 DATE 16 October 1438
+1 SEX F
+1 NAME Anna /of Woodstock/ Countess of Buckingham, Hereford and Northampton
+1 FAMC @F301@
+1 FAMS @F186@
+0 @P453@ INDI 
+1 BIRT 
+2 DATE 2 March 1378
+1 DEAT 
+2 DATE 21 July 1403
+1 SEX M
+1 NAME Edmund /Stafford/ Earl of Stafford
+1 FAMC @F302@
+1 FAMS @F186@
+0 @P454@ INDI 
+1 BIRT 
+2 DATE 1364
+1 DEAT 
+2 DATE 1425
+1 SEX M
+1 NAME Ralph /De Neville/
+1 FAMS @F300@
+0 @P455@ INDI 
+1 BIRT 
+2 DATE Abt. 1342
+1 DEAT 
+2 DATE 16 October 1386
+2 PLAC Hospital of the Knights of St John, Rhodes
+1 SEX M
+1 NAME Hugh /de Stafford/
+1 FAMC @F303@
+1 FAMS @F302@
+0 @P456@ INDI 
+1 BIRT 
+2 DATE 7 Jan 1355
+2 PLAC Woodstock Palace, Oxfordshire, England
+1 DEAT 
+2 DATE 8 or 9 September 1397
+2 PLAC Calais, Pale of Calais
+1 SEX M
+1 NAME Thomas /of Woodstock/ 1st Earl Buckingham, Essex
+1 FAMC @F304@
+1 FAMS @F301@
+0 @P457@ INDI 
+1 BIRT 
+2 DATE 24 September 1301
+1 DEAT 
+2 DATE 31 August 1372
+2 PLAC Tonbridge Castle, Kent, England
+1 SEX M
+1 NAME Ralph /de Stafford/
+1 FAMC @F305@
+1 FAMS @F303@
+0 @P458@ INDI 
+1 BIRT 
+2 DATE 15 July 1272/1273
+1 DEAT 
+2 DATE 12 August 1308
+2 PLAC Stafford, buried Church of the Friars Minors, Stafford
+1 SEX M
+1 NAME Edmund /de Stafford/ 1st Baron
+1 FAMC @F306@
+1 FAMS @F305@
+0 @P459@ INDI 
+1 BIRT 
+2 DATE Abt. 1246
+2 PLAC Stafford, Staffordshire, England
+1 DEAT 
+2 DATE August 1, 1287
+2 PLAC Siege of Droselan Castle
+1 SEX M
+1 NAME Nicholas /de Stafford/
+1 FAMS @F306@
+0 @P460@ INDI 
+1 BIRT 
+2 DATE 13 Nov 1312
+2 PLAC Windsor Castle, Berkshire
+1 DEAT 
+2 DATE 21 June 1377
+2 PLAC Sheen Palace, Richmond
+1 SEX M
+1 NAME Edward III /England/ His Majesty
+1 FAMS @F304@
+0 @P461@ INDI 
+1 BIRT 
+2 DATE 1736
+2 PLAC lincoln
+1 SEX F
+1 NAME Mary /Robinson/
+1 FAMC @F191@
+1 FAMS @F188@
+0 @P462@ INDI 
+1 BIRT 
+2 DATE abt 1736
+2 PLAC Elton, Huntingdonshire, England
+1 SEX M
+1 NAME Christopher /Morton/
+1 FAMC @F189@
+1 FAMS @F188@
+0 @P463@ INDI 
+1 BIRT 
+2 DATE 12 Jan 1732
+2 PLAC Horncastle, Lincolnshire, England
+1 SEX F
+1 NAME Ann /Moody/
+1 FAMS @F202@
+0 @P464@ INDI 
+1 BIRT 
+2 DATE 1739
+2 PLAC Horncastle, Lincolnshire, England
+1 SEX M
+1 NAME Richard /Parker/
+1 FAMS @F202@
+0 @P465@ INDI 
+1 BIRT 
+2 DATE 1705
+1 SEX F
+1 NAME Elizabeth /Hawly/
+1 FAMS @F189@
+0 @P466@ INDI 
+1 BIRT 
+2 DATE 1708
+2 PLAC Elton,Huntingdonshire, England
+1 SEX M
+1 NAME William /Morton/
+1 FAMC @F190@
+1 FAMS @F189@
+0 @P467@ INDI 
+1 BIRT 
+2 DATE 1688
+1 DEAT 
+2 DATE abt 1774
+1 SEX F
+1 NAME Sarah /Colpes/
+1 FAMS @F190@
+0 @P468@ INDI 
+1 BIRT 
+2 DATE 1683
+2 PLAC Hungtingdonshire, England
+1 SEX M
+1 NAME John /Morton END/
+1 FAMS @F190@
+0 @P469@ INDI 
+1 BIRT 
+2 DATE 1710
+1 SEX F
+1 NAME Ann
+1 FAMC @F198@
+1 FAMS @F191@
+0 @P470@ INDI 
+1 BIRT 
+2 DATE 1710
+1 SEX M
+1 NAME Robert /Robinson/
+1 FAMC @F192@
+1 FAMS @F191@
+0 @P471@ INDI 
+1 BIRT 
+2 DATE OCT 1686
+2 PLAC ?of Winlaton, DUR, UK
+1 DEAT 
+2 DATE AFT 1709
+2 PLAC ?Ryton, DUR, UK
+1 SEX F
+1 NAME Margaret /Todd/
+1 FAMC @F196@
+1 FAMS @F192@
+0 @P472@ INDI 
+1 BIRT 
+2 DATE ABT JAN 1688
+2 PLAC Ryton [?of Winlaton], DUR, UK
+1 DEAT 
+2 DATE AFT 1709
+2 PLAC ?Ryton, DUR, UK
+1 SEX M
+1 NAME William "Will" (Robson) /Robinson/
+1 FAMC @F193@
+1 FAMS @F192@
+0 @P473@ INDI 
+1 BIRT 
+2 DATE 1671
+2 PLAC Gateshead, County Durham
+1 DEAT 
+2 DATE 16 MAR 1746
+2 PLAC Winlaton, Ryton, Durham, England
+1 SEX F
+1 NAME Margaret /Champley/
+1 FAMC @F200@
+1 FAMS @F198@
+0 @P474@ INDI 
+1 BIRT 
+2 DATE 1669
+2 PLAC Chester-Le-Street, Durham, England
+1 DEAT 
+2 DATE 02 DEC 1726
+2 PLAC Winlaton, Durham, England
+1 SEX M
+1 NAME Robert /Carr/
+1 FAMC @F307@
+1 FAMS @F198@
+0 @P475@ INDI 
+1 BIRT 
+2 DATE FEB 1667
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE AFT 1706
+2 PLAC Ryton, DUR, UK
+1 SEX F
+1 NAME Elizabeth /Hopper/
+1 FAMC @F195@
+1 FAMS @F193@
+0 @P476@ INDI 
+1 BIRT 
+2 DATE 29 OCT 1656
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE AFT 1706
+2 PLAC Ryton, DUR, UK
+1 SEX M
+1 NAME George /Robinson/ Jnr
+1 FAMC @F194@
+1 FAMS @F193@
+0 @P477@ INDI 
+1 BIRT 
+2 DATE 22 NOV 1624
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE 26 FEB 1685
+2 PLAC Ryton, DUR, UK
+1 SEX F
+1 NAME Mabel /Dodd/
+1 FAMS @F194@
+0 @P478@ INDI 
+1 BIRT 
+2 DATE ABT 1625
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE 17 MAR 1663
+2 PLAC ?Kio / Ryton, DUR, UK
+1 SEX M
+1 NAME George /Robinson/ Snr
+1 FAMS @F194@
+0 @P479@ INDI 
+1 BIRT 
+2 DATE ABT 1635
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE AFT 1680
+2 PLAC ?Ryton, DUR, UK
+1 SEX F
+1 NAME Mary /Dickinson/
+1 FAMS @F195@
+0 @P480@ INDI 
+1 BIRT 
+2 DATE ABT 1635
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE AFT 1680
+2 PLAC ?Ryton, DUR, UK
+1 SEX M
+1 NAME Henry /Hopper/
+1 FAMS @F195@
+0 @P481@ INDI 
+1 BIRT 
+2 DATE BEF 1663
+2 PLAC ?Ryton, DUR, UK
+1 DEAT 
+2 DATE 07 SEP 1706
+2 PLAC Ryton, DUR, UK
+1 SEX F
+1 NAME Jane /Worde/
+1 FAMS @F196@
+0 @P482@ INDI 
+1 BIRT 
+2 DATE 05 SEP 1658
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE 11 MAY 1693
+2 PLAC Ryton, DUR, UK
+1 SEX M
+1 NAME John /Todd/
+1 FAMC @F197@
+1 FAMS @F196@
+0 @P483@ INDI 
+1 BIRT 
+2 DATE ABT 1630
+2 PLAC ?Newburn, NBL, UK
+1 DEAT 
+2 DATE 02 FEB 1702
+2 PLAC ?Poorhouse, Ryton, DUR, UK
+1 SEX F
+1 NAME Isabell /Todd/
+1 FAMS @F197@
+0 @P484@ INDI 
+1 BIRT 
+2 DATE DEC 1632
+2 PLAC Ryton, DUR, UK
+1 DEAT 
+2 DATE 23 JAN 1693
+2 PLAC Ryton, DUR, UK
+1 SEX M
+1 NAME Thomas /Todd/
+1 FAMS @F197@
+0 @P485@ INDI 
+1 BIRT 
+2 DATE 1634
+2 PLAC Chester le Street, Co Durham
+1 SEX M
+1 NAME Edward /Carr/
+1 FAMC @F199@
+1 FAMS @F307@
+0 @P486@ INDI 
+1 BIRT 
+2 DATE 1643
+2 PLAC Gateshead, Durham, England
+1 DEAT 
+2 DATE Abt. 1680
+2 PLAC Gateshead, Durham, England
+1 SEX F
+1 NAME Isabel /Grey/
+1 FAMC @F308@
+1 FAMS @F200@
+0 @P487@ INDI 
+1 BIRT 
+2 DATE 02 OCT 1642
+2 PLAC Gateshead, DUR, UK
+1 DEAT 
+2 DATE AFT 1683
+2 PLAC Gateshead, Durham, England
+1 SEX M
+1 NAME Michael (Champleigh) /Champley/
+1 FAMC @F201@
+1 FAMS @F200@
+0 @P488@ INDI 
+1 BIRT 
+2 DATE Abt. 1600
+2 PLAC Co Durham
+1 SEX F
+1 NAME Anne (Agnes) /Proctor/
+1 FAMS @F199@
+0 @P489@ INDI 
+1 BIRT 
+2 DATE Abt. 1600
+2 PLAC Co Durham
+1 SEX M
+1 NAME Thomas /Carre/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=37851e22-6f88-4947-ab7c-933ca1f8b599&tid=151272142&pid=489
+2 FORM jpg
+2 TITL Dead End
+1 FAMS @F199@
+0 @P490@ INDI 
+1 BIRT 
+2 DATE 06 Oct 1617
+2 PLAC Gateshead,Durham,England
+1 DEAT 
+2 DATE 28 MAY 1682
+2 PLAC Winlaton/ Ryton, DUR, UK
+1 SEX F
+1 NAME Jane /Storye/
+1 FAMC @F309@
+1 FAMS @F201@
+0 @P491@ INDI 
+1 BIRT 
+2 DATE Abt. 1612
+1 SEX M
+1 NAME Cuthbert /Champlie/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=32d2b661-8c33-466d-9f2b-7e452ddf1a0d&tid=151272142&pid=491
+2 FORM jpg
+2 TITL Dead End
+1 FAMS @F201@
+0 @P492@ INDI 
+1 BIRT 
+2 DATE 1615
+2 PLAC Gateshead, Durham, England
+1 SEX M
+1 NAME John /Grey/
+1 FAMS @F308@
+0 @P493@ INDI 
+1 BIRT 
+2 DATE Abt. 1590
+2 PLAC Gateshead, County Durham
+1 SEX M
+1 NAME Percival /Storye/
+1 FAMS @F309@
+0 @P494@ INDI 
+1 BIRT 
+2 DATE 1721
+2 PLAC Panbride, Angus, Scotland
+1 DEAT 
+2 DATE 15 Oct 1780
+2 PLAC Barry, Angus, Scotland
+1 SEX F
+1 NAME Margaret /Ireland/
+1 FAMC @F310@
+1 FAMS @F204@
+0 @P495@ INDI 
+1 BIRT 
+2 DATE 13 Apr 1722
+2 PLAC Barry, Angus, , Scotland, 
+1 DEAT 
+2 DATE 28 Aug 1778
+2 PLAC Barry, Angus, Scotland
+1 SEX M
+1 NAME David /Sword/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=d6557589-3f1f-4bca-96e3-15c48514ee68&tid=151272142&pid=495
+2 FORM jpg
+2 TITL Sword
+1 FAMC @F205@
+1 FAMS @F204@
+0 @P496@ INDI 
+1 BIRT 
+2 DATE ABT 1719
+2 PLAC of Barry, Angus, Scot.
+1 DEAT 
+2 DATE 16 FEB 1795
+2 PLAC Barry, Angusshire, Scotland
+1 SEX F
+1 NAME Isabel /Nicholson/
+1 FAMC @F223@
+1 FAMS @F221@
+0 @P497@ INDI 
+1 BIRT 
+2 DATE 04 August 1716
+2 PLAC Echt, Aberdeenshire, Scotland
+1 SEX M
+1 NAME William John /Rae/
+1 FAMC @F222@
+1 FAMS @F221@
+0 @P498@ INDI 
+1 BIRT 
+2 DATE 1695
+2 PLAC Angus, Scotland
+1 DEAT 
+2 DATE 30 Sep 1747
+2 PLAC Budden, Angus, Scotland
+1 SEX F
+1 NAME Jannet /Stroner/
+1 FAMS @F205@
+0 @P499@ INDI 
+1 BIRT 
+2 DATE 24 Apr 1690
+2 PLAC Mains and Strathmartin, Angus, Scotland
+1 DEAT 
+2 DATE 14 Apr 1769
+2 PLAC Budden, Angus, Scotland
+1 SEX M
+1 NAME William /Sword/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=293abb6c-dbd7-4318-a4aa-dd647e0825ac&tid=151272142&pid=499
+2 FORM jpg
+2 TITL Sword
+1 FAMC @F206@
+1 FAMS @F205@
+0 @P500@ INDI 
+1 BIRT 
+2 DATE 1665
+2 PLAC Strathmartine, Angus, Scotland
+1 SEX F
+1 NAME Margaret /Asplene/
+1 FAMC @F224@
+1 FAMS @F206@
+0 @P501@ INDI 
+1 BIRT 
+2 DATE 17 Mar 1663
+2 PLAC Strathmartine, Angus, Scotland
+1 SEX M
+1 NAME David /SWORD/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=973f9696-0c7b-449c-b549-a42f28a77bc4&tid=151272142&pid=501
+2 FORM jpg
+2 TITL Sword
+1 FAMC @F207@
+1 FAMS @F206@
+0 @P502@ INDI 
+1 BIRT 
+2 DATE 1632
+2 PLAC Perth, Perthshire, Scotland
+1 DEAT 
+2 DATE 1677
+1 SEX F
+1 NAME Christian /STALKER/
+1 FAMC @F208@
+1 FAMS @F207@
+0 @P503@ INDI 
+1 BIRT 
+2 DATE 1640
+2 PLAC Scotland
+1 SEX M
+1 NAME William /Sword/
+1 FAMS @F207@
+0 @P504@ INDI 
+1 BIRT 
+2 DATE 2 Jul 1608
+2 PLAC Edinburgh, Midlothian, Scotland
+1 SEX F
+1 NAME Sara /Duncan/
+1 FAMC @F209@
+1 FAMS @F208@
+0 @P505@ INDI 
+1 BIRT 
+2 DATE 1605
+2 PLAC Linlithgow, West Lothian, Scotland
+1 DEAT 
+2 PLAC Linlithgow, Westlothian, Scotland
+1 SEX M
+1 NAME Hendrie /Stalker/
+1 FAMS @F208@
+0 @P506@ INDI 
+1 BIRT 
+2 DATE 1588
+2 PLAC Errol, Perth, Fife, Scotland
+1 SEX F
+1 NAME Issobel /Kedder/
+1 FAMS @F209@
+0 @P507@ INDI 
+1 BIRT 
+2 DATE 1581
+2 PLAC Errol, Perth, Fife, Scotland
+1 SEX M
+1 NAME David /Duncan/
+1 FAMC @F210@
+1 FAMS @F209@
+0 @P508@ INDI 
+1 BIRT 
+2 DATE 1545
+2 PLAC Errol Perthshire Scotland
+1 DEAT 
+2 DATE 1584
+2 PLAC Errol, Perthshire, Scotland
+1 SEX F
+1 NAME Janet /Ogilvie/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a58fc388-3ccc-4492-9944-787d59e1fdab&tid=151272142&pid=508
+2 FORM jpg
+2 TITL Ogilvie
+1 FAMS @F210@
+0 @P509@ INDI 
+1 BIRT 
+2 DATE 1530
+2 PLAC Errol, Perth, Fife, Scotland
+1 DEAT 
+2 DATE 2 May 1587
+2 PLAC Errol, Perth, Fife, Scotland
+1 NAME William /Duncan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=509
+1 FAMC @F212@
+1 FAMS @F210@
+0 @P510@ INDI 
+1 BIRT 
+2 DATE 1509
+2 PLAC Dunfermline, Fife, Scotland
+1 DEAT 
+2 DATE 24 Mar 1597
+2 PLAC Dunfermline, Fife, Scotland 
+1 NAME Lady Agnes /Robinson/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=510
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=6b2826f3-3be8-48d7-b47b-02bc475a6feb&tid=151272142&pid=510
+2 FORM jpg
+2 TITL Robinson
+1 FAMC @F211@
+1 FAMS @F212@
+0 @P511@ INDI 
+1 BIRT 
+2 DATE 1501
+2 PLAC Dunfermline, Fife, Scotland
+1 DEAT 
+2 DATE 27 May 1574
+2 PLAC Paisley, Renfrewshire, Scotland
+1 NAME William /Duncan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=511
+1 FAMC @F213@
+1 FAMS @F212@
+0 @P512@ INDI 
+1 BIRT 
+2 DATE 23 Mar 1449
+2 PLAC Govan, Lanarkshire, Scotland
+1 DEAT 
+2 DATE 1517
+2 PLAC Fife, Scotland
+1 NAME Jane /Blackaby/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=512
+1 FAMC @F227@
+1 FAMS @F211@
+0 @P513@ INDI 
+1 BIRT 
+2 DATE 1460
+2 PLAC Portobello, Midlothian, Scotland
+1 DEAT 
+2 DATE 1550
+2 PLAC Portobello, Midlothian, Scotland
+1 NAME George /Robinson/ II
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=513
+1 FAMC @F311@
+1 FAMS @F211@
+0 @P514@ INDI 
+1 BIRT 
+2 DATE abt 1430
+2 PLAC Meikle Govan Hillok, Portobello, Scotland
+1 DEAT 
+2 DATE 1498
+2 PLAC Meikle Govan Hillok, Portobello, Midlothian, Scotland
+1 NAME Sir George I /Robinson/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=514
+1 FAMS @F311@
+0 @P515@ INDI 
+1 BIRT 
+2 DATE 1460
+2 PLAC Garbred, Fife, Scotland
+1 DEAT 
+2 DATE 1504
+2 PLAC Scotland
+1 SEX F
+1 NAME Janet /Crosbye/
+1 FAMC @F225@
+1 FAMS @F213@
+0 @P516@ INDI 
+1 BIRT 
+2 DATE 1460
+2 PLAC Garbred, Fife, , Scotland
+1 DEAT 
+2 DATE 27 May 1574
+2 PLAC , , , Scotland
+1 SEX M
+1 NAME Allan /Duncan/
+1 FAMC @F214@
+1 FAMS @F213@
+0 @P517@ INDI 
+1 BIRT 
+2 DATE 1440
+2 PLAC Garbred, Fife, Scotland
+1 DEAT 
+2 DATE 1472
+2 PLAC West Lothian, Scotland
+1 NAME Marion /Bogyl   /
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=517
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a12e3036-b68a-49fb-8ff4-d9d22c8edf29&tid=151272142&pid=517
+2 FORM jpg
+2 TITL scottish flag
+1 FAMC @F216@
+1 FAMS @F214@
+0 @P518@ INDI 
+1 BIRT 
+2 DATE 1430
+2 PLAC Inverkerkeiting, Aberdeenshire, Scotland
+1 MARR 
+2 PLAC Perth, Scotland
+1 MARR 
+2 PLAC Perth: - Guildry Book, 1452-1601
+1 DEAT 
+2 DATE 1470
+2 PLAC Kirkcaldy, West Lothian, Scotland
+1 NAME David Mitchell /Burgess of Kirkcaldy, Duncan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=518
+1 FAMC @F215@
+1 FAMS @F214@
+0 @P519@ INDI 
+1 NAME Janet Need /Pardue/
+1 BIRT 
+2 DATE 1400
+2 PLAC , Aberdeenshire, , Scotland
+1 DEAT 
+2 DATE 1460
+2 PLAC Kirkcaldy, West Lothian, Scotland
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=519
+1 FAMC @F312@
+1 FAMS @F215@
+0 @P520@ INDI 
+1 BIRT 
+2 DATE 1400
+2 PLAC Rothybrisbane, Aberdeenshire, Scotland
+1 MARR 
+2 PLAC St. Andrews, Perth, Scotland
+1 DEAT 
+2 DATE 1449
+2 PLAC Kirkcaldy, West Lothian, Scotland
+1 NAME Johannis /Duncan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=520
+1 FAMC @F217@
+1 FAMS @F215@
+0 @P521@ INDI 
+1 BIRT 
+2 DATE About 1420
+2 PLAC Garbred, Fife, Scotland
+1 DEAT 
+2 DATE About 1440
+2 PLAC Garbred, Fife, Scotland
+1 NAME Marion /Arnot/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=521
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e7a65797-7a05-4136-8c60-c1381e5c7bbb&tid=151272142&pid=521
+2 FORM jpg
+2 TITL Tree
+1 FAMC @F220@
+1 FAMS @F216@
+0 @P522@ INDI 
+1 BIRT 
+2 DATE circa 1405
+2 PLAC Fife, Scotland
+1 DEAT 
+2 DATE circa 1470
+2 PLAC Fife, Scotland
+1 NAME George /Bogyl/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=522
+1 FAMC @F313@
+1 FAMS @F216@
+0 @P523@ INDI 
+1 BIRT 
+2 DATE 1345
+2 PLAC Scotland
+1 NAME Beatrice /Mitchell/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=523
+1 FAMS @F217@
+0 @P524@ INDI 
+1 BIRT 
+2 DATE 1344
+2 PLAC Scotland
+1 DEAT 
+2 PLAC Kirkcaldy, West Lothian, Scotland
+1 NAME David /Duncan/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=524
+1 FAMS @F217@
+0 @P525@ INDI 
+1 BIRT 
+2 DATE 1378
+2 PLAC Scotland, Europe
+1 DEAT 
+2 DATE 1410
+2 PLAC Aberdeenshire, Scotland
+1 NAME James /Pardue/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=525
+1 FAMS @F312@
+0 @P526@ INDI 
+1 BIRT 
+2 DATE Abt. 1375
+2 PLAC Fife, Scotland
+1 DEAT 
+2 DATE unknown
+2 PLAC Fife, Scotland
+1 NAME George /Bogyl/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=526
+1 FAMS @F313@
+0 @P527@ INDI 
+1 BIRT 
+2 DATE 1400
+2 PLAC Balmuto, Fife, Scotland
+1 DEAT 
+2 DATE 1480
+2 PLAC Portmoak, Kinross-shire, Scotland
+1 NAME Lady Marjory /Boswell/
+1 MARR 
+2 PLAC Balbedie, Perth, Scotland
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=527
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=a4526098-db9e-487c-a5c3-62c1a9268275&tid=151272142&pid=527
+2 FORM jpg
+2 TITL Scottish Lady
+1 FAMC @F218@
+1 FAMS @F219@
+1 FAMS @F220@
+0 @P528@ INDI 
+1 BIRT 
+2 DATE 1412
+2 PLAC Arnot Tower, Portmoak, Kinrosshire, Scotland
+1 DEAT 
+2 DATE 1450
+2 PLAC Arnot Tower, Portmoak, Kinrosshire, Scotland
+1 NAME John /Arnot/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=528
+1 FAMS @F220@
+0 @P529@ INDI 
+1 BIRT 
+2 DATE 1370
+1 DEAT 
+2 DATE 1426
+2 PLAC Scotland
+1 NAME Christine /Glen/
+1 SEX F
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=529
+1 FAMS @F218@
+0 @P530@ INDI 
+1 BIRT 
+2 DATE 1365
+1 DEAT 
+2 DATE 14 May 1429
+2 PLAC Balmuto, Fife, Scotland
+1 NAME John /Boswell Liard van Balgregie/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=530
+1 FAMS @F218@
+0 @P531@ INDI 
+1 BIRT 
+2 DATE 1412
+2 PLAC Portmoak, Kinross-shire, Scotland
+1 DEAT 
+2 DATE 1450
+2 PLAC Balberton, Fife, Scotland
+1 NAME Sir John  /Arnot/
+1 SEX M
+1 SOUR @S1130714545@
+2 PAGE Ancestry Family Tree
+2 DATA
+3 TEXT http://trees.ancestry.com/pt/AMTCitationRedir.aspx?tid=151272142&pid=531
+1 FAMS @F219@
+0 @P532@ INDI 
+1 BIRT 
+2 DATE 1440
+2 PLAC Aberdeenshire, Scotland
+1 DEAT 
+2 DATE 1472
+2 PLAC Garbred, Fife-shire, Scotland
+1 SEX F
+1 NAME Mary Margaret /Boyl/
+1 FAMS @F225@
+0 @P533@ INDI 
+1 BIRT 
+2 DATE 1438
+2 PLAC Langford, Norfolk, England
+1 DEAT 
+2 DATE 1463
+2 PLAC Straiton, Ayrshire, Scotland
+1 SEX M
+1 NAME Thomas /Crosbye/
+1 FAMC @F226@
+1 FAMS @F225@
+0 @P534@ INDI 
+1 BIRT 
+2 DATE 1696
+2 PLAC Scotland
+1 SEX M
+1 NAME Robert /Ireland/
+1 FAMS @F310@
+0 @P535@ INDI 
+1 BIRT 
+2 DATE 16 Oct 1697
+2 PLAC Scotland
+1 DEAT 
+2 DATE 1781 
+2 PLAC West Lothian, Scotland
+1 SEX F
+1 NAME Elspeth /Middlemist Hardie/
+1 FAMS @F222@
+0 @P536@ INDI 
+1 BIRT 
+2 DATE 09 August 1695
+2 PLAC Glasgow, Lanarkshire, , Scotland
+1 DEAT 
+2 PLAC Scotland
+1 SEX M
+1 NAME John /Rae/
+1 FAMS @F222@
+0 @P537@ INDI 
+1 BIRT 
+2 DATE 1690
+2 PLAC Arboath, Angus County, Scotland
+1 SEX F
+1 NAME Isabel /Littlejohn/
+1 FAMS @F223@
+0 @P538@ INDI 
+1 BIRT 
+2 DATE abt 1692
+2 PLAC Arbroath,Angus,Scotland
+1 SEX M
+1 NAME Alexander /Nicolson/
+1 FAMS @F223@
+0 @P539@ INDI 
+1 BIRT 
+2 DATE Abt. 1640
+1 SEX F
+1 NAME Mart. /Couper/
+1 FAMS @F224@
+0 @P540@ INDI 
+1 BIRT 
+2 DATE Abt. 1640
+1 SEX M
+1 NAME John /Asplene/
+1 FAMS @F224@
+0 @P541@ INDI 
+1 BIRT 
+2 DATE 1440
+2 PLAC Aberdeenshire, Scotland
+1 DEAT 
+2 DATE 1472
+2 PLAC Garbred, Fife-shire, Scotland
+1 SEX F
+1 NAME Mary Margaret /Boyl/
+1 FAMS @F226@
+0 @P542@ INDI 
+1 BIRT 
+2 DATE 1438
+2 PLAC Langford, Norfolk, England
+1 DEAT 
+2 DATE 1463
+2 PLAC Straiton, Ayrshire, Scotland
+1 SEX M
+1 NAME Thomas /Crosbye/
+1 FAMS @F226@
+0 @P543@ INDI 
+1 BIRT 
+2 DATE 1412
+2 PLAC Scotland
+1 DEAT 
+2 DATE 15 May 1478
+2 PLAC Hertfordshire, England
+1 SEX F
+1 NAME Lady Susan /Lake*/ 15th GGM
+1 FAMS @F227@
+0 @P544@ INDI 
+1 BIRT 
+2 DATE 1405
+2 PLAC Hertfordshire, England
+1 DEAT 
+2 DATE 1477
+2 PLAC Stanstead Abbots, Hertfordshire, England
+1 SEX M
+1 NAME Sir William Frances /Blackaby/ 15th GGF
+1 FAMS @F227@
+0 @P545@ INDI 
+1 BIRT 
+2 DATE 1749
+1 DEAT 
+2 DATE 1830
+1 SEX F
+1 NAME Jeanne-Marie /Chamorel/
+1 FAMS @F229@
+0 @P546@ INDI 
+1 BIRT 
+2 DATE 21 Aug 1735
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 DEAT 
+2 DATE 1830
+1 SEX M
+1 NAME David /Vurlod/
+1 FAMC @F314@
+1 FAMS @F229@
+0 @P547@ INDI 
+1 BIRT 
+2 DATE 29 Nov 1705
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX M
+1 NAME David /Vurlod/
+1 FAMC @F230@
+1 FAMS @F314@
+0 @P548@ INDI 
+1 BIRT 
+2 DATE 1676
+1 SEX F
+1 NAME Marie /Tillie/
+1 FAMC @F315@
+1 FAMS @F230@
+0 @P549@ INDI 
+1 BIRT 
+2 DATE 13 Sep 1676
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX M
+1 NAME David /Vurlod/
+1 FAMC @F316@
+1 FAMS @F230@
+0 @P550@ INDI 
+1 BIRT 
+2 DATE 20 Dec 1652
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX M
+1 NAME David /Vurlod/
+1 FAMC @F231@
+1 FAMS @F316@
+0 @P551@ INDI 
+1 BIRT 
+2 DATE 1626
+1 SEX F
+1 NAME Marie /Mermod/
+1 FAMS @F231@
+0 @P552@ INDI 
+1 BIRT 
+2 DATE 11 Jun 1626
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX M
+1 NAME Abraham Beau /Varlet/
+1 FAMC @F232@
+1 FAMS @F231@
+0 @P553@ INDI 
+1 BIRT 
+2 DATE 1598
+1 SEX F
+1 NAME Jaqumea /Tavernier/
+1 FAMS @F232@
+0 @P554@ INDI 
+1 BIRT 
+2 DATE 17 Nov 1598
+2 PLAC Ormont-Dessous, Vaud, Switzerland 
+1 SEX M
+1 NAME Jean /Vurlod/
+1 FAMC @F317@
+1 FAMS @F232@
+0 @P555@ INDI 
+1 BIRT 
+2 DATE 1572
+1 SEX M
+1 NAME Antoine /Vurlod/
+1 FAMS @F317@
+0 @P556@ INDI 
+1 BIRT 
+2 DATE 1652
+1 SEX M
+1 NAME John /Tillie/
+1 FAMS @F315@
+0 @P557@ INDI 
+1 BIRT 
+2 DATE 1752
+2 PLAC Switzerland
+1 SEX F
+1 NAME Jewith /Aviolat/
+1 FAMS @F233@
+0 @P558@ INDI 
+1 BIRT 
+2 DATE 1752
+2 PLAC Switzerland
+1 SEX M
+1 NAME Emmanuel /Borloz/
+1 FAMS @F233@
+0 @P559@ INDI 
+1 BIRT 
+2 DATE 15 Apr 1601
+2 PLAC Pulborough, West Sussex, England
+1 DEAT 
+2 DATE 11/13/1656
+2 PLAC Reigate, Sussex, England
+1 SEX F
+1 NAME Lady Alice /Freeman/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=e531648c-a9e5-46ce-8e0e-5997b13ed9d3&tid=151272142&pid=559
+2 FORM jpg
+2 TITL Freeman..
+1 FAMS @F258@
+0 @P560@ INDI 
+1 BIRT 
+2 DATE abt 1769
+1 SEX F
+1 NAME Ann /Moir/
+1 FAMS @F256@
+0 @P561@ INDI 
+1 BIRT 
+2 DATE Abt. 1760
+2 PLAC Derry, Cavan, Ireland
+1 SEX F
+1 NAME Sarah /Gilmour/
+1 FAMS @F240@
+0 @P562@ INDI 
+1 BIRT 
+2 DATE abt 1760
+2 PLAC Derry, Ireland
+1 SEX M
+1 NAME John /Walkinshaw/
+1 FAMS @F240@
+0 @P563@ INDI 
+1 BIRT 
+2 DATE 1465
+2 PLAC Warwickshire, England
+1 SEX M
+1 NAME Thomas /Lapworth/
+1 FAMC @F318@
+1 FAMS @F275@
+0 @P564@ INDI 
+1 BIRT 
+2 DATE 1450
+2 PLAC Warwickshire, England
+1 SEX M
+1 NAME Thomas /Laxworthe/
+1 FAMS @F318@
+0 @P565@ INDI 
+1 SEX M
+1 NAME Francis /Kennedy/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=7591fb34-2457-4e8c-8661-dfb526ec727c&tid=151272142&pid=565
+2 FORM jpg
+2 TITL John Jones & Jean Ross Marriage 1780
+1 FAMS @F250@
+0 @P566@ INDI 
+1 BIRT 
+2 DATE 2 Aug 1674
+2 PLAC St Agnes, Cornwall, , England, 
+1 DEAT 
+2 DATE 15 Oct 1745
+2 PLAC Pennsylvania, Somerset, Pennsylvania, USA
+1 SEX F
+1 NAME Elizabeth /Tonkin/
+1 FAMC @F319@
+1 FAMS @F238@
+0 @P567@ INDI 
+1 BIRT 
+2 DATE 1662
+2 PLAC Camborne cornwall
+1 SEX M
+1 NAME Francis /John/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=af905f3a-bfbf-444e-b8ae-1297ec448bc9&tid=151272142&pid=567
+2 FORM jpg
+2 TITL direct ancestor
+1 FAMC @F239@
+1 FAMS @F238@
+0 @P568@ INDI 
+1 BIRT 
+2 DATE 1641
+2 PLAC Camborne cornwall
+1 DEAT 
+2 DATE 1680
+2 PLAC St Keverme, Cornwall, England
+1 SEX F
+1 NAME Jane /Vivien/
+1 FAMS @F239@
+0 @P569@ INDI 
+1 BIRT 
+2 DATE ABT 1640
+2 PLAC Camborne, Cornwall, England
+1 SEX M
+1 NAME William /John/
+1 OBJE
+2 FILE http://trees.ancestry.com/rd?f=image&guid=b5216f95-8730-4dc5-b3a6-e9d5dab520e2&tid=151272142&pid=569
+2 FORM jpg
+2 TITL dna connection
+1 FAMS @F239@
+0 @P570@ INDI 
+1 BIRT 
+2 DATE 2 November 1645
+2 PLAC St Keverne, Cornwall, England
+1 DEAT 
+2 DATE 3 November 1722
+2 PLAC St Keverne, Cornwall, , England
+1 SEX M
+1 NAME Anthony /Tonkin  (Tonken/
+1 FAMS @F319@
+0 @P571@ INDI 
+1 BIRT 
+2 DATE abt 1801
+2 PLAC Haslingden, Lancashire, England, 
+1 DEAT 
+2 DATE Aug 1862
+1 SEX F
+1 NAME Sarah /Hoyle/
+1 FAMS @F242@
+0 @P572@ INDI 
+1 BIRT 
+2 DATE 1796
+2 PLAC Haslington, Lancaster, Lancashire, England
+1 DEAT 
+2 DATE 9 August, 1865
+2 PLAC Oswaldtwistle, Lancashire, England
+1 SEX M
+1 NAME James /Haworth/
+1 FAMC @F243@
+1 FAMS @F242@
+0 @P573@ INDI 
+1 BIRT 
+2 DATE Abt 1799
+2 PLAC Tottington, Lancashire, England
+1 SEX F
+1 NAME Nelly /Brook/
+1 FAMS @F244@
+0 @P574@ INDI 
+1 BIRT 
+2 DATE Abt. 1818
+2 PLAC Urmston, Lancashire, England
+1 SEX M
+1 NAME Thomas /Booth/
+1 FAMS @F244@
+0 @P575@ INDI 
+1 BIRT 
+2 DATE 1773
+1 DEAT 
+2 DATE 1796
+1 SEX F
+1 NAME Ann /Fitton/
+1 FAMS @F243@
+0 @P576@ INDI 
+1 BIRT 
+2 DATE 1770
+1 DEAT 
+2 DATE November,  1801
+1 SEX M
+1 NAME Thomas /Haworth/
+1 FAMS @F243@
+0 @F1@ FAM 
+1 HUSB @P3@
+1 WIFE @P2@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P4@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM 
+1 HUSB @P6@
+1 WIFE @P5@
+1 CHIL @P11@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 SEP 1947
+2 PLAC St.Mary's, Geelong, VIC, AUS
+0 @F3@ FAM 
+1 HUSB @P13@
+1 WIFE @P12@
+1 CHIL @P5@
+2 _FREL Natural
+2 _MREL Natural
+0 @F4@ FAM 
+1 HUSB @P17@
+1 WIFE @P16@
+1 CHIL @P12@
+2 _FREL Natural
+2 _MREL Natural
+0 @F5@ FAM 
+1 HUSB @P19@
+1 WIFE @P18@
+1 CHIL @P17@
+2 _FREL Natural
+2 _MREL Natural
+0 @F6@ FAM 
+1 HUSB @P25@
+1 WIFE @P24@
+1 CHIL @P18@
+2 _FREL Natural
+2 _MREL Natural
+0 @F7@ FAM 
+1 HUSB @P21@
+1 WIFE @P20@
+1 CHIL @P16@
+2 _FREL Natural
+2 _MREL Natural
+0 @F8@ FAM 
+1 HUSB @P15@
+1 WIFE @P14@
+1 CHIL @P13@
+2 _FREL Natural
+2 _MREL Natural
+0 @F9@ FAM 
+1 HUSB @P31@
+1 WIFE @P30@
+1 CHIL @P15@
+2 _FREL Natural
+2 _MREL Natural
+0 @F10@ FAM 
+1 HUSB @P35@
+1 WIFE @P34@
+1 CHIL @P31@
+2 _FREL Natural
+2 _MREL Natural
+0 @F11@ FAM 
+1 HUSB @P10@
+1 WIFE @P9@
+1 CHIL @P42@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P6@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P41@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P40@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P39@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 27 AUG 1919
+2 PLAC Cathedral of cork, Cork, COR, IRL
+0 @F12@ FAM 
+1 HUSB @P38@
+1 WIFE @P37@
+1 CHIL @P10@
+2 _FREL Natural
+2 _MREL Natural
+0 @F13@ FAM 
+1 HUSB @P46@
+1 WIFE @P45@
+1 CHIL @P38@
+2 _FREL Natural
+2 _MREL Natural
+0 @F14@ FAM 
+1 HUSB @P50@
+1 WIFE @P49@
+1 CHIL @P45@
+2 _FREL Natural
+2 _MREL Natural
+0 @F15@ FAM 
+1 HUSB @P52@
+1 WIFE @P51@
+1 CHIL @P49@
+2 _FREL Natural
+2 _MREL Natural
+0 @F16@ FAM 
+1 HUSB @P7@
+1 WIFE @P8@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+0 @F17@ FAM 
+1 HUSB @P56@
+1 WIFE @P55@
+1 CHIL @P7@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1932
+2 PLAC Victoria, Australia
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::1497621
+0 @F18@ FAM 
+1 HUSB @P54@
+1 WIFE @P53@
+1 CHIL @P8@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1933
+2 PLAC Victoria, Australia
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::911863
+0 @F19@ FAM 
+1 HUSB @P62@
+1 WIFE @P61@
+1 CHIL @P54@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 7 SEP 1882
+2 PLAC Ballan Victoria
+0 @F20@ FAM 
+1 HUSB @P68@
+1 WIFE @P67@
+1 CHIL @P61@
+2 _FREL Natural
+2 _MREL Natural
+0 @F21@ FAM 
+1 HUSB @P70@
+1 WIFE @P69@
+1 CHIL @P68@
+2 _FREL Natural
+2 _MREL Natural
+0 @F22@ FAM 
+1 HUSB @P71@
+1 WIFE @P72@
+1 CHIL @P67@
+2 _FREL Natural
+2 _MREL Natural
+0 @F23@ FAM 
+1 HUSB @P64@
+1 WIFE @P63@
+1 CHIL @P53@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P80@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P79@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1906
+2 PLAC Victoria
+2 SOUR @S1125961553@
+3 _APID 1,1780::4626908
+2 SOUR @S1130678555@
+3 PAGE The Victorian Registry of Births, Deaths, and Marriages; Melbourne, Victoria, Australia; Victoria, Australia, Marriage Records
+3 _APID 1,61649::2025458
+0 @F24@ FAM 
+1 HUSB @P84@
+1 WIFE @P83@
+1 CHIL @P90@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P89@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P88@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P87@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P63@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1867
+2 PLAC Victoria Australia
+0 @F25@ FAM 
+1 HUSB @P92@
+1 WIFE @P91@
+1 CHIL @P83@
+2 _FREL Natural
+2 _MREL Natural
+0 @F26@ FAM 
+1 HUSB @P86@
+1 WIFE @P85@
+1 CHIL @P84@
+2 _FREL Natural
+2 _MREL Natural
+0 @F27@ FAM 
+1 HUSB @P96@
+1 WIFE @P95@
+1 CHIL @P86@
+2 _FREL Natural
+2 _MREL Natural
+0 @F28@ FAM 
+1 HUSB @P100@
+1 WIFE @P99@
+1 CHIL @P96@
+2 _FREL Natural
+2 _MREL Natural
+0 @F29@ FAM 
+1 HUSB @P106@
+1 WIFE @P105@
+1 CHIL @P99@
+2 _FREL Natural
+2 _MREL Natural
+0 @F30@ FAM 
+1 HUSB @P108@
+1 WIFE @P107@
+1 CHIL @P105@
+2 _FREL Natural
+2 _MREL Natural
+0 @F31@ FAM 
+1 HUSB @P104@
+1 WIFE @P103@
+1 CHIL @P100@
+2 _FREL Natural
+2 _MREL Natural
+0 @F32@ FAM 
+1 HUSB @P111@
+1 WIFE @P112@
+0 @F33@ FAM 
+1 HUSB @P110@
+1 WIFE @P109@
+1 CHIL @P104@
+2 _FREL Natural
+2 _MREL Natural
+0 @F34@ FAM 
+1 HUSB @P114@
+1 WIFE @P113@
+1 CHIL @P110@
+2 _FREL Natural
+2 _MREL Natural
+0 @F35@ FAM 
+1 HUSB @P116@
+1 WIFE @P115@
+1 CHIL @P114@
+2 _FREL Natural
+2 _MREL Natural
+0 @F36@ FAM 
+1 HUSB @P119@
+1 WIFE @P120@
+0 @F37@ FAM 
+1 HUSB @P122@
+1 WIFE @P121@
+1 CHIL @P113@
+2 _FREL Natural
+2 _MREL Natural
+0 @F38@ FAM 
+1 HUSB @P98@
+1 WIFE @P97@
+1 CHIL @P85@
+2 _FREL Natural
+2 _MREL Natural
+0 @F39@ FAM 
+1 HUSB @P126@
+1 WIFE @P125@
+1 CHIL @P98@
+2 _FREL Natural
+2 _MREL Natural
+0 @F40@ FAM 
+1 HUSB @P128@
+1 WIFE @P127@
+1 CHIL @P97@
+2 _FREL Natural
+2 _MREL Natural
+0 @F41@ FAM 
+1 HUSB @P130@
+1 WIFE @P129@
+1 CHIL @P127@
+2 _FREL Natural
+2 _MREL Natural
+0 @F42@ FAM 
+1 HUSB @P58@
+1 WIFE @P57@
+1 CHIL @P133@
+2 _FREL Natural
+2 _MREL Natural
+1 CHIL @P56@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 26 February 1889
+2 PLAC Ballarat, Victoria, Australia
+0 @F43@ FAM 
+1 HUSB @P132@
+1 WIFE @P131@
+1 CHIL @P58@
+2 _FREL Natural
+2 _MREL Natural
+0 @F44@ FAM 
+1 HUSB @P135@
+1 WIFE @P134@
+1 CHIL @P57@
+2 _FREL Natural
+2 _MREL Natural
+0 @F45@ FAM 
+1 HUSB @P136@
+1 WIFE @P137@
+1 CHIL @P135@
+2 _FREL Natural
+2 _MREL Natural
+0 @F46@ FAM 
+1 HUSB @P66@
+1 WIFE @P65@
+1 CHIL @P62@
+2 _FREL Natural
+2 _MREL Natural
+0 @F47@ FAM 
+1 HUSB @P140@
+1 WIFE @P139@
+1 CHIL @P66@
+2 _FREL Natural
+2 _MREL Natural
+0 @F48@ FAM 
+1 HUSB @P142@
+1 WIFE @P141@
+1 CHIL @P140@
+2 _FREL Natural
+2 _MREL Natural
+0 @F49@ FAM 
+1 HUSB @P145@
+1 WIFE @P144@
+1 CHIL @P141@
+2 _FREL Natural
+2 _MREL Natural
+0 @F50@ FAM 
+1 HUSB @P147@
+1 WIFE @P146@
+1 CHIL @P139@
+2 _FREL Natural
+2 _MREL Natural
+0 @F51@ FAM 
+1 HUSB @P149@
+1 WIFE @P148@
+1 CHIL @P65@
+2 _FREL Natural
+2 _MREL Natural
+0 @F52@ FAM 
+1 HUSB @P78@
+1 WIFE @P77@
+1 CHIL @P71@
+2 _FREL Natural
+2 _MREL Natural
+0 @F53@ FAM 
+1 HUSB @P76@
+1 WIFE @P75@
+1 CHIL @P72@
+2 _FREL Natural
+2 _MREL Natural
+0 @F54@ FAM 
+1 HUSB @P159@
+1 WIFE @P158@
+1 CHIL @P75@
+2 _FREL Natural
+2 _MREL Natural
+0 @F55@ FAM 
+1 HUSB @P44@
+1 WIFE @P43@
+1 CHIL @P9@
+2 _FREL Natural
+2 _MREL Natural
+0 @F56@ FAM 
+1 HUSB @P161@
+1 WIFE @P160@
+1 CHIL @P44@
+2 _FREL Natural
+2 _MREL Natural
+0 @F57@ FAM 
+1 HUSB @P33@
+1 WIFE @P32@
+1 CHIL @P14@
+2 _FREL Natural
+2 _MREL Natural
+0 @F58@ FAM 
+1 HUSB @P165@
+1 WIFE @P164@
+1 CHIL @P33@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 31 Oct 1831
+2 PLAC St Just In Penwith, Cornwall, England
+0 @F59@ FAM 
+1 HUSB @P167@
+1 WIFE @P166@
+1 CHIL @P165@
+2 _FREL Natural
+2 _MREL Natural
+0 @F60@ FAM 
+1 HUSB @P169@
+1 WIFE @P168@
+1 CHIL @P167@
+2 _FREL Natural
+2 _MREL Natural
+0 @F61@ FAM 
+1 HUSB @P171@
+1 WIFE @P170@
+1 CHIL @P169@
+2 _FREL Natural
+2 _MREL Natural
+0 @F62@ FAM 
+1 HUSB @P175@
+1 WIFE @P174@
+1 CHIL @P173@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 28 Apr 1746
+2 PLAC Mawgan In Meneage, Cornwall, , England
+0 @F63@ FAM 
+1 HUSB @P181@
+1 WIFE @P180@
+1 CHIL @P164@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 10 Jun 1806
+2 PLAC St Just In Penwith. Cornwall. England
+0 @F64@ FAM 
+1 HUSB @P185@
+1 WIFE @P184@
+1 CHIL @P32@
+2 _FREL Natural
+2 _MREL Natural
+0 @F65@ FAM 
+1 HUSB @P155@
+1 WIFE @P154@
+1 CHIL @P77@
+2 _FREL Natural
+2 _MREL Natural
+0 @F66@ FAM 
+1 HUSB @P189@
+1 WIFE @P188@
+1 CHIL @P155@
+2 _FREL Natural
+2 _MREL Natural
+0 @F67@ FAM 
+1 HUSB @P191@
+1 WIFE @P190@
+1 CHIL @P189@
+2 _FREL Natural
+2 _MREL Natural
+0 @F68@ FAM 
+1 HUSB @P194@
+1 WIFE @P193@
+1 CHIL @P190@
+2 _FREL Natural
+2 _MREL Natural
+0 @F69@ FAM 
+1 HUSB @P195@
+1 WIFE @P196@
+1 CHIL @P194@
+2 _FREL Natural
+2 _MREL Natural
+0 @F70@ FAM 
+1 HUSB @P200@
+1 WIFE @P199@
+1 CHIL @P193@
+2 _FREL Natural
+2 _MREL Natural
+0 @F71@ FAM 
+1 HUSB @P203@
+1 WIFE @P202@
+1 CHIL @P188@
+2 _FREL Natural
+2 _MREL Natural
+0 @F72@ FAM 
+1 HUSB @P204@
+1 WIFE @P205@
+1 CHIL @P203@
+2 _FREL Natural
+2 _MREL Natural
+0 @F73@ FAM 
+1 HUSB @P156@
+1 WIFE @P157@
+1 CHIL @P76@
+2 _FREL Natural
+2 _MREL Natural
+0 @F74@ FAM 
+1 HUSB @P60@
+1 WIFE @P59@
+1 CHIL @P55@
+2 _FREL Natural
+2 _MREL Natural
+0 @F75@ FAM 
+1 HUSB @P209@
+1 WIFE @P208@
+1 CHIL @P60@
+2 _FREL Natural
+2 _MREL Natural
+0 @F76@ FAM 
+1 HUSB @P211@
+1 WIFE @P210@
+1 CHIL @P209@
+2 _FREL Natural
+2 _MREL Natural
+0 @F77@ FAM 
+1 HUSB @P213@
+1 WIFE @P212@
+1 CHIL @P208@
+2 _FREL Natural
+2 _MREL Natural
+0 @F78@ FAM 
+1 HUSB @P82@
+1 WIFE @P81@
+1 CHIL @P64@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1868
+2 PLAC Victoria
+0 @F79@ FAM 
+1 HUSB @P163@
+1 WIFE @P162@
+1 CHIL @P43@
+2 _FREL Natural
+2 _MREL Natural
+0 @F80@ FAM 
+1 HUSB @P224@
+1 WIFE @P223@
+1 CHIL @P162@
+2 _FREL Natural
+2 _MREL Natural
+0 @F81@ FAM 
+1 HUSB @P23@
+1 WIFE @P22@
+1 CHIL @P19@
+2 _FREL Natural
+2 _MREL Natural
+0 @F82@ FAM 
+1 HUSB @P226@
+1 WIFE @P225@
+1 CHIL @P23@
+2 _FREL Natural
+2 _MREL Natural
+0 @F83@ FAM 
+1 HUSB @P228@
+1 WIFE @P227@
+1 CHIL @P226@
+2 _FREL Natural
+2 _MREL Natural
+0 @F84@ FAM 
+1 HUSB @P230@
+1 WIFE @P229@
+1 CHIL @P228@
+2 _FREL Natural
+2 _MREL Natural
+0 @F85@ FAM 
+1 HUSB @P232@
+1 WIFE @P231@
+1 CHIL @P230@
+2 _FREL Natural
+2 _MREL Natural
+0 @F86@ FAM 
+1 HUSB @P236@
+1 WIFE @P235@
+1 CHIL @P232@
+2 _FREL Natural
+2 _MREL Natural
+0 @F87@ FAM 
+1 HUSB @P238@
+1 WIFE @P237@
+1 CHIL @P236@
+2 _FREL Natural
+2 _MREL Natural
+0 @F88@ FAM 
+1 HUSB @P240@
+1 WIFE @P239@
+1 CHIL @P235@
+2 _FREL Natural
+2 _MREL Natural
+0 @F89@ FAM 
+1 HUSB @P234@
+1 WIFE @P233@
+1 CHIL @P229@
+2 _FREL Natural
+2 _MREL Natural
+0 @F90@ FAM 
+1 HUSB @P243@
+1 WIFE @P242@
+1 CHIL @P234@
+2 _FREL Natural
+2 _MREL Natural
+0 @F91@ FAM 
+1 HUSB @P29@
+1 WIFE @P28@
+1 CHIL @P20@
+2 _FREL Natural
+2 _MREL Natural
+0 @F92@ FAM 
+1 HUSB @P27@
+1 WIFE @P26@
+1 CHIL @P21@
+2 _FREL Natural
+2 _MREL Natural
+0 @F93@ FAM 
+1 HUSB @P249@
+1 WIFE @P248@
+1 CHIL @P26@
+2 _FREL Natural
+2 _MREL Natural
+0 @F94@ FAM 
+1 HUSB @P245@
+1 WIFE @P244@
+1 CHIL @P29@
+2 _FREL Natural
+2 _MREL Natural
+0 @F95@ FAM 
+1 HUSB @P247@
+1 WIFE @P246@
+1 CHIL @P28@
+2 _FREL Natural
+2 _MREL Natural
+0 @F96@ FAM 
+1 HUSB @P251@
+1 WIFE @P250@
+1 CHIL @P249@
+2 _FREL Natural
+2 _MREL Natural
+0 @F97@ FAM 
+1 HUSB @P262@
+1 WIFE @P261@
+1 CHIL @P251@
+2 _FREL Natural
+2 _MREL Natural
+0 @F98@ FAM 
+1 HUSB @P253@
+1 WIFE @P252@
+1 CHIL @P248@
+2 _FREL Natural
+2 _MREL Natural
+0 @F99@ FAM 
+1 HUSB @P255@
+1 WIFE @P254@
+1 CHIL @P245@
+2 _FREL Natural
+2 _MREL Natural
+0 @F100@ FAM 
+1 HUSB @P259@
+1 WIFE @P258@
+1 CHIL @P247@
+2 _FREL Natural
+2 _MREL Natural
+0 @F101@ FAM 
+1 HUSB @P267@
+1 WIFE @P266@
+1 CHIL @P255@
+2 _FREL Natural
+2 _MREL Natural
+0 @F102@ FAM 
+1 HUSB @P269@
+1 WIFE @P268@
+1 CHIL @P257@
+2 _FREL Natural
+2 _MREL Natural
+0 @F103@ FAM 
+1 HUSB @P277@
+1 WIFE @P276@
+1 CHIL @P269@
+2 _FREL Natural
+2 _MREL Natural
+0 @F104@ FAM 
+1 HUSB @P279@
+1 WIFE @P278@
+1 CHIL @P277@
+2 _FREL Natural
+2 _MREL Natural
+0 @F105@ FAM 
+1 HUSB @P281@
+1 WIFE @P280@
+1 CHIL @P276@
+2 _FREL Natural
+2 _MREL Natural
+0 @F106@ FAM 
+1 HUSB @P286@
+1 WIFE @P285@
+1 CHIL @P284@
+2 _FREL Natural
+2 _MREL Natural
+0 @F107@ FAM 
+1 HUSB @P271@
+1 WIFE @P270@
+1 CHIL @P259@
+2 _FREL Natural
+2 _MREL Natural
+0 @F108@ FAM 
+1 HUSB @P283@
+1 WIFE @P282@
+1 CHIL @P260@
+2 _FREL Natural
+2 _MREL Natural
+0 @F109@ FAM 
+1 HUSB @P215@
+1 WIFE @P214@
+1 CHIL @P211@
+2 _FREL Natural
+2 _MREL Natural
+0 @F110@ FAM 
+1 HUSB @P217@
+1 WIFE @P216@
+1 CHIL @P210@
+2 _FREL Natural
+2 _MREL Natural
+0 @F111@ FAM 
+1 HUSB @P198@
+1 WIFE @P197@
+1 CHIL @P195@
+2 _FREL Natural
+2 _MREL Natural
+0 @F112@ FAM 
+1 HUSB @P289@
+1 WIFE @P288@
+1 CHIL @P197@
+2 _FREL Natural
+2 _MREL Natural
+0 @F113@ FAM 
+1 HUSB @P124@
+1 WIFE @P123@
+1 CHIL @P109@
+2 _FREL Natural
+2 _MREL Natural
+0 @F114@ FAM 
+1 HUSB @P118@
+1 WIFE @P117@
+1 CHIL @P115@
+2 _FREL Natural
+2 _MREL Natural
+0 @F115@ FAM 
+1 HUSB @P294@
+1 WIFE @P293@
+1 CHIL @P117@
+2 _FREL Natural
+2 _MREL Natural
+0 @F116@ FAM 
+1 HUSB @P220@
+1 WIFE @P219@
+1 CHIL @P82@
+2 _FREL Natural
+2 _MREL Natural
+0 @F117@ FAM 
+1 HUSB @P153@
+1 WIFE @P152@
+1 CHIL @P69@
+2 _FREL Natural
+2 _MREL Natural
+0 @F118@ FAM 
+1 HUSB @P183@
+1 WIFE @P182@
+1 CHIL @P180@
+2 _FREL Natural
+2 _MREL Natural
+0 @F119@ FAM 
+1 HUSB @P300@
+1 WIFE @P299@
+1 CHIL @P183@
+2 _FREL Natural
+2 _MREL Natural
+0 @F120@ FAM 
+1 HUSB @P304@
+1 WIFE @P303@
+1 CHIL @P300@
+2 _FREL Natural
+2 _MREL Natural
+0 @F121@ FAM 
+1 HUSB @P306@
+1 WIFE @P305@
+1 CHIL @P299@
+2 _FREL Natural
+2 _MREL Natural
+0 @F122@ FAM 
+1 HUSB @P308@
+1 WIFE @P307@
+1 CHIL @P304@
+2 _FREL Natural
+2 _MREL Natural
+0 @F123@ FAM 
+1 HUSB @P314@
+1 WIFE @P313@
+1 CHIL @P308@
+2 _FREL Natural
+2 _MREL Natural
+0 @F124@ FAM 
+1 HUSB @P318@
+1 WIFE @P317@
+1 CHIL @P314@
+2 _FREL Natural
+2 _MREL Natural
+0 @F125@ FAM 
+1 HUSB @P320@
+1 WIFE @P319@
+1 CHIL @P318@
+2 _FREL Natural
+2 _MREL Natural
+0 @F126@ FAM 
+1 HUSB @P316@
+1 WIFE @P315@
+1 CHIL @P307@
+2 _FREL Natural
+2 _MREL Natural
+0 @F127@ FAM 
+1 HUSB @P322@
+1 WIFE @P321@
+1 CHIL @P316@
+2 _FREL Natural
+2 _MREL Natural
+0 @F128@ FAM 
+1 HUSB @P324@
+1 WIFE @P323@
+1 CHIL @P322@
+2 _FREL Natural
+2 _MREL Natural
+0 @F129@ FAM 
+1 HUSB @P326@
+1 WIFE @P325@
+1 CHIL @P324@
+2 _FREL Natural
+2 _MREL Natural
+0 @F130@ FAM 
+1 HUSB @P330@
+1 WIFE @P329@
+1 CHIL @P315@
+2 _FREL Natural
+2 _MREL Natural
+0 @F131@ FAM 
+1 HUSB @P332@
+1 WIFE @P331@
+1 CHIL @P330@
+2 _FREL Natural
+2 _MREL Natural
+0 @F132@ FAM 
+1 HUSB @P310@
+1 WIFE @P309@
+1 CHIL @P303@
+2 _FREL Natural
+2 _MREL Natural
+0 @F133@ FAM 
+1 HUSB @P334@
+1 WIFE @P333@
+1 CHIL @P310@
+2 _FREL Natural
+2 _MREL Natural
+0 @F134@ FAM 
+1 HUSB @P338@
+1 WIFE @P337@
+1 CHIL @P333@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 12 FEB 1598
+2 PLAC Wendron Cornwall England
+0 @F135@ FAM 
+1 HUSB @P341@
+1 WIFE @P340@
+1 CHIL @P337@
+2 _FREL Natural
+2 _MREL Natural
+0 @F136@ FAM 
+1 HUSB @P312@
+1 WIFE @P311@
+1 CHIL @P306@
+2 _FREL Natural
+2 _MREL Natural
+0 @F137@ FAM 
+1 HUSB @P345@
+1 WIFE @P344@
+1 CHIL @P342@
+2 _FREL Natural
+2 _MREL Natural
+0 @F138@ FAM 
+1 HUSB @P347@
+1 WIFE @P346@
+1 CHIL @P345@
+2 _FREL Natural
+2 _MREL Natural
+0 @F139@ FAM 
+1 HUSB @P349@
+1 WIFE @P348@
+1 CHIL @P347@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 20 Nov 1564
+2 PLAC Wendron, Cornwall, England
+0 @F140@ FAM 
+1 HUSB @P353@
+1 WIFE @P352@
+1 CHIL @P348@
+2 _FREL Natural
+2 _MREL Natural
+0 @F141@ FAM 
+1 HUSB @P355@
+1 WIFE @P354@
+1 CHIL @P346@
+2 _FREL Natural
+2 _MREL Natural
+0 @F142@ FAM 
+1 HUSB @P358@
+1 WIFE @P357@
+1 CHIL @P344@
+2 _FREL Natural
+2 _MREL Natural
+0 @F143@ FAM 
+1 HUSB @P360@
+1 WIFE @P359@
+1 CHIL @P358@
+2 _FREL Natural
+2 _MREL Natural
+0 @F144@ FAM 
+1 HUSB @P364@
+1 WIFE @P363@
+1 CHIL @P362@
+2 _FREL Natural
+2 _MREL Natural
+0 @F145@ FAM 
+1 HUSB @P367@
+1 WIFE @P366@
+1 CHIL @P311@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 14 Feb 1652
+2 PLAC Wendron, Cornwall
+0 @F146@ FAM 
+1 HUSB @P368@
+1 WIFE @P371@
+1 MARR 
+2 DATE Abt. 1620
+2 PLAC London, England
+1 MARR 
+2 DATE Abt. 1634
+2 PLAC England
+0 @F147@ FAM 
+1 HUSB @P302@
+1 WIFE @P301@
+1 CHIL @P182@
+2 _FREL Natural
+2 _MREL Natural
+0 @F148@ FAM 
+1 HUSB @P373@
+1 WIFE @P372@
+1 CHIL @P302@
+2 _FREL Natural
+2 _MREL Natural
+0 @F149@ FAM 
+1 HUSB @P48@
+1 WIFE @P47@
+1 CHIL @P37@
+2 _FREL Natural
+2 _MREL Natural
+0 @F150@ FAM 
+1 HUSB @P370@
+1 WIFE @P369@
+1 CHIL @P368@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 15 Sep 1595
+2 PLAC Wendron, Cornwall, , England
+0 @F151@ FAM 
+1 HUSB @P177@
+1 WIFE @P176@
+1 CHIL @P175@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 17 May 1702
+2 PLAC St Keverne, Cornwall, , England, 
+0 @F152@ FAM 
+1 HUSB @P376@
+1 WIFE @P375@
+1 CHIL @P177@
+2 _FREL Natural
+2 _MREL Natural
+0 @F153@ FAM 
+1 HUSB @P179@
+1 WIFE @P178@
+1 CHIL @P174@
+2 _FREL Natural
+2 _MREL Natural
+0 @F154@ FAM 
+1 HUSB @P380@
+1 WIFE @P379@
+1 CHIL @P376@
+2 _FREL Natural
+2 _MREL Natural
+0 @F155@ FAM 
+1 HUSB @P378@
+1 WIFE @P377@
+1 CHIL @P176@
+2 _FREL Natural
+2 _MREL Natural
+0 @F156@ FAM 
+1 HUSB @P388@
+1 WIFE @P387@
+1 CHIL @P381@
+2 _FREL Natural
+2 _MREL Natural
+0 @F157@ FAM 
+1 HUSB @P384@
+1 WIFE @P383@
+1 CHIL @P380@
+2 _FREL Natural
+2 _MREL Natural
+0 @F158@ FAM 
+1 HUSB @P391@
+1 WIFE @P390@
+1 CHIL @P388@
+2 _FREL Natural
+2 _MREL Natural
+0 @F159@ FAM 
+1 HUSB @P393@
+1 WIFE @P392@
+1 CHIL @P389@
+2 _FREL Natural
+2 _MREL Natural
+0 @F160@ FAM 
+1 HUSB @P395@
+1 WIFE @P394@
+1 CHIL @P393@
+2 _FREL Natural
+2 _MREL Natural
+0 @F161@ FAM 
+1 HUSB @P397@
+1 WIFE @P396@
+1 CHIL @P392@
+2 _FREL Natural
+2 _MREL Natural
+0 @F162@ FAM 
+1 HUSB @P399@
+1 WIFE @P398@
+1 CHIL @P395@
+2 _FREL Natural
+2 _MREL Natural
+0 @F163@ FAM 
+1 HUSB @P343@
+1 WIFE @P342@
+1 CHIL @P312@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 21 Sep 1640
+2 PLAC Wendron, Cornwall
+0 @F164@ FAM 
+1 HUSB @P402@
+1 WIFE @P401@
+1 CHIL @P343@
+2 _FREL Natural
+2 _MREL Natural
+0 @F165@ FAM 
+1 HUSB @P404@
+1 WIFE @P403@
+1 CHIL @P274@
+2 _FREL Natural
+2 _MREL Natural
+0 @F166@ FAM 
+1 HUSB @P406@
+1 WIFE @P405@
+1 CHIL @P404@
+2 _FREL Natural
+2 _MREL Natural
+0 @F167@ FAM 
+1 HUSB @P412@
+1 WIFE @P411@
+1 CHIL @P407@
+2 _FREL Natural
+2 _MREL Natural
+0 @F168@ FAM 
+1 HUSB @P351@
+1 WIFE @P350@
+1 CHIL @P349@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 PLAC Barton, St. David, Somerset, England
+1 MARR 
+2 PLAC Barton St. David, Somerset, England
+1 MARR 
+2 DATE 1527
+2 PLAC Kyrton, England
+0 @F169@ FAM 
+1 HUSB @P416@
+1 WIFE @P415@
+1 CHIL @P351@
+2 _FREL Natural
+2 _MREL Natural
+0 @F170@ FAM 
+1 HUSB @P419@
+1 WIFE @P418@
+1 CHIL @P416@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1494
+2 PLAC Hole, Devon, England
+0 @F171@ FAM 
+1 HUSB @P421@
+1 WIFE @P420@
+1 CHIL @P419@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1465
+2 PLAC Devon, England
+0 @F172@ FAM 
+1 HUSB @P423@
+1 WIFE @P422@
+1 CHIL @P418@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1459
+2 PLAC Hull, Devon, England
+0 @F173@ FAM 
+1 HUSB @P429@
+1 WIFE @P428@
+1 CHIL @P415@
+2 _FREL Natural
+2 _MREL Natural
+0 @F174@ FAM 
+1 HUSB @P430@
+1 WIFE @P415@
+1 MARR 
+2 DATE 1528
+2 PLAC Devon, England
+1 MARR 
+2 DATE 1539
+2 PLAC 1657313, Buckinghamshire, England
+0 @F175@ FAM 
+1 HUSB @P432@
+1 WIFE @P431@
+1 CHIL @P429@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1442
+2 PLAC Boarstall, Buckinghamshire, England
+1 MARR 
+2 DATE 1445
+2 PLAC Bridgenorth, Shropshire, England
+1 MARR 
+2 DATE 1435
+2 PLAC Boarstall, Buckinghamshire, , England
+1 MARR 
+2 DATE 1453
+2 PLAC Bridgenorth, Shropshire, England
+1 MARR 
+2 DATE 1460
+2 PLAC Boarstall, Buckinghamshire, England
+0 @F176@ FAM 
+1 HUSB @P434@
+1 WIFE @P433@
+1 CHIL @P432@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1420
+2 PLAC 1657313, Buckinghamshire, England
+1 MARR 
+2 DATE 1427
+2 PLAC Boarstall, Buckinghamshire, England
+0 @F177@ FAM 
+1 HUSB @P442@
+1 WIFE @P440@
+1 CHIL @P427@
+2 _FREL Natural
+2 _MREL Natural
+0 @F178@ FAM 
+1 HUSB @P442@
+1 WIFE @P441@
+1 MARR 
+2 DATE 1424
+2 PLAC Moulton, Norfolk, England
+0 @F179@ FAM 
+1 HUSB @P444@
+1 WIFE @P443@
+1 CHIL @P442@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1404
+2 PLAC North Molton, Devon, England
+0 @F180@ FAM 
+1 HUSB @P436@
+1 WIFE @P435@
+1 CHIL @P431@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1419
+2 PLAC Bridgenorth, Shropshire, England
+0 @F181@ FAM 
+1 HUSB @P437@
+1 WIFE @P431@
+1 MARR 
+2 DATE ABT 1444
+2 PLAC Crowhurst, Surrey, England
+1 MARR 
+2 DATE 1460
+2 PLAC Crowhurst, Surrey, England
+0 @F182@ FAM 
+1 HUSB @P439@
+1 WIFE @P438@
+1 CHIL @P433@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1400
+2 PLAC Boarstall, Glamorgan, Wales
+0 @F183@ FAM 
+1 HUSB @P446@
+1 WIFE @P445@
+1 CHIL @P417@
+2 _FREL Natural
+2 _MREL Natural
+0 @F184@ FAM 
+1 HUSB @P449@
+1 WIFE @P448@
+1 CHIL @P428@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE Abt. 1459
+2 PLAC Boarstall, Buckinghamshire, England
+0 @F185@ FAM 
+1 HUSB @P451@
+1 WIFE @P450@
+1 CHIL @P448@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 PLAC De Stafford
+1 MARR 
+2 DATE 18 Oct 1424
+2 PLAC Raby Castle, Durham, England
+0 @F186@ FAM 
+1 HUSB @P453@
+1 WIFE @P452@
+1 CHIL @P451@
+2 _FREL Natural
+2 _MREL Natural
+0 @F187@ FAM 
+1 HUSB @P94@
+1 WIFE @P93@
+1 CHIL @P91@
+2 _FREL Natural
+2 _MREL Natural
+0 @F188@ FAM 
+1 HUSB @P462@
+1 WIFE @P461@
+1 CHIL @P94@
+2 _FREL Natural
+2 _MREL Natural
+0 @F189@ FAM 
+1 HUSB @P466@
+1 WIFE @P465@
+1 CHIL @P462@
+2 _FREL Natural
+2 _MREL Natural
+0 @F190@ FAM 
+1 HUSB @P468@
+1 WIFE @P467@
+1 CHIL @P466@
+2 _FREL Natural
+2 _MREL Natural
+0 @F191@ FAM 
+1 HUSB @P470@
+1 WIFE @P469@
+1 CHIL @P461@
+2 _FREL Natural
+2 _MREL Natural
+0 @F192@ FAM 
+1 HUSB @P472@
+1 WIFE @P471@
+1 CHIL @P470@
+2 _FREL Natural
+2 _MREL Natural
+0 @F193@ FAM 
+1 HUSB @P476@
+1 WIFE @P475@
+1 CHIL @P472@
+2 _FREL Natural
+2 _MREL Natural
+0 @F194@ FAM 
+1 HUSB @P478@
+1 WIFE @P477@
+1 CHIL @P476@
+2 _FREL Natural
+2 _MREL Natural
+0 @F195@ FAM 
+1 HUSB @P480@
+1 WIFE @P479@
+1 CHIL @P475@
+2 _FREL Natural
+2 _MREL Natural
+0 @F196@ FAM 
+1 HUSB @P482@
+1 WIFE @P481@
+1 CHIL @P471@
+2 _FREL Natural
+2 _MREL Natural
+0 @F197@ FAM 
+1 HUSB @P484@
+1 WIFE @P483@
+1 CHIL @P482@
+2 _FREL Natural
+2 _MREL Natural
+0 @F198@ FAM 
+1 HUSB @P474@
+1 WIFE @P473@
+1 CHIL @P469@
+2 _FREL Natural
+2 _MREL Natural
+0 @F199@ FAM 
+1 HUSB @P489@
+1 WIFE @P488@
+1 CHIL @P485@
+2 _FREL Natural
+2 _MREL Natural
+0 @F200@ FAM 
+1 HUSB @P487@
+1 WIFE @P486@
+1 CHIL @P473@
+2 _FREL Natural
+2 _MREL Natural
+0 @F201@ FAM 
+1 HUSB @P491@
+1 WIFE @P490@
+1 CHIL @P487@
+2 _FREL Natural
+2 _MREL Natural
+0 @F202@ FAM 
+1 HUSB @P464@
+1 WIFE @P463@
+1 CHIL @P93@
+2 _FREL Natural
+2 _MREL Natural
+0 @F203@ FAM 
+1 HUSB @P102@
+1 WIFE @P101@
+1 CHIL @P95@
+2 _FREL Natural
+2 _MREL Natural
+0 @F204@ FAM 
+1 HUSB @P495@
+1 WIFE @P494@
+1 CHIL @P102@
+2 _FREL Natural
+2 _MREL Natural
+0 @F205@ FAM 
+1 HUSB @P499@
+1 WIFE @P498@
+1 CHIL @P495@
+2 _FREL Natural
+2 _MREL Natural
+0 @F206@ FAM 
+1 HUSB @P501@
+1 WIFE @P500@
+1 CHIL @P499@
+2 _FREL Natural
+2 _MREL Natural
+0 @F207@ FAM 
+1 HUSB @P503@
+1 WIFE @P502@
+1 CHIL @P501@
+2 _FREL Natural
+2 _MREL Natural
+0 @F208@ FAM 
+1 HUSB @P505@
+1 WIFE @P504@
+1 CHIL @P502@
+2 _FREL Natural
+2 _MREL Natural
+0 @F209@ FAM 
+1 HUSB @P507@
+1 WIFE @P506@
+1 CHIL @P504@
+2 _FREL Natural
+2 _MREL Natural
+0 @F210@ FAM 
+1 HUSB @P509@
+1 WIFE @P508@
+1 CHIL @P507@
+2 _FREL Natural
+2 _MREL Natural
+0 @F211@ FAM 
+1 HUSB @P513@
+1 WIFE @P512@
+1 CHIL @P510@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1493
+2 PLAC Meikle Govan Hillok, Portobello, Midlothian, Scotland
+0 @F212@ FAM 
+1 HUSB @P511@
+1 WIFE @P510@
+1 CHIL @P509@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 PLAC Dunfemline, Fife, Scotland
+1 MARR 
+2 PLAC Scotland
+1 MARR 
+2 DATE 1525
+2 PLAC Dunfemline, Fife, Scotland
+1 MARR 
+2 DATE 1530
+2 PLAC Dunfermline, Fife, Scotland
+1 MARR 
+2 DATE 22 Nov 1867
+2 PLAC Auchtermuchty,Fife,Scotland
+0 @F213@ FAM 
+1 HUSB @P516@
+1 WIFE @P515@
+1 CHIL @P511@
+2 _FREL Natural
+2 _MREL Natural
+0 @F214@ FAM 
+1 HUSB @P518@
+1 WIFE @P517@
+1 CHIL @P516@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1455
+2 PLAC Perth, Perthshire, , Scotland
+0 @F215@ FAM 
+1 HUSB @P520@
+1 WIFE @P519@
+1 CHIL @P518@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 PLAC Perth, Perthshire, Scotland
+1 MARR 
+2 PLAC St Andrews Parish, Perth, Perthshire, Scotland
+1 MARR 
+2 DATE 1426
+2 PLAC Perth, Scotland
+0 @F216@ FAM 
+1 HUSB @P522@
+1 WIFE @P521@
+1 CHIL @P517@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1439
+2 PLAC Garbred, Fife, Scotland
+0 @F217@ FAM 
+1 HUSB @P524@
+1 WIFE @P523@
+1 CHIL @P520@
+2 _FREL Natural
+2 _MREL Natural
+0 @F218@ FAM 
+1 HUSB @P530@
+1 WIFE @P529@
+1 CHIL @P527@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 DATE 1397
+2 PLAC Balmuto, Fife, Scotland
+0 @F219@ FAM 
+1 HUSB @P531@
+1 WIFE @P527@
+1 MARR 
+2 PLAC Scotland Well, Perth &amp; Kinross, Scotland
+1 MARR 
+2 PLAC Fife, Scotland
+1 MARR 
+2 DATE 1410
+2 PLAC Kinross-shire, Scotland
+1 MARR 
+2 DATE Abt. 1420
+1 MARR 
+2 DATE ABT 1424
+2 PLAC Fife, Scotland
+1 MARR 
+2 DATE 13 Jul 1437
+1 MARR 
+2 DATE 1480
+2 PLAC Balmouto Bynnyn Lochorschir Balmouto Cragincat Balglaly Ester Glasmont Lochgelly Fiff Glasmont Petlochy Balbartane Bynnyn, Midlothia, Scotland
+1 MARR 
+2 DATE 13 Jul 1497
+2 PLAC Balmouto Bynnyn Lochorschir Balmouto Cragincat Balglaly Ester Glasmont Lochgelly Fiff Glasmont Petlochy Balbartane Bynnyn, Midlothia, Scotland
+0 @F220@ FAM 
+1 HUSB @P528@
+1 WIFE @P527@
+1 CHIL @P521@
+2 _FREL Natural
+2 _MREL Natural
+1 MARR 
+2 PLAC Kinross-shire, Scotland
+0 @F221@ FAM 
+1 HUSB @P497@
+1 WIFE @P496@
+1 CHIL @P101@
+2 _FREL Natural
+2 _MREL Natural
+0 @F222@ FAM 
+1 HUSB @P536@
+1 WIFE @P535@
+1 CHIL @P497@
+2 _FREL Natural
+2 _MREL Natural
+0 @F223@ FAM 
+1 HUSB @P538@
+1 WIFE @P537@
+1 CHIL @P496@
+2 _FREL Natural
+2 _MREL Natural
+0 @F224@ FAM 
+1 HUSB @P540@
+1 WIFE @P539@
+1 CHIL @P500@
+2 _FREL Natural
+2 _MREL Natural
+0 @F225@ FAM 
+1 HUSB @P533@
+1 WIFE @P532@
+1 CHIL @P515@
+2 _FREL Natural
+2 _MREL Natural
+0 @F226@ FAM 
+1 HUSB @P542@
+1 WIFE @P541@
+1 CHIL @P533@
+2 _FREL Natural
+2 _MREL Natural
+0 @F227@ FAM 
+1 HUSB @P544@
+1 WIFE @P543@
+1 CHIL @P512@
+2 _FREL Natural
+2 _MREL Natural
+0 @F228@ FAM 
+1 HUSB @P74@
+1 WIFE @P73@
+1 CHIL @P70@
+2 _FREL Natural
+2 _MREL Natural
+0 @F229@ FAM 
+1 HUSB @P546@
+1 WIFE @P545@
+1 CHIL @P74@
+2 _FREL Natural
+2 _MREL Natural
+0 @F230@ FAM 
+1 HUSB @P549@
+1 WIFE @P548@
+1 CHIL @P547@
+2 _FREL Natural
+2 _MREL Natural
+0 @F231@ FAM 
+1 HUSB @P552@
+1 WIFE @P551@
+1 CHIL @P550@
+2 _FREL Natural
+2 _MREL Natural
+0 @F232@ FAM 
+1 HUSB @P554@
+1 WIFE @P553@
+1 CHIL @P552@
+2 _FREL Natural
+2 _MREL Natural
+0 @F233@ FAM 
+1 HUSB @P558@
+1 WIFE @P557@
+1 CHIL @P73@
+2 _FREL Natural
+2 _MREL Natural
+0 @F234@ FAM 
+1 HUSB @P187@
+1 WIFE @P186@
+1 CHIL @P185@
+2 _FREL Natural
+2 _MREL Natural
+0 @F235@ FAM 
+1 HUSB @P207@
+1 WIFE @P206@
+1 CHIL @P204@
+2 _FREL Natural
+2 _MREL Natural
+0 @F236@ FAM 
+1 HUSB @P291@
+1 WIFE @P290@
+1 CHIL @P289@
+2 _FREL Natural
+2 _MREL Natural
+0 @F237@ FAM 
+1 HUSB @P151@
+1 WIFE @P150@
+1 CHIL @P148@
+2 _FREL Natural
+2 _MREL Natural
+0 @F238@ FAM 
+1 HUSB @P567@
+1 WIFE @P566@
+1 CHIL @P172@
+2 _FREL Natural
+2 _MREL Natural
+0 @F239@ FAM 
+1 HUSB @P569@
+1 WIFE @P568@
+1 CHIL @P567@
+2 _FREL Natural
+2 _MREL Natural
+0 @F240@ FAM 
+1 HUSB @P562@
+1 WIFE @P561@
+1 CHIL @P186@
+2 _FREL Natural
+2 _MREL Natural
+0 @F241@ FAM 
+1 HUSB @P222@
+1 WIFE @P221@
+1 CHIL @P81@
+2 _FREL Natural
+2 _MREL Natural
+0 @F242@ FAM 
+1 HUSB @P572@
+1 WIFE @P571@
+1 CHIL @P222@
+2 _FREL Natural
+2 _MREL Natural
+0 @F243@ FAM 
+1 HUSB @P576@
+1 WIFE @P575@
+1 CHIL @P572@
+2 _FREL Natural
+2 _MREL Natural
+0 @F244@ FAM 
+1 HUSB @P574@
+1 WIFE @P573@
+1 CHIL @P221@
+2 _FREL Natural
+2 _MREL Natural
+0 @F245@ FAM 
+1 HUSB @P296@
+1 WIFE @P295@
+1 CHIL @P219@
+2 _FREL Natural
+2 _MREL Natural
+0 @F246@ FAM 
+1 HUSB @P36@
+1 CHIL @P30@
+2 _FREL Natural
+0 @F247@ FAM 
+1 HUSB @P292@
+1 CHIL @P123@
+2 _FREL Natural
+0 @F248@ FAM 
+1 HUSB @P138@
+1 CHIL @P136@
+2 _FREL Natural
+0 @F249@ FAM 
+1 HUSB @P143@
+1 CHIL @P142@
+2 _FREL Natural
+0 @F250@ FAM 
+1 HUSB @P565@
+1 CHIL @P151@
+2 _FREL Natural
+0 @F251@ FAM 
+1 HUSB @P297@
+1 CHIL @P157@
+2 _FREL Natural
+0 @F252@ FAM 
+1 HUSB @P173@
+1 CHIL @P166@
+2 _FREL Natural
+0 @F253@ FAM 
+1 HUSB @P172@
+1 CHIL @P171@
+2 _FREL Natural
+0 @F254@ FAM 
+1 WIFE @P382@
+1 CHIL @P178@
+2 _MREL Natural
+0 @F255@ FAM 
+1 HUSB @P381@
+1 CHIL @P179@
+2 _FREL Natural
+0 @F256@ FAM 
+1 WIFE @P560@
+1 CHIL @P187@
+2 _MREL Natural
+0 @F257@ FAM 
+1 HUSB @P192@
+1 CHIL @P191@
+2 _FREL Natural
+0 @F258@ FAM 
+1 WIFE @P559@
+1 CHIL @P192@
+2 _MREL Natural
+0 @F259@ FAM 
+1 HUSB @P201@
+1 CHIL @P200@
+2 _FREL Natural
+0 @F260@ FAM 
+1 HUSB @P218@
+1 CHIL @P213@
+2 _FREL Natural
+0 @F261@ FAM 
+1 HUSB @P241@
+1 CHIL @P239@
+2 _FREL Natural
+0 @F262@ FAM 
+1 HUSB @P257@
+1 CHIL @P244@
+2 _FREL Natural
+0 @F263@ FAM 
+1 WIFE @P256@
+1 CHIL @P244@
+2 _MREL Natural
+0 @F264@ FAM 
+1 HUSB @P260@
+1 CHIL @P246@
+2 _FREL Natural
+0 @F265@ FAM 
+1 HUSB @P265@
+1 CHIL @P252@
+2 _FREL Natural
+0 @F266@ FAM 
+1 WIFE @P272@
+1 CHIL @P258@
+2 _MREL Natural
+0 @F267@ FAM 
+1 HUSB @P263@
+1 CHIL @P262@
+2 _FREL Natural
+0 @F268@ FAM 
+1 WIFE @P264@
+1 CHIL @P262@
+2 _MREL Natural
+0 @F269@ FAM 
+1 HUSB @P273@
+1 CHIL @P265@
+2 _FREL Natural
+0 @F270@ FAM 
+1 HUSB @P274@
+1 CHIL @P267@
+2 _FREL Natural
+0 @F271@ FAM 
+1 WIFE @P275@
+1 CHIL @P267@
+2 _MREL Natural
+0 @F272@ FAM 
+1 HUSB @P298@
+1 CHIL @P273@
+2 _FREL Natural
+0 @F273@ FAM 
+1 HUSB @P284@
+1 CHIL @P279@
+2 _FREL Natural
+0 @F274@ FAM 
+1 HUSB @P287@
+1 CHIL @P283@
+2 _FREL Natural
+0 @F275@ FAM 
+1 HUSB @P563@
+1 CHIL @P291@
+2 _FREL Natural
+0 @F276@ FAM 
+1 HUSB @P327@
+1 CHIL @P321@
+2 _FREL Natural
+0 @F277@ FAM 
+1 HUSB @P328@
+1 CHIL @P327@
+2 _FREL Natural
+0 @F278@ FAM 
+1 HUSB @P335@
+1 CHIL @P334@
+2 _FREL Natural
+0 @F279@ FAM 
+1 WIFE @P336@
+1 CHIL @P334@
+2 _MREL Natural
+0 @F280@ FAM 
+1 WIFE @P339@
+1 CHIL @P338@
+2 _MREL Natural
+0 @F281@ FAM 
+1 HUSB @P417@
+1 CHIL @P350@
+2 _FREL Natural
+0 @F282@ FAM 
+1 HUSB @P356@
+1 CHIL @P354@
+2 _FREL Natural
+0 @F283@ FAM 
+1 WIFE @P361@
+1 CHIL @P357@
+2 _MREL Natural
+0 @F284@ FAM 
+1 HUSB @P362@
+1 CHIL @P360@
+2 _FREL Natural
+0 @F285@ FAM 
+1 HUSB @P365@
+1 CHIL @P361@
+2 _FREL Natural
+0 @F286@ FAM 
+1 HUSB @P368@
+1 CHIL @P366@
+2 _FREL Natural
+0 @F287@ FAM 
+1 HUSB @P386@
+1 CHIL @P375@
+2 _FREL Natural
+0 @F288@ FAM 
+1 HUSB @P385@
+1 CHIL @P379@
+2 _FREL Natural
+0 @F289@ FAM 
+1 HUSB @P389@
+1 CHIL @P382@
+2 _FREL Natural
+0 @F290@ FAM 
+1 HUSB @P400@
+1 CHIL @P399@
+2 _FREL Natural
+0 @F291@ FAM 
+1 WIFE @P407@
+1 CHIL @P403@
+2 _MREL Natural
+0 @F292@ FAM 
+1 WIFE @P408@
+1 CHIL @P406@
+2 _MREL Natural
+0 @F293@ FAM 
+1 HUSB @P409@
+1 CHIL @P408@
+2 _FREL Natural
+0 @F294@ FAM 
+1 HUSB @P410@
+1 CHIL @P409@
+2 _FREL Natural
+0 @F295@ FAM 
+1 HUSB @P414@
+1 CHIL @P411@
+2 _FREL Natural
+0 @F296@ FAM 
+1 WIFE @P413@
+1 CHIL @P412@
+2 _MREL Natural
+0 @F297@ FAM 
+1 HUSB @P427@
+1 CHIL @P422@
+2 _FREL Natural
+0 @F298@ FAM 
+1 WIFE @P426@
+1 CHIL @P423@
+2 _MREL Natural
+0 @F299@ FAM 
+1 HUSB @P447@
+1 CHIL @P445@
+2 _FREL Natural
+0 @F300@ FAM 
+1 HUSB @P454@
+1 CHIL @P450@
+2 _FREL Natural
+0 @F301@ FAM 
+1 HUSB @P456@
+1 CHIL @P452@
+2 _FREL Natural
+0 @F302@ FAM 
+1 HUSB @P455@
+1 CHIL @P453@
+2 _FREL Natural
+0 @F303@ FAM 
+1 HUSB @P457@
+1 CHIL @P455@
+2 _FREL Natural
+0 @F304@ FAM 
+1 HUSB @P460@
+1 CHIL @P456@
+2 _FREL Natural
+0 @F305@ FAM 
+1 HUSB @P458@
+1 CHIL @P457@
+2 _FREL Natural
+0 @F306@ FAM 
+1 HUSB @P459@
+1 CHIL @P458@
+2 _FREL Natural
+0 @F307@ FAM 
+1 HUSB @P485@
+1 CHIL @P474@
+2 _FREL Natural
+0 @F308@ FAM 
+1 HUSB @P492@
+1 CHIL @P486@
+2 _FREL Natural
+0 @F309@ FAM 
+1 HUSB @P493@
+1 CHIL @P490@
+2 _FREL Natural
+0 @F310@ FAM 
+1 HUSB @P534@
+1 CHIL @P494@
+2 _FREL Natural
+0 @F311@ FAM 
+1 HUSB @P514@
+1 CHIL @P513@
+2 _FREL Natural
+0 @F312@ FAM 
+1 HUSB @P525@
+1 CHIL @P519@
+2 _FREL Natural
+0 @F313@ FAM 
+1 HUSB @P526@
+1 CHIL @P522@
+2 _FREL Natural
+0 @F314@ FAM 
+1 HUSB @P547@
+1 CHIL @P546@
+2 _FREL Natural
+0 @F315@ FAM 
+1 HUSB @P556@
+1 CHIL @P548@
+2 _FREL Natural
+0 @F316@ FAM 
+1 HUSB @P550@
+1 CHIL @P549@
+2 _FREL Natural
+0 @F317@ FAM 
+1 HUSB @P555@
+1 CHIL @P554@
+2 _FREL Natural
+0 @F318@ FAM 
+1 HUSB @P564@
+1 CHIL @P563@
+2 _FREL Natural
+0 @F319@ FAM 
+1 HUSB @P570@
+1 CHIL @P566@
+2 _FREL Natural
+0 @R1103072414@ REPO
+1 NAME Ancestry.com
+0 @S1125961328@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, Electoral Rolls, 1903-1980
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1207::0
+0 @S1125961541@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, Birth Index, 1788-1922
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1778::0
+0 @S1125961553@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, Marriage Index, 1788-1950
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1780::0
+0 @S1125961557@ SOUR
+1 REPO @R1103072414@
+1 TITL Victoria, Australia, Wills and Probate Records, 1841-2009
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc.
+1 _APID 1,61315::0
+0 @S1125961585@ SOUR
+1 REPO @R1103072414@
+1 TITL Ireland, Selections of Catholic Parish Baptisms, 1742-1881
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,2195::0
+0 @S1125961604@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, Death Index, 1787-1985
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1779::0
+0 @S1125961638@ SOUR
+1 REPO @R1103072414@
+1 TITL Ireland, Catholic Parish Registers, 1655-1915
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61039::0
+0 @S1126533610@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, City Directories, 1845-1948
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60845::0
+0 @S1130678555@ SOUR
+1 REPO @R1103072414@
+1 TITL Victoria, Australia, Marriage Index, 1837-1950
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61649::0
+0 @S1130714545@ SOUR
+1 REPO @R1103072414@
+1 TITL Ancestry Family Trees
+1 PUBL Online publication - Provo, UT, USA: Ancestry.com.  Original data:  Family Tree files submitted by Ancestry members.
+0 @S1130714549@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia, World War II Military Service Records, 1939-1945
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61172::0
+0 @S1132703063@ SOUR
+1 REPO @R1103072414@
+1 TITL South Australia Government Gazettes 1867-1884
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,1975::0
+0 @S1132844722@ SOUR
+1 REPO @R1103072414@
+1 TITL Victoria, Australia, Birth Index, 1837-1917
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61648::0
+0 @S1132844727@ SOUR
+1 REPO @R1103072414@
+1 TITL Victoria, Australia, Death Index, 1836-1988
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,61650::0
+0 @S1139353413@ SOUR
+1 REPO @R1103072414@
+1 TITL Web: Australia, Convict Records Index, 1787-1867
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,70852::0
+0 @S1144257560@ SOUR
+1 REPO @R1103072414@
+1 TITL Australia and New Zealand, Find A Grave Index, 1800s-Current
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations, Inc.
+1 _APID 1,60528::0
+0 @S1144258320@ SOUR
+1 REPO @R1103072414@
+1 TITL Victoria, Australia, Assisted and Unassisted Passenger Lists, 1839-1923
+1 AUTH Ancestry.com
+1 PUBL Ancestry.com Operations Inc.
+1 _APID 1,1635::0
+0 TRLR

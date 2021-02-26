@@ -1,0 +1,87 @@
+0 HEAD
+1 CHAR UTF-8
+1 GEDC
+2 VERS 5.5
+2 FORM LINEAGE-LINKED
+0 @P1@ INDI
+1 BIRT
+2 DATE 5 MAY 1999
+2 PLAC Ballarat,Victoria,Australia
+1 SEX M
+1 NAME Peter /Smith/
+1 FAMC @F1@
+0 @P2@ INDI
+1 BIRT
+2 DATE 9 March 1969
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Sally /Jones/
+1 FAMC @F2@
+1 FAMS @F1@
+0 @P3@ INDI
+1 BIRT
+2 DATE 10 June 1963
+2 PLAC Melbourne, Victoria, Australia
+1 SEX M
+1 FAMC @F3@
+1 FAMS @F1@
+1 NAME Greg /Smith/
+0 @P4@ INDI
+1 BIRT
+2 DATE 15 February 1939
+2 PLAC Ballarat, Victoria, Australia
+1 DEAT
+2 DATE 1 June 1985
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Amanda /Richardson/
+1 FAMS @F2@
+0 @P5@ INDI
+1 BIRT
+2 DATE 10 August 1934
+2 PLAC Ballan, Victoria, Australia
+1 DEAT
+2 DATE 2 January 1981
+2 PLAC Ballarat, Victoria, Australia
+1 SEX M
+1 NAME John /Jones/
+1 FAMS @F2@
+0 @P6@ INDI
+1 BIRT
+2 DATE 15 September 1941
+2 PLAC Ballarat, Victoria, Australia
+1 DEAT
+2 DATE 14 October 1991
+2 PLAC Ballarat, Victoria, Australia
+1 SEX F
+1 NAME Bella /Clark/
+1 FAMS @F3@
+0 @P7@ INDI
+1 BIRT
+2 DATE 9 December 1929
+2 PLAC Melbourne, Victoria, Australia
+1 DEAT
+2 DATE 27 April 1992
+2 PLAC Melbourne, Victoria, Australia
+1 SEX M
+1 NAME Dilbert /Smith/
+1 FAMS @F3@
+0 @F1@ FAM
+1 HUSB @P3@
+1 WIFE @P2@
+1 CHIL @P1@
+2 _FREL Natural
+2 _MREL Natural
+0 @F2@ FAM
+1 HUSB @P5@
+1 WIFE @P4@
+1 CHIL @P2@
+2 _FREL Natural
+2 _MREL Natural
+0 @F3@ FAM
+1 HUSB @P7@
+1 WIFE @P6@
+1 CHIL @P3@
+2 _FREL Natural
+2 _MREL Natural 
+0 TRLR

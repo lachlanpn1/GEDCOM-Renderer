@@ -1,0 +1,11 @@
+﻿<Application x:Class="GEDCOMRenderer2.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:GEDCOMRenderer2"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="SpouseLineBrush" Color="Gray"></SolidColorBrush>
+        <SolidColorBrush x:Key="ChildLineBrush" Color="Gray"></SolidColorBrush>
+        <SolidColorBrush x:Key="ParentLineBrush" Color="Gray"></SolidColorBrush>
+    </Application.Resources>
+</Application>

@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="GEDCOMRenderer2.TreeMember"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:GEDCOMRenderer2.Properties"
+             mc:Ignorable="d" 
+             d:DesignHeight="{Binding Source={x:Static local:Settings.Default},Path=TreeMemberHeight}" d:DesignWidth="{Binding Source={x:Static local:Settings.Default},Path=TreeMemberWidth}">
+    <Grid>
+        <StackPanel Height="{Binding TREE_MEMBER_HEIGHT, Mode=OneWay}">
+            <TextBlock x:Name="TreeMemberName" HorizontalAlignment="Center" VerticalAlignment="Top"></TextBlock>
+            <TextBlock x:Name="TreeMemberDate" HorizontalAlignment="Center" VerticalAlignment="Top" Foreground="DarkSlateGray"></TextBlock>
+        </StackPanel>
+    </Grid>
+</UserControl>
